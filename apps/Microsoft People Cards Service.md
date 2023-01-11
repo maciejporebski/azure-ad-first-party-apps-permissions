@@ -1,0 +1,20 @@
+# Microsoft People Cards Service
+- [Application Permissions](#application-permissions)
+- [Delegated Permissions](#delegated-permissions)
+
+## App Id
+394866fc-eedb-4f01-8536-3ff84b16be2a
+
+## Application Permissions
+Your application runs as a background service or daemon without a signed-in user.
+
+| Role | Role Id | Display Name | Description |
+|---|---|---|---|
+
+## Delegated Permissions
+Your application needs to access the API as the signed-in user. 
+
+| Role | Role Id | Display Name | Description |
+|---|---|---|---|
+| User.Read.All | 07c496ee-38d1-46df-b73d-45e1ff46d11e | Access to log on | Access the Office People API |
+
