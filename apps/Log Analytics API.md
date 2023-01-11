@@ -1,9 +1,6 @@
-# Log Analytics API
+# Log Analytics API (ca7f3f0b-7d91-482c-8e09-c5d840d0eac5)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-ca7f3f0b-7d91-482c-8e09-c5d840d0eac5
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

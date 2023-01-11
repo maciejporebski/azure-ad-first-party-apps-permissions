@@ -1,9 +1,6 @@
-# Dynamics Data Integration
+# Dynamics Data Integration (2e49aa60-1bd3-43b6-8ab6-03ada3d9f08b)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2e49aa60-1bd3-43b6-8ab6-03ada3d9f08b
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

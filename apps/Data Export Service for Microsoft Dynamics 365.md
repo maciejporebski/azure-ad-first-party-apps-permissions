@@ -1,9 +1,6 @@
-# Data Export Service for Microsoft Dynamics 365
+# Data Export Service for Microsoft Dynamics 365 (b861dbcc-a7ef-4219-a005-0e4de4ea7dcf)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b861dbcc-a7ef-4219-a005-0e4de4ea7dcf
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Microsoft Dynamics 365 Supply Chain Visibility
+# Microsoft Dynamics 365 Supply Chain Visibility (d6037e40-282c-493d-8f63-f255e36c6ef4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-d6037e40-282c-493d-8f63-f255e36c6ef4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

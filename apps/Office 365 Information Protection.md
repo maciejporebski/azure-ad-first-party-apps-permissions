@@ -1,9 +1,6 @@
-# Office 365 Information Protection
+# Office 365 Information Protection (2f3f02c9-5679-4a5c-a605-0de55b07d135)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2f3f02c9-5679-4a5c-a605-0de55b07d135
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Microsoft Customer Engagement Portal
+# Microsoft Customer Engagement Portal (71234da4-b92f-429d-b8ec-6e62652e50d7)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-71234da4-b92f-429d-b8ec-6e62652e50d7
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

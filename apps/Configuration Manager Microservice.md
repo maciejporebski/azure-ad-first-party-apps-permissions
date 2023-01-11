@@ -1,9 +1,6 @@
-# Configuration Manager Microservice
+# Configuration Manager Microservice (557c67cf-c916-4293-8373-d584996f60ae)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-557c67cf-c916-4293-8373-d584996f60ae
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Graph Connector Service
+# Graph Connector Service (56c1da01-2129-48f7-9355-af6d59d42766)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-56c1da01-2129-48f7-9355-af6d59d42766
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

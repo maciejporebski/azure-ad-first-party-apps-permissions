@@ -1,9 +1,6 @@
-# Office Shredding Service
+# Office Shredding Service (b97b6bd4-a49f-4a0c-af18-af507d1da76c)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b97b6bd4-a49f-4a0c-af18-af507d1da76c
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

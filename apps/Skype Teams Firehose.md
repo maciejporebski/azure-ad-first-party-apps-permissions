@@ -1,9 +1,6 @@
-# Skype Teams Firehose
+# Skype Teams Firehose (cdccd920-384b-4a25-897d-75161a4b74c1)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-cdccd920-384b-4a25-897d-75161a4b74c1
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

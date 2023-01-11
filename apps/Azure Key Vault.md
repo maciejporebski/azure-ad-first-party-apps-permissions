@@ -1,9 +1,6 @@
-# Azure Key Vault
+# Azure Key Vault (cfa8b339-82a2-471a-a3c9-0fc0be7a4093)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-cfa8b339-82a2-471a-a3c9-0fc0be7a4093
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

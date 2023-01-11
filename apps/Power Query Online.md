@@ -1,9 +1,6 @@
-# Power Query Online
+# Power Query Online (f3b07414-6bf4-46e6-b63f-56941f3f4128)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f3b07414-6bf4-46e6-b63f-56941f3f4128
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

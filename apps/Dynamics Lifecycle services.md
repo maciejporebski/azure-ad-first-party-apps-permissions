@@ -1,9 +1,6 @@
-# Dynamics Lifecycle services
+# Dynamics Lifecycle services (913c6de4-2a4a-4a61-a9ce-945d2b2ce2e0)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-913c6de4-2a4a-4a61-a9ce-945d2b2ce2e0
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

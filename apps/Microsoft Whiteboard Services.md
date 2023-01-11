@@ -1,9 +1,6 @@
-# Microsoft Whiteboard Services
+# Microsoft Whiteboard Services (95de633a-083e-42f5-b444-a4295d8e9314)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-95de633a-083e-42f5-b444-a4295d8e9314
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

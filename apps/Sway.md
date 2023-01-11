@@ -1,9 +1,6 @@
-# Sway
+# Sway (905fcf26-4eb7-48a0-9ff0-8dcc7194b5ba)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-905fcf26-4eb7-48a0-9ff0-8dcc7194b5ba
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

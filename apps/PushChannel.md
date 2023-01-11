@@ -1,9 +1,6 @@
-# PushChannel
+# PushChannel (4747d38e-36c5-4bc3-979b-b0ef74df54d1)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-4747d38e-36c5-4bc3-979b-b0ef74df54d1
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

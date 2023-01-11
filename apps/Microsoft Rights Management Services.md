@@ -1,9 +1,6 @@
-# Microsoft Rights Management Services
+# Microsoft Rights Management Services (00000012-0000-0000-c000-000000000000)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-00000012-0000-0000-c000-000000000000
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

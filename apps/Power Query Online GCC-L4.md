@@ -1,9 +1,6 @@
-# Power Query Online GCC-L4
+# Power Query Online GCC-L4 (ef947699-9b52-4b31-9a37-ef325c6ffc47)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-ef947699-9b52-4b31-9a37-ef325c6ffc47
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

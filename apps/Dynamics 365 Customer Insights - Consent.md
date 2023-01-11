@@ -1,9 +1,6 @@
-# Dynamics 365 Customer Insights - Consent
+# Dynamics 365 Customer Insights - Consent (9e3b502c-b4a1-441d-98fd-28e482bf7e88)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9e3b502c-b4a1-441d-98fd-28e482bf7e88
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

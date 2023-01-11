@@ -1,9 +1,6 @@
-# Branch Connect Web Service
+# Branch Connect Web Service (57084ef3-d413-4087-a28f-f6f3b1ad7786)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-57084ef3-d413-4087-a28f-f6f3b1ad7786
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

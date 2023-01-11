@@ -1,9 +1,6 @@
-# Azure Communication Services
+# Azure Communication Services (1fd5118e-2576-4263-8130-9503064c837a)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-1fd5118e-2576-4263-8130-9503064c837a
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

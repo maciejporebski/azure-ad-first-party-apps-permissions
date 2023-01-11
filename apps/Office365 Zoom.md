@@ -1,9 +1,6 @@
-# Office365 Zoom
+# Office365 Zoom (0d38933a-0bbd-41ca-9ebd-28c4b5ba7cb7)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-0d38933a-0bbd-41ca-9ebd-28c4b5ba7cb7
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

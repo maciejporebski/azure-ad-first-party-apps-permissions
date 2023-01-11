@@ -1,9 +1,6 @@
-# Microsoft Teams UIS
+# Microsoft Teams UIS (1996141e-2b07-4491-927a-5a024b335c78)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-1996141e-2b07-4491-927a-5a024b335c78
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

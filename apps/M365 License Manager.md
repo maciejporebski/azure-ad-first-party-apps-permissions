@@ -1,9 +1,6 @@
-# M365 License Manager
+# M365 License Manager (aeb86249-8ea3-49e2-900b-54cc8e308f85)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-aeb86249-8ea3-49e2-900b-54cc8e308f85
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

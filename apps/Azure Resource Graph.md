@@ -1,9 +1,6 @@
-# Azure Resource Graph
+# Azure Resource Graph (509e4652-da8d-478d-a730-e9d4a1996ca4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-509e4652-da8d-478d-a730-e9d4a1996ca4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

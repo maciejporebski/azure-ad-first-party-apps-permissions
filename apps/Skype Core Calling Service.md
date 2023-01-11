@@ -1,9 +1,6 @@
-# Skype Core Calling Service
+# Skype Core Calling Service (66c23536-2118-49d3-bc66-54730b057680)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-66c23536-2118-49d3-bc66-54730b057680
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

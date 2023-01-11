@@ -1,9 +1,6 @@
-# Skype for Business Management Reporting and Analytics - Legacy
+# Skype for Business Management Reporting and Analytics - Legacy (de17788e-c765-4d31-aba4-fb837cfff174)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-de17788e-c765-4d31-aba4-fb837cfff174
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

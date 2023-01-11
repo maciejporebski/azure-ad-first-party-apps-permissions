@@ -1,9 +1,6 @@
-# Office 365 Mover
+# Office 365 Mover (d62121f3-e023-4972-b6b0-794190c0fd98)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-d62121f3-e023-4972-b6b0-794190c0fd98
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# TeamsChatServiceApp
+# TeamsChatServiceApp (4cba1704-a0c1-45ee-9d41-fe75b4ef9190)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-4cba1704-a0c1-45ee-9d41-fe75b4ef9190
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

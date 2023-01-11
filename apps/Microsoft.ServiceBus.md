@@ -1,9 +1,6 @@
-# Microsoft.ServiceBus
+# Microsoft.ServiceBus (80a10ef9-8168-493d-abf9-3297c4ef6e3c)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-80a10ef9-8168-493d-abf9-3297c4ef6e3c
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

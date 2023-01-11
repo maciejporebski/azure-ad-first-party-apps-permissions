@@ -1,9 +1,6 @@
-# DeploymentScheduler
+# DeploymentScheduler (8bbf8725-b3ca-4468-a217-7c8da873186e)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-8bbf8725-b3ca-4468-a217-7c8da873186e
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

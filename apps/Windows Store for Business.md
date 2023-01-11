@@ -1,9 +1,6 @@
-# Windows Store for Business
+# Windows Store for Business (45a330b1-b1ec-4cc1-9161-9f03992aa49f)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-45a330b1-b1ec-4cc1-9161-9f03992aa49f
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Targeted Messaging Service
+# Targeted Messaging Service (4c4f550b-42b2-4a16-93f9-fdb9e01bb6ed)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-4c4f550b-42b2-4a16-93f9-fdb9e01bb6ed
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

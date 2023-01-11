@@ -1,9 +1,6 @@
-# IC3 Long Running Operations Service
+# IC3 Long Running Operations Service (21a8a852-89f4-4947-a374-b26b2db3d365)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-21a8a852-89f4-4947-a374-b26b2db3d365
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

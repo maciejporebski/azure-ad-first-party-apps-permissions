@@ -1,9 +1,6 @@
-# Windows Update for Business Deployment Service
+# Windows Update for Business Deployment Service (61ae9cd9-7bca-458c-affc-861e2f24ba3b)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-61ae9cd9-7bca-458c-affc-861e2f24ba3b
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

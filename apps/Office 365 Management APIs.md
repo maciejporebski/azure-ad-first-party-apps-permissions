@@ -1,9 +1,6 @@
-# Office 365 Management APIs
+# Office 365 Management APIs (c5393580-f805-4401-95e8-94b7a6ef2fc2)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c5393580-f805-4401-95e8-94b7a6ef2fc2
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Microsoft Teams Retail Service
+# Microsoft Teams Retail Service (75efb5bc-18a1-4e7b-8a66-2ad2503d79c6)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-75efb5bc-18a1-4e7b-8a66-2ad2503d79c6
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

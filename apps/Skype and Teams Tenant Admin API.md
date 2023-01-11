@@ -1,9 +1,6 @@
-# Skype and Teams Tenant Admin API
+# Skype and Teams Tenant Admin API (48ac35b8-9aa8-4d74-927d-1f4a14a0b239)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-48ac35b8-9aa8-4d74-927d-1f4a14a0b239
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Office 365 SharePoint Online
+# Office 365 SharePoint Online (00000003-0000-0ff1-ce00-000000000000)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-00000003-0000-0ff1-ce00-000000000000
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

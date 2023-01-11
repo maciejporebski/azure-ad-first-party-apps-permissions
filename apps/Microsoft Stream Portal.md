@@ -1,9 +1,6 @@
-# Microsoft Stream Portal
+# Microsoft Stream Portal (cf53fce8-def6-4aeb-8d30-b158e7b1cf83)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-cf53fce8-def6-4aeb-8d30-b158e7b1cf83
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

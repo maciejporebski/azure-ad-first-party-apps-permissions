@@ -1,9 +1,6 @@
-# OCaaS Client Interaction Service
+# OCaaS Client Interaction Service (c2ada927-a9e2-4564-aae2-70775a2fa0af)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c2ada927-a9e2-4564-aae2-70775a2fa0af
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

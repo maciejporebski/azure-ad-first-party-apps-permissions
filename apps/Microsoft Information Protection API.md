@@ -1,9 +1,6 @@
-# Microsoft Information Protection API
+# Microsoft Information Protection API (40775b29-2688-46b6-a3b5-b256bd04df9f)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-40775b29-2688-46b6-a3b5-b256bd04df9f
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

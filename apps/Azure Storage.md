@@ -1,9 +1,6 @@
-# Azure Storage
+# Azure Storage (e406a681-f3d4-42a8-90b6-c2b029497af1)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-e406a681-f3d4-42a8-90b6-c2b029497af1
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

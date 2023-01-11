@@ -1,9 +1,6 @@
-# ConnectionsService
+# ConnectionsService (b7912db9-aa33-4820-9d4f-709830fdd78f)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b7912db9-aa33-4820-9d4f-709830fdd78f
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# MicrosoftEndpointDLP
+# MicrosoftEndpointDLP (c98e5057-edde-4666-b301-186a01b4dc58)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c98e5057-edde-4666-b301-186a01b4dc58
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

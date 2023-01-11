@@ -1,9 +1,6 @@
-# RPA - Machine Management Relay Service
+# RPA - Machine Management Relay Service (aad3e70f-aa64-4fde-82aa-c9d97a4501dc)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-aad3e70f-aa64-4fde-82aa-c9d97a4501dc
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

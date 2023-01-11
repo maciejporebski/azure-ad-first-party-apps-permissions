@@ -1,9 +1,6 @@
-# Audit Search Api Service
+# Audit Search Api Service (e158eb19-34ac-4d1b-a930-ec92172f7a97)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-e158eb19-34ac-4d1b-a930-ec92172f7a97
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

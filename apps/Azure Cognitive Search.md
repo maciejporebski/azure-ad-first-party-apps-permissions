@@ -1,9 +1,6 @@
-# Azure Cognitive Search
+# Azure Cognitive Search (880da380-985e-4198-81b9-e05b1cc53158)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-880da380-985e-4198-81b9-e05b1cc53158
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

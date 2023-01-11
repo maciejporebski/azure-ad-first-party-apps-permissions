@@ -1,9 +1,6 @@
-# Microsoft Service Trust
+# Microsoft Service Trust (d6fdaa33-e821-4211-83d0-cf74736489e1)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-d6fdaa33-e821-4211-83d0-cf74736489e1
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

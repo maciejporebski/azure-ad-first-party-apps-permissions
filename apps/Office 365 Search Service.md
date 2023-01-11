@@ -1,9 +1,6 @@
-# Office 365 Search Service
+# Office 365 Search Service (66a88757-258c-4c72-893c-3e8bed4d6899)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-66a88757-258c-4c72-893c-3e8bed4d6899
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

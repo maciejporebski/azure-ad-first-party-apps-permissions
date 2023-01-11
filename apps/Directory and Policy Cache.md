@@ -1,9 +1,6 @@
-# Directory and Policy Cache
+# Directory and Policy Cache (7b58f833-4438-494c-a724-234928795a67)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-7b58f833-4438-494c-a724-234928795a67
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

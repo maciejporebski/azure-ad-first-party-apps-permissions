@@ -1,9 +1,6 @@
-# Windows Virtual Desktop
+# Windows Virtual Desktop (9cdead84-a844-4324-93f2-b2e6bb768d07)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9cdead84-a844-4324-93f2-b2e6bb768d07
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

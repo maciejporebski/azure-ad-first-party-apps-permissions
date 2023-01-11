@@ -1,9 +1,6 @@
-# Microsoft Intune AAD BitLocker Recovery Key Integration
+# Microsoft Intune AAD BitLocker Recovery Key Integration (ccf4d8df-75ce-4107-8ea5-7afd618d4d8a)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-ccf4d8df-75ce-4107-8ea5-7afd618d4d8a
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

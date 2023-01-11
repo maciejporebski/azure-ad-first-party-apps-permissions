@@ -1,9 +1,6 @@
-# Omnichannel for CS CRM ClientApp Primary
+# Omnichannel for CS CRM ClientApp Primary (d9ce8cfa-8bd8-4ff1-b39b-5e5dd5742935)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-d9ce8cfa-8bd8-4ff1-b39b-5e5dd5742935
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

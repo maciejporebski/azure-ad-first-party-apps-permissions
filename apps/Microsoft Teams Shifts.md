@@ -1,9 +1,6 @@
-# Microsoft Teams Shifts
+# Microsoft Teams Shifts (aa580612-c342-4ace-9055-8edee43ccb89)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-aa580612-c342-4ace-9055-8edee43ccb89
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

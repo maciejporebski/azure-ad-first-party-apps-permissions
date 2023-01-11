@@ -1,9 +1,6 @@
-# Microsoft Information Protection Sync Service
+# Microsoft Information Protection Sync Service (870c4f2e-85b6-4d43-bdda-6ed9a579b725)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-870c4f2e-85b6-4d43-bdda-6ed9a579b725
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

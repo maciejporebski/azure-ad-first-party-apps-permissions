@@ -1,9 +1,6 @@
-# Microsoft Teams Services
+# Microsoft Teams Services (cc15fd57-2c6c-4117-a88c-83b1d56b4bbe)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-cc15fd57-2c6c-4117-a88c-83b1d56b4bbe
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

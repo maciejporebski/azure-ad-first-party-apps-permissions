@@ -1,9 +1,6 @@
-# Search Federation Connector - Dataverse
+# Search Federation Connector - Dataverse (9c60a40b-b5c5-4d01-8588-776209c80db3)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9c60a40b-b5c5-4d01-8588-776209c80db3
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Dynamics 365 Business Central
+# Dynamics 365 Business Central (996def3d-b36c-4153-8607-a6fd3c01b89f)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-996def3d-b36c-4153-8607-a6fd3c01b89f
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

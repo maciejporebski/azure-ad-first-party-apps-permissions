@@ -1,9 +1,6 @@
-# Microsoft.MileIQ.RESTService
+# Microsoft.MileIQ.RESTService (b692184e-b47f-4706-b352-84b288d2d9ee)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b692184e-b47f-4706-b352-84b288d2d9ee
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

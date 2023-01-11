@@ -1,9 +1,6 @@
-# Microsoft Azure Stream Analytics
+# Microsoft Azure Stream Analytics (66f1e791-7bfb-4e18-aed8-1720056421c7)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-66f1e791-7bfb-4e18-aed8-1720056421c7
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

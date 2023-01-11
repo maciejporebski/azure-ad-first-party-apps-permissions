@@ -1,9 +1,6 @@
-# IAM Supportability
+# IAM Supportability (a57aca87-cbc0-4f3c-8b9e-dc095fdc8978)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-a57aca87-cbc0-4f3c-8b9e-dc095fdc8978
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

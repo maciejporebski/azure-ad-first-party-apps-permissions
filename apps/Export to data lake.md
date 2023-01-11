@@ -1,9 +1,6 @@
-# Export to data lake
+# Export to data lake (7f15f9d9-cad0-44f1-bbba-d36650e07765)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-7f15f9d9-cad0-44f1-bbba-d36650e07765
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

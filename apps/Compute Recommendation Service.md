@@ -1,9 +1,6 @@
-# Compute Recommendation Service
+# Compute Recommendation Service (b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

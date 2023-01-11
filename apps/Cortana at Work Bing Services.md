@@ -1,9 +1,6 @@
-# Cortana at Work Bing Services
+# Cortana at Work Bing Services (22d7579f-06c2-4baa-89d2-e844486adb9d)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-22d7579f-06c2-4baa-89d2-e844486adb9d
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

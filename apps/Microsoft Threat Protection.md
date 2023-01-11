@@ -1,9 +1,6 @@
-# Microsoft Threat Protection
+# Microsoft Threat Protection (8ee8fdad-f234-4243-8f3b-15c294843740)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-8ee8fdad-f234-4243-8f3b-15c294843740
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

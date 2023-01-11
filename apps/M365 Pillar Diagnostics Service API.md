@@ -1,9 +1,6 @@
-# M365 Pillar Diagnostics Service API
+# M365 Pillar Diagnostics Service API (8bea2130-23a1-4c09-acfb-637a9fb7c157)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-8bea2130-23a1-4c09-acfb-637a9fb7c157
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

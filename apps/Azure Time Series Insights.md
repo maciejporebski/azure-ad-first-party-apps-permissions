@@ -1,9 +1,6 @@
-# Azure Time Series Insights
+# Azure Time Series Insights (120d688d-1518-4cf7-bd38-182f158850b6)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-120d688d-1518-4cf7-bd38-182f158850b6
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

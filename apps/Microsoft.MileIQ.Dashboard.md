@@ -1,9 +1,6 @@
-# Microsoft.MileIQ.Dashboard
+# Microsoft.MileIQ.Dashboard (f7069a8d-9edc-4300-b365-ae53c9627fc4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f7069a8d-9edc-4300-b365-ae53c9627fc4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

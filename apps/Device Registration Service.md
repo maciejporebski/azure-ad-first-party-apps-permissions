@@ -1,9 +1,6 @@
-# Device Registration Service
+# Device Registration Service (01cb2876-7ebd-4aa4-9cc9-d28bd4d359a9)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-01cb2876-7ebd-4aa4-9cc9-d28bd4d359a9
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

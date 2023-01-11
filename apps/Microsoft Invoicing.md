@@ -1,9 +1,6 @@
-# Microsoft Invoicing
+# Microsoft Invoicing (b6b84568-6c01-4981-a80f-09da9a20bbed)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b6b84568-6c01-4981-a80f-09da9a20bbed
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

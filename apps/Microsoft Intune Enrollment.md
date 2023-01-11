@@ -1,9 +1,6 @@
-# Microsoft Intune Enrollment
+# Microsoft Intune Enrollment (d4ebce55-015a-49b5-a083-c84d1797ae8c)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-d4ebce55-015a-49b5-a083-c84d1797ae8c
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

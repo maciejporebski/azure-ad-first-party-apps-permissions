@@ -1,9 +1,6 @@
-# DirectoryLookupService
+# DirectoryLookupService (9cd0f7df-8b1a-4e54-8c0c-0ef3a51116f6)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9cd0f7df-8b1a-4e54-8c0c-0ef3a51116f6
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

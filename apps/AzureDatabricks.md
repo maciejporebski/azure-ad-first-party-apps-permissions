@@ -1,9 +1,6 @@
-# AzureDatabricks
+# AzureDatabricks (2ff814a6-3304-4ab8-85cb-cd0e6f879c1d)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2ff814a6-3304-4ab8-85cb-cd0e6f879c1d
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

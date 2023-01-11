@@ -1,9 +1,6 @@
-# Teams and Skype for Business Administration
+# Teams and Skype for Business Administration (39624784-6cbe-4a60-afbe-9f46d10fdb27)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-39624784-6cbe-4a60-afbe-9f46d10fdb27
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

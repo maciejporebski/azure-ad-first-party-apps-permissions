@@ -1,9 +1,6 @@
-# ComplianceAuthServer
+# ComplianceAuthServer (9e5d84af-8971-422f-968a-354cd675ae5b)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9e5d84af-8971-422f-968a-354cd675ae5b
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

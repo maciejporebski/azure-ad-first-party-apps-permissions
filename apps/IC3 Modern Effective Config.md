@@ -1,9 +1,6 @@
-# IC3 Modern Effective Config
+# IC3 Modern Effective Config (f6e5c0c2-4746-4152-b162-91309d5556df)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f6e5c0c2-4746-4152-b162-91309d5556df
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

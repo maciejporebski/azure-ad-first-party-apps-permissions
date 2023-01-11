@@ -1,9 +1,6 @@
-# Bot Framework Dev Portal
+# Bot Framework Dev Portal (f3723d34-6ff5-4ceb-a148-d99dcd2511fc)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f3723d34-6ff5-4ceb-a148-d99dcd2511fc
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Microsoft Teams Targeting Application
+# Microsoft Teams Targeting Application (8e14e873-35ba-4720-b787-0bed94370b17)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-8e14e873-35ba-4720-b787-0bed94370b17
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

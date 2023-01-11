@@ -1,9 +1,6 @@
-# OneLTI
+# OneLTI (d3ee6f25-becc-4659-9bc6-bbe6af7d18e6)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-d3ee6f25-becc-4659-9bc6-bbe6af7d18e6
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

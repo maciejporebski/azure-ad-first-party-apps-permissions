@@ -1,9 +1,6 @@
-# Azure Container Registry
+# Azure Container Registry (6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

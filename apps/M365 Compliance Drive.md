@@ -1,9 +1,6 @@
-# M365 Compliance Drive
+# M365 Compliance Drive (cedebc57-38a2-4f0a-8472-dfcbba5b04c6)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-cedebc57-38a2-4f0a-8472-dfcbba5b04c6
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

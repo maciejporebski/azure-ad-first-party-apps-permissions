@@ -1,9 +1,6 @@
-# Microsoft Intune API
+# Microsoft Intune API (c161e42e-d4df-4a3d-9b42-e7a3c31f59d4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c161e42e-d4df-4a3d-9b42-e7a3c31f59d4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

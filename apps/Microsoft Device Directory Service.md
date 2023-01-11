@@ -1,9 +1,6 @@
-# Microsoft Device Directory Service
+# Microsoft Device Directory Service (8f41dc7c-542c-4bdd-8eb3-e60543f607ca)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-8f41dc7c-542c-4bdd-8eb3-e60543f607ca
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

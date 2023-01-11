@@ -1,9 +1,6 @@
-# Omnichannel for CS Provisioning App Primary
+# Omnichannel for CS Provisioning App Primary (3957683c-3a48-4a6c-8706-a6e2d6883b02)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-3957683c-3a48-4a6c-8706-a6e2d6883b02
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

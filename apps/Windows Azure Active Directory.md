@@ -1,9 +1,6 @@
-# Windows Azure Active Directory
+# Windows Azure Active Directory (00000002-0000-0000-c000-000000000000)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-00000002-0000-0000-c000-000000000000
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

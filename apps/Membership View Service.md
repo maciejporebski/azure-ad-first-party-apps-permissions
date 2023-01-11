@@ -1,9 +1,6 @@
-# Membership View Service
+# Membership View Service (f7a2a81e-ab33-4560-a3dd-6ddca3c5ec6d)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f7a2a81e-ab33-4560-a3dd-6ddca3c5ec6d
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

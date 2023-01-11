@@ -1,9 +1,6 @@
-# Office Scripts Service
+# Office Scripts Service (62fd1447-0ef3-4ab7-a956-7dd05232ecc1)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-62fd1447-0ef3-4ab7-a956-7dd05232ecc1
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

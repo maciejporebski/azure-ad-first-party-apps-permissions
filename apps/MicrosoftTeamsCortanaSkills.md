@@ -1,9 +1,6 @@
-# MicrosoftTeamsCortanaSkills
+# MicrosoftTeamsCortanaSkills (2bb78a2a-f8f1-4bc3-8ecf-c1e15a0726e6)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2bb78a2a-f8f1-4bc3-8ecf-c1e15a0726e6
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

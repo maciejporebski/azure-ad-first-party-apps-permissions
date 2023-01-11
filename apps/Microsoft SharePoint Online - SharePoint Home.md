@@ -1,9 +1,6 @@
-# Microsoft SharePoint Online - SharePoint Home
+# Microsoft SharePoint Online - SharePoint Home (dcad865d-9257-4521-ad4d-bae3e137b345)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-dcad865d-9257-4521-ad4d-bae3e137b345
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

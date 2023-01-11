@@ -1,9 +1,6 @@
-# Office Hive
+# Office Hive (166f1b03-5b19-416f-a94b-1d7aa2d247dc)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-166f1b03-5b19-416f-a94b-1d7aa2d247dc
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

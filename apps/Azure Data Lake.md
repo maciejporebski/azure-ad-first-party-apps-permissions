@@ -1,9 +1,6 @@
-# Azure Data Lake
+# Azure Data Lake (e9f49c6b-5ce5-44c8-925d-015017e9f7ad)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-e9f49c6b-5ce5-44c8-925d-015017e9f7ad
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# MileIQ Admin Center
+# MileIQ Admin Center (de096ee1-dae7-4ee1-8dd5-d88ccc473815)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-de096ee1-dae7-4ee1-8dd5-d88ccc473815
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Call Recorder
+# Call Recorder (4580fd1d-e5a3-4f56-9ad1-aab0e3bf8f76)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-4580fd1d-e5a3-4f56-9ad1-aab0e3bf8f76
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

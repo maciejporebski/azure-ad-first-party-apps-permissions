@@ -1,9 +1,6 @@
-# Azure Maps
+# Azure Maps (ba1ea022-5807-41d5-bbeb-292c7e1cf5f6)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-ba1ea022-5807-41d5-bbeb-292c7e1cf5f6
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Office365 Shell SS-Server
+# Office365 Shell SS-Server (e8bdeda8-b4a3-4eed-b307-5e2456238a77)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-e8bdeda8-b4a3-4eed-b307-5e2456238a77
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

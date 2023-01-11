@@ -1,9 +1,6 @@
-# Microsoft Cognitive Services
+# Microsoft Cognitive Services (7d312290-28c8-473c-a0ed-8e53749b6d6d)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-7d312290-28c8-473c-a0ed-8e53749b6d6d
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

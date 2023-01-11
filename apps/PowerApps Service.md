@@ -1,9 +1,6 @@
-# PowerApps Service
+# PowerApps Service (475226c6-020e-4fb2-8a90-7a972cbfc1d4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-475226c6-020e-4fb2-8a90-7a972cbfc1d4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Teams EHR Connector
+# Teams EHR Connector (e97edbaf-39b2-4546-ba61-0a24e1bef890)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-e97edbaf-39b2-4546-ba61-0a24e1bef890
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

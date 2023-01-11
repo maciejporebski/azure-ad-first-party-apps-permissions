@@ -1,9 +1,6 @@
-# Virtual Visit APIs
+# Virtual Visit APIs (5cfe643a-dd84-4d45-834d-c8d659a72a48)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-5cfe643a-dd84-4d45-834d-c8d659a72a48
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

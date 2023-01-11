@@ -1,9 +1,6 @@
-# Azure DevOps
+# Azure DevOps (499b84ac-1321-427f-aa17-267ca6975798)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-499b84ac-1321-427f-aa17-267ca6975798
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

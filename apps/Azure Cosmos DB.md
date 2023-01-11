@@ -1,9 +1,6 @@
-# Azure Cosmos DB
+# Azure Cosmos DB (a232010e-820c-4083-83bb-3ace5fc29d0b)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-a232010e-820c-4083-83bb-3ace5fc29d0b
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Azure SQL Database
+# Azure SQL Database (022907d3-0f1b-48f7-badc-1ba6abab6d66)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-022907d3-0f1b-48f7-badc-1ba6abab6d66
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

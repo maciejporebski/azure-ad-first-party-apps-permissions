@@ -1,9 +1,6 @@
-# Cortana Runtime Service
+# Cortana Runtime Service (81473081-50b9-469a-b9d8-303109583ecb)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-81473081-50b9-469a-b9d8-303109583ecb
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

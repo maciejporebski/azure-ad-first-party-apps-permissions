@@ -1,9 +1,6 @@
-# ProjectWorkManagement
+# ProjectWorkManagement (09abbdfd-ed23-44ee-a2d9-a627aa1c90f3)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-09abbdfd-ed23-44ee-a2d9-a627aa1c90f3
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

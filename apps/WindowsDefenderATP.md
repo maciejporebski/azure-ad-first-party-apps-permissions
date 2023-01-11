@@ -1,9 +1,6 @@
-# WindowsDefenderATP
+# WindowsDefenderATP (fc780465-2017-40d4-a0c5-307022471b92)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-fc780465-2017-40d4-a0c5-307022471b92
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Azure AD Identity Governance Insights
+# Azure AD Identity Governance Insights (58c746b0-a0b0-4647-a8f6-12dde5981638)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-58c746b0-a0b0-4647-a8f6-12dde5981638
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Access IoT Hub Device Provisioning Service
+# Access IoT Hub Device Provisioning Service (0cd79364-7a90-4354-9984-6e36c841418d)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-0cd79364-7a90-4354-9984-6e36c841418d
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

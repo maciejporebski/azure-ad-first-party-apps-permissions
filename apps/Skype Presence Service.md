@@ -1,9 +1,6 @@
-# Skype Presence Service
+# Skype Presence Service (1e70cd27-4707-4589-8ec5-9bd20c472a46)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-1e70cd27-4707-4589-8ec5-9bd20c472a46
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

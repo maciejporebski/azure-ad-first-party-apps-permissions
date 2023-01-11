@@ -1,9 +1,6 @@
-# Microsoft Teams ADL
+# Microsoft Teams ADL (30e31aeb-977f-4f4f-a483-b61e8377b302)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-30e31aeb-977f-4f4f-a483-b61e8377b302
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

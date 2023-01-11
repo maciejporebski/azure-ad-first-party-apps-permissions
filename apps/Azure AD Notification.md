@@ -1,9 +1,6 @@
-# Azure AD Notification
+# Azure AD Notification (fc03f97a-9db0-4627-a216-ec98ce54e018)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-fc03f97a-9db0-4627-a216-ec98ce54e018
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

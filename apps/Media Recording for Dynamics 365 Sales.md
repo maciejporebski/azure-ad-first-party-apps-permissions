@@ -1,9 +1,6 @@
-# Media Recording for Dynamics 365 Sales
+# Media Recording for Dynamics 365 Sales (f448d7e5-e313-4f90-a3eb-5dbb3277e4b3)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f448d7e5-e313-4f90-a3eb-5dbb3277e4b3
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

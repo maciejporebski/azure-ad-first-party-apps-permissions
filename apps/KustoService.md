@@ -1,9 +1,6 @@
-# KustoService
+# KustoService (2746ea77-4702-4b45-80ca-3c97e680e8b7)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2746ea77-4702-4b45-80ca-3c97e680e8b7
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

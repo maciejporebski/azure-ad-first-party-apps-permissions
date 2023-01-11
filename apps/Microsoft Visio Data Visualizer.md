@@ -1,9 +1,6 @@
-# Microsoft Visio Data Visualizer
+# Microsoft Visio Data Visualizer (00695ed2-3202-4156-8da1-69f60065e255)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-00695ed2-3202-4156-8da1-69f60065e255
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

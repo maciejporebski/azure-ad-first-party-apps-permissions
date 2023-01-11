@@ -1,9 +1,6 @@
-# My Apps
+# My Apps (2793995e-0a7d-40d7-bd35-6968ba142197)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2793995e-0a7d-40d7-bd35-6968ba142197
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

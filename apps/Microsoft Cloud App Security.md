@@ -1,9 +1,6 @@
-# Microsoft Cloud App Security
+# Microsoft Cloud App Security (05a65629-4c1b-48c1-a78b-804c4abdd4af)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-05a65629-4c1b-48c1-a78b-804c4abdd4af
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

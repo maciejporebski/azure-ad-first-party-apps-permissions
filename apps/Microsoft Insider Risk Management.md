@@ -1,9 +1,6 @@
-# Microsoft Insider Risk Management
+# Microsoft Insider Risk Management (1fe0d6b3-81f0-4cf5-9dfd-fbb297d7848c)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-1fe0d6b3-81f0-4cf5-9dfd-fbb297d7848c
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

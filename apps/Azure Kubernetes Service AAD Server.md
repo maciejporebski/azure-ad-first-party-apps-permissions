@@ -1,9 +1,6 @@
-# Azure Kubernetes Service AAD Server
+# Azure Kubernetes Service AAD Server (6dae42f8-4368-4678-94ff-3960e28e3630)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-6dae42f8-4368-4678-94ff-3960e28e3630
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Azure OSSRDBMS Database
+# Azure OSSRDBMS Database (123cd850-d9df-40bd-94d5-c9f07b7fa203)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-123cd850-d9df-40bd-94d5-c9f07b7fa203
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

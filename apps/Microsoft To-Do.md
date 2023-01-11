@@ -1,9 +1,6 @@
-# Microsoft To-Do
+# Microsoft To-Do (c830ddb0-63e6-4f22-bd71-2ad47198a23e)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c830ddb0-63e6-4f22-bd71-2ad47198a23e
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

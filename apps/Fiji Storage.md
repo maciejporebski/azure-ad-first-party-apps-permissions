@@ -1,9 +1,6 @@
-# Fiji Storage
+# Fiji Storage (1609d3a1-0db2-4818-b854-fe1614f0718a)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-1609d3a1-0db2-4818-b854-fe1614f0718a
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

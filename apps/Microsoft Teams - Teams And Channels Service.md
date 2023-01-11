@@ -1,9 +1,6 @@
-# Microsoft Teams - Teams And Channels Service
+# Microsoft Teams - Teams And Channels Service (b55b276d-2b09-4ad2-8de5-f09cf24ffba9)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b55b276d-2b09-4ad2-8de5-f09cf24ffba9
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

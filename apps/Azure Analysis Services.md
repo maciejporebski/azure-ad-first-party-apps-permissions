@@ -1,9 +1,6 @@
-# Azure Analysis Services
+# Azure Analysis Services (4ac7d521-0382-477b-b0f8-7e1d95f85ca2)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-4ac7d521-0382-477b-b0f8-7e1d95f85ca2
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

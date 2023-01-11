@@ -1,9 +1,6 @@
-# PowerAI
+# PowerAI (8b62382d-110e-4db8-83a6-c7e8ee84296a)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-8b62382d-110e-4db8-83a6-c7e8ee84296a
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

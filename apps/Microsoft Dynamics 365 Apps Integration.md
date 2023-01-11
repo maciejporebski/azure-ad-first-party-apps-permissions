@@ -1,9 +1,6 @@
-# Microsoft Dynamics 365 Apps Integration
+# Microsoft Dynamics 365 Apps Integration (44a02aaa-7145-4925-9dcd-79e6e1b94eff)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-44a02aaa-7145-4925-9dcd-79e6e1b94eff
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Microsoft Stream Service
+# Microsoft Stream Service (2634dd23-5e5a-431c-81ca-11710d9079f4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2634dd23-5e5a-431c-81ca-11710d9079f4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# M365DataAtRestEncryption
+# M365DataAtRestEncryption (c066d759-24ae-40e7-a56f-027002b5d3e4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c066d759-24ae-40e7-a56f-027002b5d3e4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

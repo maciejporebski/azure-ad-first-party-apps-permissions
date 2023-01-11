@@ -1,9 +1,6 @@
-# Microsoft.EventHubs
+# Microsoft.EventHubs (80369ed6-5f11-4dd9-bef3-692475845e77)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-80369ed6-5f11-4dd9-bef3-692475845e77
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Networking-MNC
+# Networking-MNC (6d057c82-a784-47ae-8d12-ca7b38cf06b4)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-6d057c82-a784-47ae-8d12-ca7b38cf06b4
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

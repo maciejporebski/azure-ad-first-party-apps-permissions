@@ -1,9 +1,6 @@
-# Microsoft Forms
+# Microsoft Forms (c9a559d2-7aab-4f13-a6ed-e7e9c52aec87)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c9a559d2-7aab-4f13-a6ed-e7e9c52aec87
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

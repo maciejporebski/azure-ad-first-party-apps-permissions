@@ -1,9 +1,6 @@
-# KaizalaActionsPlatform
+# KaizalaActionsPlatform (9bb724a5-4639-438c-969b-e184b2b1e264)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9bb724a5-4639-438c-969b-e184b2b1e264
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

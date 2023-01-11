@@ -1,9 +1,6 @@
-# Connectors
+# Connectors (48af08dc-f6d2-435f-b2a7-069abd99c086)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-48af08dc-f6d2-435f-b2a7-069abd99c086
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

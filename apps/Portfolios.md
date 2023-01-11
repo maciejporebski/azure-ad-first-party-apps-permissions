@@ -1,9 +1,6 @@
-# Portfolios
+# Portfolios (f53895d3-095d-408f-8e93-8f94b391404e)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f53895d3-095d-408f-8e93-8f94b391404e
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

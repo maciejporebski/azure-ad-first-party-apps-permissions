@@ -1,9 +1,6 @@
-# Windows 365
+# Windows 365 (0af06dc6-e4b5-4f28-818e-e78e62d137a5)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-0af06dc6-e4b5-4f28-818e-e78e62d137a5
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

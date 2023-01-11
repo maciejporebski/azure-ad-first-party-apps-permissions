@@ -1,9 +1,6 @@
-# O365SBRM Service
+# O365SBRM Service (9d06afd9-66c9-49a6-b385-ea7509332b0b)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9d06afd9-66c9-49a6-b385-ea7509332b0b
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

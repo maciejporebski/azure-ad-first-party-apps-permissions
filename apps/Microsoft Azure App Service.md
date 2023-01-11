@@ -1,9 +1,6 @@
-# Microsoft Azure App Service
+# Microsoft Azure App Service (abfa0a7c-a6b6-4736-8310-5855508787cd)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-abfa0a7c-a6b6-4736-8310-5855508787cd
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

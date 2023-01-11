@@ -1,9 +1,6 @@
-# Microsoft Teams Chat Aggregator
+# Microsoft Teams Chat Aggregator (b1379a75-ce5e-4fa3-80c6-89bb39bf646c)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b1379a75-ce5e-4fa3-80c6-89bb39bf646c
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

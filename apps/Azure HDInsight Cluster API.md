@@ -1,9 +1,6 @@
-# Azure HDInsight Cluster API
+# Azure HDInsight Cluster API (7865c1d2-f040-46cc-875f-831a1ef6a28a)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-7865c1d2-f040-46cc-875f-831a1ef6a28a
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

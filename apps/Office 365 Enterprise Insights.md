@@ -1,9 +1,6 @@
-# Office 365 Enterprise Insights
+# Office 365 Enterprise Insights (f9d02341-e7aa-456d-926d-4a0ca599fbee)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f9d02341-e7aa-456d-926d-4a0ca599fbee
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

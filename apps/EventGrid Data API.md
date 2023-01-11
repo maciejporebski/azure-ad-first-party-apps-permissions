@@ -1,9 +1,6 @@
-# EventGrid Data API
+# EventGrid Data API (823c0a78-5de0-4445-a7f5-c2f42d7dc89b)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-823c0a78-5de0-4445-a7f5-c2f42d7dc89b
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Microsoft Teams Admin Gateway Service
+# Microsoft Teams Admin Gateway Service (78462efa-e271-409c-a90b-ce3fbd93538a)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-78462efa-e271-409c-a90b-ce3fbd93538a
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

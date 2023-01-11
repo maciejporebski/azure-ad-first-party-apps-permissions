@@ -1,9 +1,6 @@
-# OneNote
+# OneNote (2d4d3d8e-2be3-4bef-9f87-7875a61c29de)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2d4d3d8e-2be3-4bef-9f87-7875a61c29de
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Microsoft Teams Graph Service
+# Microsoft Teams Graph Service (ab3be6b7-f5df-413d-ac2d-abf1e3fd9c0b)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-ab3be6b7-f5df-413d-ac2d-abf1e3fd9c0b
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

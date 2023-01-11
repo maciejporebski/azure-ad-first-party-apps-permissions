@@ -1,9 +1,6 @@
-# O365 Demeter
+# O365 Demeter (982bda36-4632-4165-a46a-9863b1bbcf7d)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-982bda36-4632-4165-a46a-9863b1bbcf7d
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Signup
+# Signup (b4bddae8-ab25-483e-8670-df09b9f1d0ea)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b4bddae8-ab25-483e-8670-df09b9f1d0ea
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

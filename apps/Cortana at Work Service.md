@@ -1,9 +1,6 @@
-# Cortana at Work Service
+# Cortana at Work Service (2a486b53-dbd2-49c0-a2bc-278bdfc30833)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2a486b53-dbd2-49c0-a2bc-278bdfc30833
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

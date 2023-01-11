@@ -1,9 +1,6 @@
-# PowerApps-Advisor
+# PowerApps-Advisor (c9299480-c13a-49db-a7ae-cdfe54fe0313)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c9299480-c13a-49db-a7ae-cdfe54fe0313
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

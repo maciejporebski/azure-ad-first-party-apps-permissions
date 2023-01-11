@@ -1,9 +1,6 @@
-# Microsoft Teams Bots
+# Microsoft Teams Bots (64f79cb9-9c82-4199-b85b-77e35b7dcbcb)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-64f79cb9-9c82-4199-b85b-77e35b7dcbcb
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

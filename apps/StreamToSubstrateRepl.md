@@ -1,9 +1,6 @@
-# StreamToSubstrateRepl
+# StreamToSubstrateRepl (607e1f95-b519-4bac-8a15-6196f40e8977)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-607e1f95-b519-4bac-8a15-6196f40e8977
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

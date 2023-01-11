@@ -1,9 +1,6 @@
-# Reading Assignments
+# Reading Assignments (22d27567-b3f0-4dc2-9ec2-46ed368ba538)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-22d27567-b3f0-4dc2-9ec2-46ed368ba538
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

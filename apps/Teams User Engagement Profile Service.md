@@ -1,9 +1,6 @@
-# Teams User Engagement Profile Service
+# Teams User Engagement Profile Service (0f54b75d-4d29-4a92-80ae-106a60cd8f5d)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-0f54b75d-4d29-4a92-80ae-106a60cd8f5d
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

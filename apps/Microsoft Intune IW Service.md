@@ -1,9 +1,6 @@
-# Microsoft Intune IW Service
+# Microsoft Intune IW Service (b8066b99-6e67-41be-abfa-75db1a2c8809)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b8066b99-6e67-41be-abfa-75db1a2c8809
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

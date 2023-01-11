@@ -1,9 +1,6 @@
-# SmartList Designer
+# SmartList Designer (c9d254a9-346a-4c00-95eb-950cb62a58f0)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c9d254a9-346a-4c00-95eb-950cb62a58f0
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

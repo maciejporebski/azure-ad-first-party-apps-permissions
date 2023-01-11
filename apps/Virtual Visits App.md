@@ -1,9 +1,6 @@
-# Virtual Visits App
+# Virtual Visits App (2b479c68-8d9b-4e27-9d85-5d74803de734)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-2b479c68-8d9b-4e27-9d85-5d74803de734
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

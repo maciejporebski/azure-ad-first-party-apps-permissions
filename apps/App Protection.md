@@ -1,9 +1,6 @@
-# App Protection
+# App Protection (c6e44401-4d0a-4542-ab22-ecd4c90d28d7)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-c6e44401-4d0a-4542-ab22-ecd4c90d28d7
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

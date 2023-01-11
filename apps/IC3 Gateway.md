@@ -1,9 +1,6 @@
-# IC3 Gateway
+# IC3 Gateway (39aaf054-81a5-48c7-a4f8-0293012095b9)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-39aaf054-81a5-48c7-a4f8-0293012095b9
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Power BI Service
+# Power BI Service (00000009-0000-0000-c000-000000000000)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-00000009-0000-0000-c000-000000000000
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Policy Administration Service
+# Policy Administration Service (0469d4cd-df37-4d93-8a61-f8c75b809164)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-0469d4cd-df37-4d93-8a61-f8c75b809164
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

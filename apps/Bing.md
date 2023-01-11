@@ -1,9 +1,6 @@
-# Bing
+# Bing (9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

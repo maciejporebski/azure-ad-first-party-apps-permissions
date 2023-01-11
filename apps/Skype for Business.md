@@ -1,9 +1,6 @@
-# Skype for Business
+# Skype for Business (7557eb47-c689-4224-abcf-aef9bd7573df)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-7557eb47-c689-4224-abcf-aef9bd7573df
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

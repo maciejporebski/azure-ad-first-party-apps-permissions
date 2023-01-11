@@ -1,9 +1,6 @@
-# OneProfile Service
+# OneProfile Service (b2cc270f-563e-4d8a-af47-f00963a71dcd)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-b2cc270f-563e-4d8a-af47-f00963a71dcd
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

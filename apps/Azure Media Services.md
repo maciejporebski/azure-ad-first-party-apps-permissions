@@ -1,9 +1,6 @@
-# Azure Media Services
+# Azure Media Services (374b2a64-3b6b-436b-934c-b820eacca870)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-374b2a64-3b6b-436b-934c-b820eacca870
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# Application Insights API
+# Application Insights API (f5c26e74-f226-4ae8-85f0-b4af0080ac9e)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-f5c26e74-f226-4ae8-85f0-b4af0080ac9e
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

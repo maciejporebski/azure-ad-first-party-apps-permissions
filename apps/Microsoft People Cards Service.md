@@ -1,9 +1,6 @@
-# Microsoft People Cards Service
+# Microsoft People Cards Service (394866fc-eedb-4f01-8536-3ff84b16be2a)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-394866fc-eedb-4f01-8536-3ff84b16be2a
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

@@ -1,9 +1,6 @@
-# App Studio for Microsoft Teams
+# App Studio for Microsoft Teams (e1979c22-8b73-4aed-a4da-572cc4d0b832)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-e1979c22-8b73-4aed-a4da-572cc4d0b832
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.

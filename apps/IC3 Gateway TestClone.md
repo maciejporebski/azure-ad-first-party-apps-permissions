@@ -1,9 +1,6 @@
-# IC3 Gateway TestClone
+# IC3 Gateway TestClone (55bdc56c-2b15-4538-aa37-d0c008c8c430)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
-
-## App Id
-55bdc56c-2b15-4538-aa37-d0c008c8c430
 
 ## Application Permissions
 Your application runs as a background service or daemon without a signed-in user.
