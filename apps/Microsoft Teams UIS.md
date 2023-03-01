@@ -16,4 +16,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| user_impersonation | 5c367ba1-3a11-4284-92e9-19c836b05b1d | user_impersonation | user_impersonation |
 

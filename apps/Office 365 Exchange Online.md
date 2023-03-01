@@ -26,6 +26,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Place.Read.All | 4830e04b-48ac-4de5-bbd9-8aceb58e506b | Read all company places | Allows the app to read company places (conference rooms and room lists) for calendar events and other applications, without a signed-in user. |
 | POP.AccessAsApp | cb842b43-da6e-4506-86fe-bb12199c656d | POP.AccessAsApp | Allow application to access user’s mailbox via POP protocol |
 | ReportingWebService.Read.All | b4d5a5c7-c085-487f-b922-ef0d6ebde6b1 | ReportingWebService.Read.All | Download all reports via the Office 365 reporting web service |
+| SMTP.SendAsApp | 7146a1f0-8703-45b3-9eae-527a64c00995 | Application access for sending emails via SMTP AUTH | Allows the app to have send access to all mailboxes |
 | Tasks.Read | c1b0de0a-1de9-455d-919f-eca451053141 | Read user tasks in all mailboxes | Allows the app to read user tasks in all mailboxes without a signed-in user. |
 | Tasks.ReadWrite | 2c6a42ca-0d4d-49ad-bc0e-21222c449a65 | Read and write tasks in all mailboxes | Allows the app to create, read, update, and delete tasks in all mailboxes without a signed-in user. |
 | User.Read.All | bf24470f-10c1-436d-8d53-7b997eb473be | Read all users' full profiles | Allows the app to read the full set of profile properties, reports, and managers of other users in your organization, on behalf of the signed-in user. |

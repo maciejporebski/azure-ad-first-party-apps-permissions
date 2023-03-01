@@ -8,6 +8,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | MEC.API.Access | 732149af-bb52-4df0-b209-9e28189b2528 | MEC API Access Role | This will allow clients to call MEC API |
+| OCE.API.Access | 2dd1a339-84bc-4c89-8097-df493bf1205c | MEC OCE API Access Role | This will allow clients to call MEC's OCE API |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 

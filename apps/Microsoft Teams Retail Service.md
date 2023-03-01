@@ -14,6 +14,7 @@ Your application runs as a background service or daemon without a signed-in user
 | OrgHierarchy.ReadWrite.All | 75efb5bc-18a1-4e7b-8a66-000000000009 | OrgHierarchy.ReadWrite.All | Allows an application to manage the organizational hierarchy for the tenant |
 | Tasks.Permissions.Read | 75efb5bc-18a1-4e7b-8a66-000000000002 | List Task edit permissions | Allows app to see the fields that a given user can edit on a task |
 | WalkieTalkie.Reports.CallUsage.Read | dc138e6d-d2e3-409c-9a4c-69a1c26a76c5 | WalkieTalkie.Reports.CallUsage.Read | Read Call Usage Report of Walkie Talkie |
+| WalkieTalkie.ServiceComponent.ReadWrite | 4d75502c-94ba-47f1-80d5-0ea89c47deab | Service to Service Authentication Scope | Used to grant access to communicating service components |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
