@@ -1,4 +1,4 @@
-Connect-MgGraph -AccessToken (Get-AzAccessToken -ResourceTypeName MSGraph).Token | Out-Null
+Connect-MgGraph -AccessToken (ConvertTo-SecureString -String (Get-AzAccessToken -ResourceTypeName MSGraph).Token -AsPlainText) | Out-Null
 
 $servicePrincipals = Get-MgServicePrincipal -All
 $firstPartyServicePrincipals = $servicePrincipals | Where-Object {$_.AppOwnerOrganizationId -eq 'f8cdef31-a31e-4b4a-93e4-5f571e91255a'}

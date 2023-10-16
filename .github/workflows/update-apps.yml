@@ -31,7 +31,7 @@ jobs:
           dir
           ./src/Get-AppPermissions.ps1
         azPSVersion: latest
-    - name: Commit changes
+    - name: Commit Changes
       run: |
         cd $GITHUB_WORKSPACE
         now=$(date)
