@@ -1,4 +1,4 @@
-# Azure AD First Party Apps Permissions Reference
+# Azure AD First Party Apps Permissions
 
 | Display Name | App Id |
 |---|---|
