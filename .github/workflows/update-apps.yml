@@ -31,6 +31,8 @@ jobs:
           dir
           ./src/Get-AppPermissions.ps1
         azPSVersion: latest
+    - name: Print Vars
+      run: env
     - name: Commit Changes
       run: |
         cd $GITHUB_WORKSPACE
