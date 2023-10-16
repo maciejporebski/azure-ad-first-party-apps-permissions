@@ -1,4 +1,9 @@
-# Microsoft Information Protection API (40775b29-2688-46b6-a3b5-b256bd04df9f)
+# Microsoft Information Protection API
+## Service Principal Names
+- 40775b29-2688-46b6-a3b5-b256bd04df9f
+- https://api.mipwebservice.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

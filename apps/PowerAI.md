@@ -1,4 +1,8 @@
-# PowerAI (8b62382d-110e-4db8-83a6-c7e8ee84296a)
+# PowerAI
+## Service Principal Names
+- 8b62382d-110e-4db8-83a6-c7e8ee84296a
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

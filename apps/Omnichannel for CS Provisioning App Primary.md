@@ -1,4 +1,8 @@
-# Omnichannel for CS Provisioning App Primary (3957683c-3a48-4a6c-8706-a6e2d6883b02)
+# Omnichannel for CS Provisioning App Primary
+## Service Principal Names
+- 3957683c-3a48-4a6c-8706-a6e2d6883b02
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

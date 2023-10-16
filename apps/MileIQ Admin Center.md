@@ -1,4 +1,8 @@
-# MileIQ Admin Center (de096ee1-dae7-4ee1-8dd5-d88ccc473815)
+# MileIQ Admin Center
+## Service Principal Names
+- de096ee1-dae7-4ee1-8dd5-d88ccc473815
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

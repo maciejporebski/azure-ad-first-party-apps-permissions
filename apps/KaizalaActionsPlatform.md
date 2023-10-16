@@ -1,4 +1,18 @@
-# KaizalaActionsPlatform (9bb724a5-4639-438c-969b-e184b2b1e264)
+# KaizalaActionsPlatform
+## Service Principal Names
+- 9bb724a5-4639-438c-969b-e184b2b1e264
+- https://actionsplatform.kaiza.la
+- https://actionsplatform-preprod.kaiza.la
+- https://actionsplatform-alpha.kaiza.la
+- https://actions-perf.kaiza.la
+- https://actionsplatform-fasttrack.kaiza.la
+- https://int.actions.office365.com
+- https://fasttrack.edog.actions.office365.com
+- https://actions.office365.com
+- https://edog.actions.office365.com
+- https://gcc.actions.office365.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,13 @@
-# Microsoft.Azure.SyncFabric (00000014-0000-0000-c000-000000000000)
+# Microsoft.Azure.SyncFabric
+## Service Principal Names
+- 00000014-0000-0000-c000-000000000000/SyncFabric-int.windowsazure.net
+- 00000014-0000-0000-c000-000000000000/SyncFabric-ppe.windowsazure.net
+- 00000014-0000-0000-c000-000000000000/SyncFabric.windowsazure.net
+- 00000014-0000-0000-c000-000000000000
+- https://syncfabric.windowsazure.com
+- https://syncfabric.windowsazure.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

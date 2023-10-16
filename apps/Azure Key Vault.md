@@ -1,4 +1,9 @@
-# Azure Key Vault (cfa8b339-82a2-471a-a3c9-0fc0be7a4093)
+# Azure Key Vault
+## Service Principal Names
+- cfa8b339-82a2-471a-a3c9-0fc0be7a4093
+- https://vault.azure.net
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

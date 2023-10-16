@@ -1,4 +1,9 @@
-# Microsoft Teams Retail Service (75efb5bc-18a1-4e7b-8a66-2ad2503d79c6)
+# Microsoft Teams Retail Service
+## Service Principal Names
+- 75efb5bc-18a1-4e7b-8a66-2ad2503d79c6
+- https://retailservices.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

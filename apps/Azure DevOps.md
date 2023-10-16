@@ -1,4 +1,12 @@
-# Azure DevOps (499b84ac-1321-427f-aa17-267ca6975798)
+# Azure DevOps
+## Service Principal Names
+- 499b84ac-1321-427f-aa17-267ca6975798
+- https://wcus0.app.vssps.visualstudio.com
+- https://app.vssps.visualstudio.com/
+- https://app.vssps.vsallin.net/
+- https://analytics.dev.azure.com/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

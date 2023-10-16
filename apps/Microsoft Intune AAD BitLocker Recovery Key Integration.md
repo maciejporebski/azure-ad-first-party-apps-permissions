@@ -1,4 +1,8 @@
-# Microsoft Intune AAD BitLocker Recovery Key Integration (ccf4d8df-75ce-4107-8ea5-7afd618d4d8a)
+# Microsoft Intune AAD BitLocker Recovery Key Integration
+## Service Principal Names
+- ccf4d8df-75ce-4107-8ea5-7afd618d4d8a
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

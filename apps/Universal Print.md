@@ -1,4 +1,9 @@
-# Universal Print (da9b70f6-5323-4ce6-ae5c-88dcc5082966)
+# Universal Print
+## Service Principal Names
+- da9b70f6-5323-4ce6-ae5c-88dcc5082966
+- https://print.print.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

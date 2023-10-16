@@ -1,4 +1,16 @@
-# Microsoft Partner (4990cffe-04e8-4e8b-808a-1175604b879f)
+# Microsoft Partner
+## Service Principal Names
+- 4990cffe-04e8-4e8b-808a-1175604b879f
+- https://developer.microsoft.com
+- https://dev.microsoft.com
+- https://devcenter.microsoft.com/
+- https://developers.windows.com/
+- https://developer.windows.com/
+- https://dev.windows.com/
+- https://api.partner.microsoft.com
+- https://api.partner.microsoft-int.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

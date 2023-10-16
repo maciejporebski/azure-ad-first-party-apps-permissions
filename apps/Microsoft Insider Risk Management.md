@@ -1,4 +1,8 @@
-# Microsoft Insider Risk Management (1fe0d6b3-81f0-4cf5-9dfd-fbb297d7848c)
+# Microsoft Insider Risk Management
+## Service Principal Names
+- 1fe0d6b3-81f0-4cf5-9dfd-fbb297d7848c
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

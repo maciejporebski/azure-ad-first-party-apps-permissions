@@ -1,4 +1,8 @@
-# Microsoft Teams Targeting Application (8e14e873-35ba-4720-b787-0bed94370b17)
+# Microsoft Teams Targeting Application
+## Service Principal Names
+- 8e14e873-35ba-4720-b787-0bed94370b17
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

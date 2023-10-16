@@ -1,4 +1,9 @@
-# Microsoft Teams - Teams And Channels Service (b55b276d-2b09-4ad2-8de5-f09cf24ffba9)
+# Microsoft Teams - Teams And Channels Service
+## Service Principal Names
+- b55b276d-2b09-4ad2-8de5-f09cf24ffba9
+- https://templates.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

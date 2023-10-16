@@ -1,4 +1,9 @@
-# Azure OSSRDBMS Database (123cd850-d9df-40bd-94d5-c9f07b7fa203)
+# Azure OSSRDBMS Database
+## Service Principal Names
+- 123cd850-d9df-40bd-94d5-c9f07b7fa203
+- https://ossrdbms-aad.database.windows.net
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

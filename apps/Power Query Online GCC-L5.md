@@ -1,4 +1,9 @@
-# Power Query Online GCC-L5 (8c8fbf21-0ef3-4f60-81cf-0df811ff5d16)
+# Power Query Online GCC-L5
+## Service Principal Names
+- 8c8fbf21-0ef3-4f60-81cf-0df811ff5d16
+- https://mil.powerquery.microsoft.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

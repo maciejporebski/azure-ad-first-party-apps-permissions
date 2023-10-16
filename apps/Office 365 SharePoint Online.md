@@ -1,4 +1,10 @@
-# Office 365 SharePoint Online (00000003-0000-0ff1-ce00-000000000000)
+# Office 365 SharePoint Online
+## Service Principal Names
+- 00000003-0000-0ff1-ce00-000000000000/*.sharepoint.com
+- 00000003-0000-0ff1-ce00-000000000000
+- https://microsoft.sharepoint-df.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

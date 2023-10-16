@@ -1,4 +1,11 @@
-# Microsoft Teams Shifts (aa580612-c342-4ace-9055-8edee43ccb89)
+# Microsoft Teams Shifts
+## Service Principal Names
+- aa580612-c342-4ace-9055-8edee43ccb89
+- https://prod.shiftr.onmicrosoft.com
+- https://api.manage.staffhub.office.com
+- https://api.staffhub.office.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

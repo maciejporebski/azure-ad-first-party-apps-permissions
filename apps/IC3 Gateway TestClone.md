@@ -1,4 +1,10 @@
-# IC3 Gateway TestClone (55bdc56c-2b15-4538-aa37-d0c008c8c430)
+# IC3 Gateway TestClone
+## Service Principal Names
+- https://ic3-non-cae-testing.teams.office.com
+- 55bdc56c-2b15-4538-aa37-d0c008c8c430
+- https://ic3-testing.teams.office.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

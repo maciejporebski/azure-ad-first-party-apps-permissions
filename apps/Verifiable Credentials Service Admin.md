@@ -1,4 +1,8 @@
-# Verifiable Credentials Service Admin (6a8b4b39-c021-437c-b060-5a14a3fd65f3)
+# Verifiable Credentials Service Admin
+## Service Principal Names
+- 6a8b4b39-c021-437c-b060-5a14a3fd65f3
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

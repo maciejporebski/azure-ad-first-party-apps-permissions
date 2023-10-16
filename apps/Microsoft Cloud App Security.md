@@ -1,4 +1,8 @@
-# Microsoft Cloud App Security (05a65629-4c1b-48c1-a78b-804c4abdd4af)
+# Microsoft Cloud App Security
+## Service Principal Names
+- 05a65629-4c1b-48c1-a78b-804c4abdd4af
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

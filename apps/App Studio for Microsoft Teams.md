@@ -1,4 +1,10 @@
-# App Studio for Microsoft Teams (e1979c22-8b73-4aed-a4da-572cc4d0b832)
+# App Studio for Microsoft Teams
+## Service Principal Names
+- e1979c22-8b73-4aed-a4da-572cc4d0b832
+- https://dev.teams.microsoft.com
+- https://dev-int.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

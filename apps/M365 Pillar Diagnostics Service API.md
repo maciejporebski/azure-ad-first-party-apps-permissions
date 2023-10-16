@@ -1,4 +1,19 @@
-# M365 Pillar Diagnostics Service API (8bea2130-23a1-4c09-acfb-637a9fb7c157)
+# M365 Pillar Diagnostics Service API
+## Service Principal Names
+- https://autodiscover.msftclouddiagnostics.net
+- https://autodiscoversdf.msftclouddiagnostics.net
+- https://intapi.msftclouddiagnostics.net
+- https://wwsapi.msftclouddiagnostics.net
+- https://eursapi.msftclouddiagnostics.net
+- https://gccmsapi.msftclouddiagnostics.net
+- https://sdfsapi.msftclouddiagnostics.net
+- 8bea2130-23a1-4c09-acfb-637a9fb7c157
+- https://api.msftclouddiagnostics.net
+- https://sdfapi.msftclouddiagnostics.net
+- https://m365diagnosticssdf.microsoft.com
+- https://m365diagnostics.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,9 @@
-# Teams User Engagement Profile Service (0f54b75d-4d29-4a92-80ae-106a60cd8f5d)
+# Teams User Engagement Profile Service
+## Service Principal Names
+- 0f54b75d-4d29-4a92-80ae-106a60cd8f5d
+- https://gwthsvc.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

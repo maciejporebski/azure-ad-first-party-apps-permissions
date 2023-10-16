@@ -1,4 +1,9 @@
-# Microsoft Service Trust (d6fdaa33-e821-4211-83d0-cf74736489e1)
+# Microsoft Service Trust
+## Service Principal Names
+- d6fdaa33-e821-4211-83d0-cf74736489e1
+- https://servicetrust.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,11 @@
-# Skype and Teams Tenant Admin API (48ac35b8-9aa8-4d74-927d-1f4a14a0b239)
+# Skype and Teams Tenant Admin API
+## Service Principal Names
+- https://msit.api.interfaces.records.teams.microsoft.com
+- https://ring0.api.interfaces.records.teams.microsoft.com
+- 48ac35b8-9aa8-4d74-927d-1f4a14a0b239
+- https://api.interfaces.records.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

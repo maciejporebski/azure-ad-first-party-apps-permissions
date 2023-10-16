@@ -1,4 +1,13 @@
-# OneNote (2d4d3d8e-2be3-4bef-9f87-7875a61c29de)
+# OneNote
+## Service Principal Names
+- 2d4d3d8e-2be3-4bef-9f87-7875a61c29de/onenote.com
+- 2d4d3d8e-2be3-4bef-9f87-7875a61c29de
+- https://onenote.com/
+- https://onenote.osi.office365.us/
+- https://onenote.gcc.osi.office365.us/
+- https://onenote.osi.apps.mil/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

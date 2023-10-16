@@ -1,4 +1,8 @@
-# Microsoft Stream Service (2634dd23-5e5a-431c-81ca-11710d9079f4)
+# Microsoft Stream Service
+## Service Principal Names
+- 2634dd23-5e5a-431c-81ca-11710d9079f4
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

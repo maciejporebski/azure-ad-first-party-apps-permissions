@@ -1,4 +1,11 @@
-# Audit Search Api Service (e158eb19-34ac-4d1b-a930-ec92172f7a97)
+# Audit Search Api Service
+## Service Principal Names
+- e158eb19-34ac-4d1b-a930-ec92172f7a97
+- https://search.auditing.trafficmanager.net
+- https://o365auditsearch.manage.office.com
+- api://e158eb19-34ac-4d1b-a930-ec92172f7a97
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

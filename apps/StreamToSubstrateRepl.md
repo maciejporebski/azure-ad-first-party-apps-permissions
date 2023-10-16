@@ -1,4 +1,8 @@
-# StreamToSubstrateRepl (607e1f95-b519-4bac-8a15-6196f40e8977)
+# StreamToSubstrateRepl
+## Service Principal Names
+- 607e1f95-b519-4bac-8a15-6196f40e8977
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

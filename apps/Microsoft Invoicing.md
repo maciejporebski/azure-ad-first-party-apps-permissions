@@ -1,4 +1,9 @@
-# Microsoft Invoicing (b6b84568-6c01-4981-a80f-09da9a20bbed)
+# Microsoft Invoicing
+## Service Principal Names
+- b6b84568-6c01-4981-a80f-09da9a20bbed
+- https://msinvoicing.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

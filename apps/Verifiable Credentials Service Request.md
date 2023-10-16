@@ -1,4 +1,8 @@
-# Verifiable Credentials Service Request (3db474b9-6a0c-4840-96ac-1fceb342124f)
+# Verifiable Credentials Service Request
+## Service Principal Names
+- 3db474b9-6a0c-4840-96ac-1fceb342124f
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

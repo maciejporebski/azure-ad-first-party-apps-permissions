@@ -1,4 +1,9 @@
-# Branch Connect Web Service (57084ef3-d413-4087-a28f-f6f3b1ad7786)
+# Branch Connect Web Service
+## Service Principal Names
+- 57084ef3-d413-4087-a28f-f6f3b1ad7786
+- https://bcws.office.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

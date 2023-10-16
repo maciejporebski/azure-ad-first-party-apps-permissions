@@ -1,4 +1,10 @@
-# Windows Virtual Desktop (9cdead84-a844-4324-93f2-b2e6bb768d07)
+# Windows Virtual Desktop
+## Service Principal Names
+- 9cdead84-a844-4324-93f2-b2e6bb768d07
+- https://www.wvd.microsoft.com
+- https://www.wvd.azure.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

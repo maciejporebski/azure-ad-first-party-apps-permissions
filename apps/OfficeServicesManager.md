@@ -1,4 +1,13 @@
-# OfficeServicesManager (9e4a5442-a5c9-4f6f-b03f-5b9fcaaf24b1)
+# OfficeServicesManager
+## Service Principal Names
+- 9e4a5442-a5c9-4f6f-b03f-5b9fcaaf24b1/odc.officeapps.live.com
+- 9e4a5442-a5c9-4f6f-b03f-5b9fcaaf24b1
+- https://discovery.api.office.net
+- https://api.office.net
+- https://discovery.api.osi.apps.mil
+- https://discovery.api.osi.office365.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

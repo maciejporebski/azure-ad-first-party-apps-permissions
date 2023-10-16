@@ -1,4 +1,9 @@
-# M365 Compliance Drive (cedebc57-38a2-4f0a-8472-dfcbba5b04c6)
+# M365 Compliance Drive
+## Service Principal Names
+- cedebc57-38a2-4f0a-8472-dfcbba5b04c6
+- api://cedebc57-38a2-4f0a-8472-dfcbba5b04c6
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

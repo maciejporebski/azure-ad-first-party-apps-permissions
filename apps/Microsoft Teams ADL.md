@@ -1,4 +1,9 @@
-# Microsoft Teams ADL (30e31aeb-977f-4f4f-a483-b61e8377b302)
+# Microsoft Teams ADL
+## Service Principal Names
+- 30e31aeb-977f-4f4f-a483-b61e8377b302
+- https://datalayer.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

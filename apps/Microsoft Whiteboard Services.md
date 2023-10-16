@@ -1,4 +1,9 @@
-# Microsoft Whiteboard Services (95de633a-083e-42f5-b444-a4295d8e9314)
+# Microsoft Whiteboard Services
+## Service Principal Names
+- 95de633a-083e-42f5-b444-a4295d8e9314
+- https://whiteboard.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

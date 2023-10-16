@@ -1,4 +1,10 @@
-# Membership View Service (f7a2a81e-ab33-4560-a3dd-6ddca3c5ec6d)
+# Membership View Service
+## Service Principal Names
+- https://profiles.view.api.account.microsoft.com
+- f7a2a81e-ab33-4560-a3dd-6ddca3c5ec6d
+- https://view.api.account.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,8 @@
-# CABProvisioning (5da7367f-09c8-493e-8fd4-638089cddec3)
+# CABProvisioning
+## Service Principal Names
+- 5da7367f-09c8-493e-8fd4-638089cddec3
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

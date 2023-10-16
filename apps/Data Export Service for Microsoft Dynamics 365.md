@@ -1,4 +1,9 @@
-# Data Export Service for Microsoft Dynamics 365 (b861dbcc-a7ef-4219-a005-0e4de4ea7dcf)
+# Data Export Service for Microsoft Dynamics 365
+## Service Principal Names
+- https://dataexportserviceformicrosoftdynamics365.com/
+- b861dbcc-a7ef-4219-a005-0e4de4ea7dcf
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

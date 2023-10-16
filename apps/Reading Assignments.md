@@ -1,4 +1,22 @@
-# Reading Assignments (22d27567-b3f0-4dc2-9ec2-46ed368ba538)
+# Reading Assignments
+## Service Principal Names
+- https://edu-readingassignments-int2.westus2.cloudapp.azure.com
+- https://edu-readingassignments-prod.eastus2.cloudapp.azure.com
+- 22d27567-b3f0-4dc2-9ec2-46ed368ba538
+- https://edu-readingassignments-prod.westus2.cloudapp.azure.com
+- https://edu-readingassignments-ppe.westus2.cloudapp.azure.com
+- https://edu-readingassignments-int.westus2.cloudapp.azure.com
+- https://edu-readingassignments-ci.westus2.cloudapp.azure.com
+- https://edu-readingassignments-prod.cloudapp.azure.com
+- https://edu-readingassignments-ppe.cloudapp.azure.com
+- https://edu-readingassignments-int.cloudapp.azure.com
+- https://edu-readingassignments-ci.cloudapp.azure.com
+- https://edu-readingassignments.cloudapp.azure.com
+- https://readingprogress.int.microsoft.com
+- https://readingprogress.ppe.microsoft.com
+- https://readingprogress.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,22 @@
-# Log Analytics API (ca7f3f0b-7d91-482c-8e09-c5d840d0eac5)
+# Log Analytics API
+## Service Principal Names
+- ca7f3f0b-7d91-482c-8e09-c5d840d0eac5
+- https://api.loganalytics.io
+- https://southeastasia.api.loganalytics.io
+- https://australiasoutheast.api.loganalytics.io
+- https://westeurope.api.loganalytics.io
+- https://westcentralus.api.loganalytics.io
+- https://eastus.api.loganalytics.io
+- https://api.loganalytics.io/
+- https://eastus.api.loganalytics.io/
+- https://westcentralus.api.loganalytics.io/
+- https://westeurope.api.loganalytics.io/
+- https://australiasoutheast.api.loganalytics.io/
+- https://southeastasia.api.loganalytics.io/
+- https://westus2.api.loganalytics.io/
+- https://westus2.api.loganalytics.io
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

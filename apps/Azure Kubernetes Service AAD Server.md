@@ -1,4 +1,9 @@
-# Azure Kubernetes Service AAD Server (6dae42f8-4368-4678-94ff-3960e28e3630)
+# Azure Kubernetes Service AAD Server
+## Service Principal Names
+- 6dae42f8-4368-4678-94ff-3960e28e3630
+- https://aks-aad-server.azure.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

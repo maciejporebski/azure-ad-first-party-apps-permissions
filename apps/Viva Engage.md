@@ -1,4 +1,23 @@
-# Viva Engage (00000005-0000-0ff1-ce00-000000000000)
+# Viva Engage
+## Service Principal Names
+- https://engage.cloud.microsoft
+- https://engage.cloud.microsoft/embed
+- https://engage.cloud.microsoft/teams
+- https://engage.cloud.microsoft/teamsmeeting
+- https://api.yammer.com
+- api://web.yammer.com/botid-26e27eed-f034-49e4-bbc5-031d3c4dc2c4
+- https://web.yammer.com/teamsmeeting
+- 00000005-0000-0ff1-ce00-000000000000/*.yammer.com
+- 00000005-0000-0ff1-ce00-000000000000
+- https://www.yammer.com
+- https://www.yammer.com/
+- https://yammer.office365.com/
+- https://api.yammer.com/
+- https://teams.yammer.com
+- https://web.yammer.com/teams
+- https://web.yammer.com/embed
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

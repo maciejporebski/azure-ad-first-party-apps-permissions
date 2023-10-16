@@ -1,4 +1,9 @@
-# DirectoryLookupService (9cd0f7df-8b1a-4e54-8c0c-0ef3a51116f6)
+# DirectoryLookupService
+## Service Principal Names
+- 9cd0f7df-8b1a-4e54-8c0c-0ef3a51116f6
+- https://dls.substrate.office.com/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

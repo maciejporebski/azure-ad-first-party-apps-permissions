@@ -1,4 +1,9 @@
-# Azure Media Services (374b2a64-3b6b-436b-934c-b820eacca870)
+# Azure Media Services
+## Service Principal Names
+- 374b2a64-3b6b-436b-934c-b820eacca870
+- https://armrp.media.azure.net/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

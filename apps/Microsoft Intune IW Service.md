@@ -1,4 +1,8 @@
-# Microsoft Intune IW Service (b8066b99-6e67-41be-abfa-75db1a2c8809)
+# Microsoft Intune IW Service
+## Service Principal Names
+- b8066b99-6e67-41be-abfa-75db1a2c8809
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

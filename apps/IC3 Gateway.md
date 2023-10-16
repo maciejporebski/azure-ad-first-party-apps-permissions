@@ -1,4 +1,10 @@
-# IC3 Gateway (39aaf054-81a5-48c7-a4f8-0293012095b9)
+# IC3 Gateway
+## Service Principal Names
+- https://ic3-non-cae.teams.office.com
+- https://ic3.teams.office.com
+- 39aaf054-81a5-48c7-a4f8-0293012095b9
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

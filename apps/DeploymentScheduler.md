@@ -1,4 +1,8 @@
-# DeploymentScheduler (8bbf8725-b3ca-4468-a217-7c8da873186e)
+# DeploymentScheduler
+## Service Principal Names
+- 8bbf8725-b3ca-4468-a217-7c8da873186e
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

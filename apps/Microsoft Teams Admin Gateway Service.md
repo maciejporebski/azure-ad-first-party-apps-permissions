@@ -1,4 +1,10 @@
-# Microsoft Teams Admin Gateway Service (78462efa-e271-409c-a90b-ce3fbd93538a)
+# Microsoft Teams Admin Gateway Service
+## Service Principal Names
+- 78462efa-e271-409c-a90b-ce3fbd93538a
+- https://tags.teams.microsoft.com
+- https://tags.gov.teams.microsoft.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

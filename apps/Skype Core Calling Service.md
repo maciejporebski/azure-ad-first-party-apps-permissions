@@ -1,4 +1,9 @@
-# Skype Core Calling Service (66c23536-2118-49d3-bc66-54730b057680)
+# Skype Core Calling Service
+## Service Principal Names
+- 66c23536-2118-49d3-bc66-54730b057680
+- https://api.cc.skype.com/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

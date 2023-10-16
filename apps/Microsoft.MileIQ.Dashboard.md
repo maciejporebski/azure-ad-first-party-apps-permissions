@@ -1,4 +1,8 @@
-# Microsoft.MileIQ.Dashboard (f7069a8d-9edc-4300-b365-ae53c9627fc4)
+# Microsoft.MileIQ.Dashboard
+## Service Principal Names
+- f7069a8d-9edc-4300-b365-ae53c9627fc4
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

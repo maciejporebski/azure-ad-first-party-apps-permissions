@@ -1,4 +1,9 @@
-# Windows 365 (0af06dc6-e4b5-4f28-818e-e78e62d137a5)
+# Windows 365
+## Service Principal Names
+- 0af06dc6-e4b5-4f28-818e-e78e62d137a5
+- https://deschutes.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

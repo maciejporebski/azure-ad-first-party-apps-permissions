@@ -1,4 +1,15 @@
-# Office 365 Search Service (66a88757-258c-4c72-893c-3e8bed4d6899)
+# Office 365 Search Service
+## Service Principal Names
+- 66a88757-258c-4c72-893c-3e8bed4d6899
+- https://outlook.office.com/search
+- https://outlook.office.com/autosuggest
+- https://outlook.office365.com/search
+- https://outlook.office365.com/autosuggest
+- https://substrate.office.com/search
+- https://substrate-dod.office365.us/search
+- https://substrate.office365.us/search
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

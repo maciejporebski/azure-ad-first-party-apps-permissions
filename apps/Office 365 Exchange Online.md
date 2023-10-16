@@ -1,4 +1,28 @@
-# Office 365 Exchange Online (00000002-0000-0ff1-ce00-000000000000)
+# Office 365 Exchange Online
+## Service Principal Names
+- https://outlook.office.com
+- https://ps.outlook.com
+- https://outlook-tdf-2.office.com/
+- 00000002-0000-0ff1-ce00-000000000000/outlook.office365.com
+- 00000002-0000-0ff1-ce00-000000000000/mail.office365.com
+- 00000002-0000-0ff1-ce00-000000000000/outlook.com
+- 00000002-0000-0ff1-ce00-000000000000/*.outlook.com
+- 00000002-0000-0ff1-ce00-000000000000
+- https://ps.compliance.protection.outlook.com
+- https://autodiscover-s.office365.us/
+- https://outlook.office365.us/
+- https://outlook-sdf.office.com/
+- https://outlook-sdf.office365.com/
+- https://outlook.office365.com:443/
+- https://outlook.office.com/
+- https://outlook.office365.com/
+- https://outlook.com/
+- https://outlook-dod.office365.us/
+- https://ps.protection.outlook.com/
+- https://webmail.apps.mil/
+- https://outlook-tdf.office.com/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

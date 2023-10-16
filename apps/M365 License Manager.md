@@ -1,4 +1,8 @@
-# M365 License Manager (aeb86249-8ea3-49e2-900b-54cc8e308f85)
+# M365 License Manager
+## Service Principal Names
+- aeb86249-8ea3-49e2-900b-54cc8e308f85
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

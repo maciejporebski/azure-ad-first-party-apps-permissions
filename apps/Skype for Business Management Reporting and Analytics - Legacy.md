@@ -1,4 +1,8 @@
-# Skype for Business Management Reporting and Analytics - Legacy (de17788e-c765-4d31-aba4-fb837cfff174)
+# Skype for Business Management Reporting and Analytics - Legacy
+## Service Principal Names
+- de17788e-c765-4d31-aba4-fb837cfff174
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

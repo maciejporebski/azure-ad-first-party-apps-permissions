@@ -1,4 +1,14 @@
-# Windows Azure Active Directory (00000002-0000-0000-c000-000000000000)
+# Windows Azure Active Directory
+## Service Principal Names
+- https://graph.windows.net
+- 00000002-0000-0000-c000-000000000000/graph.microsoftazure.us
+- 00000002-0000-0000-c000-000000000000/graph.windows.net
+- 00000002-0000-0000-c000-000000000000/directory.windows.net
+- 00000002-0000-0000-c000-000000000000
+- https://graph.windows.net/
+- https://graph.microsoftazure.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,8 @@
-# Verifiable Credentials Service (bb2a64ee-5d29-4b07-a491-25806dc854d3)
+# Verifiable Credentials Service
+## Service Principal Names
+- bb2a64ee-5d29-4b07-a491-25806dc854d3
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

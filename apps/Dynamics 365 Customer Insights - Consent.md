@@ -1,4 +1,9 @@
-# Dynamics 365 Customer Insights - Consent (9e3b502c-b4a1-441d-98fd-28e482bf7e88)
+# Dynamics 365 Customer Insights - Consent
+## Service Principal Names
+- 9e3b502c-b4a1-441d-98fd-28e482bf7e88
+- https://api.consent.dynamics.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

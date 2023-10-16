@@ -1,4 +1,10 @@
-# Microsoft Cognitive Services (7d312290-28c8-473c-a0ed-8e53749b6d6d)
+# Microsoft Cognitive Services
+## Service Principal Names
+- https://cognitiveservices.azure.com
+- https://cognitiveservices.azure.us
+- 7d312290-28c8-473c-a0ed-8e53749b6d6d
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,9 @@
-# SmartList Designer (c9d254a9-346a-4c00-95eb-950cb62a58f0)
+# SmartList Designer
+## Service Principal Names
+- c9d254a9-346a-4c00-95eb-950cb62a58f0
+- api://c9d254a9-346a-4c00-95eb-950cb62a58f0
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

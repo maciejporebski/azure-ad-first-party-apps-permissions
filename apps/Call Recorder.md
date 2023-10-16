@@ -1,4 +1,8 @@
-# Call Recorder (4580fd1d-e5a3-4f56-9ad1-aab0e3bf8f76)
+# Call Recorder
+## Service Principal Names
+- 4580fd1d-e5a3-4f56-9ad1-aab0e3bf8f76
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

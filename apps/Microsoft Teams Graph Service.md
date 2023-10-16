@@ -1,4 +1,16 @@
-# Microsoft Teams Graph Service (ab3be6b7-f5df-413d-ac2d-abf1e3fd9c0b)
+# Microsoft Teams Graph Service
+## Service Principal Names
+- https://tabs.teams.microsoft.com
+- ab3be6b7-f5df-413d-ac2d-abf1e3fd9c0b
+- https://teamsgraph.gov.teams.microsoft.us
+- https://teamsgraph.dod.teams.microsoft.us
+- https://teamsgraph.teams.microsoft.com
+- https://teamsgraph.teams.microsoft.com/
+- https://teamsgraph.dod.teams.microsoft.us/
+- https://teamsgraph.gov.teams.microsoft.us/
+- https://teamsgraph.gcc.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

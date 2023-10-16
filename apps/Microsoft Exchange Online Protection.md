@@ -1,4 +1,16 @@
-# Microsoft Exchange Online Protection (00000007-0000-0ff1-ce00-000000000000)
+# Microsoft Exchange Online Protection
+## Service Principal Names
+- https://substrate.office.com/CompliancePolicy/api/v1.0/ClientSyncFileV2
+- https://*.protection.outlook.com
+- https://*.dataservice.protection.outlook.com
+- 00000007-0000-0ff1-ce00-000000000000/admin.protection.outlook.com
+- 00000007-0000-0ff1-ce00-000000000000/admin.protection.beta.outlook.com
+- 00000007-0000-0ff1-ce00-000000000000/*.protection.outlook.com
+- 00000007-0000-0ff1-ce00-000000000000/*.dataservice.protection.outlook.com
+- 00000007-0000-0ff1-ce00-000000000000
+- https://ps.protection.office365.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

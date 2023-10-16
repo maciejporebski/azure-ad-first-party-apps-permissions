@@ -1,4 +1,8 @@
-# Directory and Policy Cache (7b58f833-4438-494c-a724-234928795a67)
+# Directory and Policy Cache
+## Service Principal Names
+- 7b58f833-4438-494c-a724-234928795a67
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

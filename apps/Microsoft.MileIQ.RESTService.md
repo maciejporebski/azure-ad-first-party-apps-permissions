@@ -1,4 +1,8 @@
-# Microsoft.MileIQ.RESTService (b692184e-b47f-4706-b352-84b288d2d9ee)
+# Microsoft.MileIQ.RESTService
+## Service Principal Names
+- b692184e-b47f-4706-b352-84b288d2d9ee
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

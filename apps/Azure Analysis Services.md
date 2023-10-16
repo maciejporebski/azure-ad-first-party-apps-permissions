@@ -1,4 +1,8 @@
-# Azure Analysis Services (4ac7d521-0382-477b-b0f8-7e1d95f85ca2)
+# Azure Analysis Services
+## Service Principal Names
+- 4ac7d521-0382-477b-b0f8-7e1d95f85ca2
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

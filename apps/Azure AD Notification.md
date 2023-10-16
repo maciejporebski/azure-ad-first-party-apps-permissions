@@ -1,4 +1,8 @@
-# Azure AD Notification (fc03f97a-9db0-4627-a216-ec98ce54e018)
+# Azure AD Notification
+## Service Principal Names
+- fc03f97a-9db0-4627-a216-ec98ce54e018
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

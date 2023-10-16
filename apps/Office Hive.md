@@ -1,4 +1,12 @@
-# Office Hive (166f1b03-5b19-416f-a94b-1d7aa2d247dc)
+# Office Hive
+## Service Principal Names
+- 166f1b03-5b19-416f-a94b-1d7aa2d247dc
+- https://tables.officeppe.com/
+- https://tables.office.com/
+- https://lists.office.com
+- https://lists.officeppe.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

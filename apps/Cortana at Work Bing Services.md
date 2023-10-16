@@ -1,4 +1,9 @@
-# Cortana at Work Bing Services (22d7579f-06c2-4baa-89d2-e844486adb9d)
+# Cortana at Work Bing Services
+## Service Principal Names
+- 22d7579f-06c2-4baa-89d2-e844486adb9d
+- https://cortana.ai/internal/bing
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

@@ -1,4 +1,8 @@
-# Billing (80dbdb39-4f33-4799-8b6f-711b5e3e61b6)
+# Billing
+## Service Principal Names
+- 80dbdb39-4f33-4799-8b6f-711b5e3e61b6
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

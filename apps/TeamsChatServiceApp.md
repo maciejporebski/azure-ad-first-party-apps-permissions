@@ -1,4 +1,9 @@
-# TeamsChatServiceApp (4cba1704-a0c1-45ee-9d41-fe75b4ef9190)
+# TeamsChatServiceApp
+## Service Principal Names
+- 4cba1704-a0c1-45ee-9d41-fe75b4ef9190
+- https://msg.teams.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

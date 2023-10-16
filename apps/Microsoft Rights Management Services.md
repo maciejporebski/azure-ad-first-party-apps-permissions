@@ -1,4 +1,15 @@
-# Microsoft Rights Management Services (00000012-0000-0000-c000-000000000000)
+# Microsoft Rights Management Services
+## Service Principal Names
+- 00000012-0000-0000-c000-000000000000/portal.aadrm.com
+- 00000012-0000-0000-c000-000000000000
+- https://aadrm.com/
+- https://api.aadrm.com/
+- https://aadrm.us/
+- https://api.aadrm.us/
+- https://aadrm.com
+- https://aadrm.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

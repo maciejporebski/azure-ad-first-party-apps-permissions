@@ -1,4 +1,38 @@
-# Skype Presence Service (1e70cd27-4707-4589-8ec5-9bd20c472a46)
+# Skype Presence Service
+## Service Principal Names
+- https://int.presence.teams.microsoft.net/
+- 1e70cd27-4707-4589-8ec5-9bd20c472a46
+- https://noam.presence.teams.microsoft.com/
+- https://emea.presence.teams.microsoft.com/
+- https://apac.presence.teams.microsoft.com/
+- https://presence.teams.microsoft.com/
+- https://noamdf.presence.teams.microsoft.com/
+- https://noamdf.presence.interop.services.sfb.trafficmanager.net/
+- https://noam.presence.interop.services.sfb.trafficmanager.net/
+- https://apac.presence.interop.services.sfb.trafficmanager.net/
+- https://emea.presence.interop.services.sfb.trafficmanager.net/
+- https://noam.presence.teams.microsoft.com:444/
+- https://emea.presence.teams.microsoft.com:444/
+- https://apac.presence.teams.microsoft.com:444/
+- https://noamdf.presence.teams.microsoft.com:444/
+- https://noamdf.presence-interop.teams.microsoft.com/
+- https://noam.presence-interop.teams.microsoft.com/
+- https://emea.presence-interop.teams.microsoft.com/
+- https://apac.presence-interop.teams.microsoft.com/
+- https://dev.presence.services.sfb.trafficmanager.net/
+- https://dev.presence.interop.services.sfb.trafficmanager.net/
+- https://int.presence.services.sfb.trafficmanager.net/
+- https://int.presence.interop.services.sfb.trafficmanager.net/
+- https://test.presence.services.sfb.trafficmanager.net/
+- https://test.presence.interop.services.sfb.trafficmanager.net/
+- https://presence.gcc.teams.microsoft.com/
+- https://gw.presence.infra.gcc.teams.microsoft.com/
+- https://presence.gov.teams.microsoft.us/
+- https://gw.presence.infra.gov.teams.microsoft.us/
+- https://presence.dod.teams.microsoft.us/
+- https://gw.presence.infra.dod.teams.microsoft.us/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

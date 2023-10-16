@@ -1,4 +1,9 @@
-# Export to data lake (7f15f9d9-cad0-44f1-bbba-d36650e07765)
+# Export to data lake
+## Service Principal Names
+- https://exporttodatalake.com/
+- 7f15f9d9-cad0-44f1-bbba-d36650e07765
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

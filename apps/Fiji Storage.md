@@ -1,4 +1,9 @@
-# Fiji Storage (1609d3a1-0db2-4818-b854-fe1614f0718a)
+# Fiji Storage
+## Service Principal Names
+- 1609d3a1-0db2-4818-b854-fe1614f0718a
+- https://edgestorage.azure.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

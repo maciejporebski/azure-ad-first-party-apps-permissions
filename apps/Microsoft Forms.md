@@ -1,4 +1,11 @@
-# Microsoft Forms (c9a559d2-7aab-4f13-a6ed-e7e9c52aec87)
+# Microsoft Forms
+## Service Principal Names
+- api://forms.office.com/c9a559d2-7aab-4f13-a6ed-e7e9c52aec87
+- c9a559d2-7aab-4f13-a6ed-e7e9c52aec87
+- https://forms.office.com/
+- https://forms.office.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

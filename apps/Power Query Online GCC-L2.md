@@ -1,4 +1,9 @@
-# Power Query Online GCC-L2 (939fe80f-2eef-464f-b0cf-705d254a2cf2)
+# Power Query Online GCC-L2
+## Service Principal Names
+- 939fe80f-2eef-464f-b0cf-705d254a2cf2
+- https://gov.powerquery.microsoft.us
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

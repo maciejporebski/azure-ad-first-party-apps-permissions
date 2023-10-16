@@ -1,4 +1,9 @@
-# Microsoft Azure App Service (abfa0a7c-a6b6-4736-8310-5855508787cd)
+# Microsoft Azure App Service
+## Service Principal Names
+- abfa0a7c-a6b6-4736-8310-5855508787cd
+- https://appservice.azure.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

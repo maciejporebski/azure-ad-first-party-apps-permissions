@@ -1,4 +1,12 @@
-# Office 365 Management APIs (c5393580-f805-4401-95e8-94b7a6ef2fc2)
+# Office 365 Management APIs
+## Service Principal Names
+- c5393580-f805-4401-95e8-94b7a6ef2fc2
+- https://manage.office.com
+- https://manage.office365.us
+- https://manage.protection.apps.mil
+- https://manage-gcc.office.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

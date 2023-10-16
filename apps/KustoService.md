@@ -1,4 +1,9 @@
-# KustoService (2746ea77-4702-4b45-80ca-3c97e680e8b7)
+# KustoService
+## Service Principal Names
+- 2746ea77-4702-4b45-80ca-3c97e680e8b7
+- https://kusto.aria.microsoft.com/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

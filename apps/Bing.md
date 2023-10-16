@@ -1,4 +1,16 @@
-# Bing (9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7)
+# Bing
+## Service Principal Names
+- https://msbbotservice.microsoft.com
+- 9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7
+- https://www4.bing.com
+- https://www2.bing.com
+- https://6.bing.com
+- https://4.bing.com
+- https://2.bing.com
+- https://www.bing.com
+- https://cn.bing.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

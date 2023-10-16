@@ -1,4 +1,9 @@
-# Microsoft To-Do (c830ddb0-63e6-4f22-bd71-2ad47198a23e)
+# Microsoft To-Do
+## Service Principal Names
+- c830ddb0-63e6-4f22-bd71-2ad47198a23e
+- https://substrate.office.com/todo
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

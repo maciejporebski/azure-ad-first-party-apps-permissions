@@ -1,4 +1,9 @@
-# Azure Time Series Insights (120d688d-1518-4cf7-bd38-182f158850b6)
+# Azure Time Series Insights
+## Service Principal Names
+- https://api.timeseries.azure.com/
+- 120d688d-1518-4cf7-bd38-182f158850b6
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

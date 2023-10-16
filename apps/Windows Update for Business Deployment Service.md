@@ -1,4 +1,8 @@
-# Windows Update for Business Deployment Service (61ae9cd9-7bca-458c-affc-861e2f24ba3b)
+# Windows Update for Business Deployment Service
+## Service Principal Names
+- 61ae9cd9-7bca-458c-affc-861e2f24ba3b
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

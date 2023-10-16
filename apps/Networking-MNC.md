@@ -1,4 +1,8 @@
-# Networking-MNC (6d057c82-a784-47ae-8d12-ca7b38cf06b4)
+# Networking-MNC
+## Service Principal Names
+- 6d057c82-a784-47ae-8d12-ca7b38cf06b4
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

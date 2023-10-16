@@ -1,4 +1,12 @@
-# Windows Store for Business (45a330b1-b1ec-4cc1-9161-9f03992aa49f)
+# Windows Store for Business
+## Service Principal Names
+- 45a330b1-b1ec-4cc1-9161-9f03992aa49f
+- https://onestore.microsoft.com
+- https://onestore.dev.microsoft.com
+- https://onestore.corp.microsoft.com
+- https://onestore-df.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

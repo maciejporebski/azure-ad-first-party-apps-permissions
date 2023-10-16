@@ -1,4 +1,32 @@
-# Power BI Service (00000009-0000-0000-c000-000000000000)
+# Power BI Service
+## Service Principal Names
+- https://api.fabric.microsoft.com
+- api://app.powerbi.com/botid-61cccd33-6c1a-4329-b091-504c7ddd882f
+- api://msit.powerbi.com/botid-7b49e98b-e124-449c-a99f-16894b5572d8
+- api://dxt.powerbi.com/botid-4eb9ce96-03c5-42ec-93f8-c6417a473800
+- api://daily.powerbi.com/botid-1d8f972c-f346-4130-8eaa-dece10666c2d
+- api://daily.powerbi.com/00000009-0000-0000-c000-000000000000
+- api://dxt.powerbi.com/00000009-0000-0000-c000-000000000000
+- api://msit.powerbi.com/00000009-0000-0000-c000-000000000000
+- api://app.powerbi.com/00000009-0000-0000-c000-000000000000
+- api://botid-1d8f972c-f346-4130-8eaa-dece10666c2d
+- api://botid-4eb9ce96-03c5-42ec-93f8-c6417a473800
+- api://botid-7b49e98b-e124-449c-a99f-16894b5572d8
+- api://botid-61cccd33-6c1a-4329-b091-504c7ddd882f
+- api://embedded.powerbi.com/00000009-0000-0000-c000-000000000000
+- api://botid-f433e0e9-d3ff-42fb-abe1-e91e34f5f293
+- 00000009-0000-0000-c000-000000000000/analysis.windows.net
+- 00000009-0000-0000-c000-000000000000
+- https://analysis.windows.net/powerbi/api-management
+- https://analysis.windows.net/powerbi/api
+- api://botid-cbba985a-17bf-4a94-aedd-601b84e47e70
+- api://botid-10231bf5-a479-49bd-90bf-3d452fbdd06b
+- api://botid-190e2548-e973-438f-904e-75ed471108a8
+- api://botid-365f198c-f33d-4b87-b209-62033e2f4d6f
+- api://botid-b76e1078-3416-45a9-bb7a-54828299362f
+- api://botid-18563b69-42ea-4693-9fe8-32ed3cab102d
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

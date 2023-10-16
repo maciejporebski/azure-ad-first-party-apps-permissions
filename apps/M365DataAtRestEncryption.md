@@ -1,4 +1,16 @@
-# M365DataAtRestEncryption (c066d759-24ae-40e7-a56f-027002b5d3e4)
+# M365DataAtRestEncryption
+## Service Principal Names
+- c066d759-24ae-40e7-a56f-027002b5d3e4
+- https://outlook.office.com/CustomerKeyEncryptionService
+- https://outlook.office365.com/CustomerKeyEncryptionService
+- https://substrate.office.com/CustomerKeyEncryptionService
+- https://outlook-sdf.office365.com/CustomerKeyEncryptionService
+- https://outlook.office365.us/CustomerKeyEncryptionService
+- https://outlook-dod.office365.us/CustomerKeyEncryptionService
+- https://substrate-dod.office365.us/CustomerKeyEncryptionService
+- https://substrate.office365.us/CustomerKeyEncryptionService
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

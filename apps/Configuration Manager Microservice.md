@@ -1,4 +1,11 @@
-# Configuration Manager Microservice (557c67cf-c916-4293-8373-d584996f60ae)
+# Configuration Manager Microservice
+## Service Principal Names
+- https://cmmicrosvc.manage-mig.microsoft.com/
+- 557c67cf-c916-4293-8373-d584996f60ae
+- https://cmmicrosvc.manage.microsoft.com/
+- https://cmmicrosvc.manage-selfhost.microsoft.com/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

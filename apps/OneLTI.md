@@ -1,4 +1,9 @@
-# OneLTI (d3ee6f25-becc-4659-9bc6-bbe6af7d18e6)
+# OneLTI
+## Service Principal Names
+- d3ee6f25-becc-4659-9bc6-bbe6af7d18e6
+- https://lti.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

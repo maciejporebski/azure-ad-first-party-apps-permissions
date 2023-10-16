@@ -1,4 +1,10 @@
-# Device Registration Service (01cb2876-7ebd-4aa4-9cc9-d28bd4d359a9)
+# Device Registration Service
+## Service Principal Names
+- 01cb2876-7ebd-4aa4-9cc9-d28bd4d359a9
+- urn:ms-drs:enterpriseregistration.microsoftonline.us
+- urn:ms-drs:enterpriseregistration.windows.net
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

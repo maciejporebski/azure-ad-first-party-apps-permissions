@@ -1,4 +1,9 @@
-# Azure Maps (ba1ea022-5807-41d5-bbeb-292c7e1cf5f6)
+# Azure Maps
+## Service Principal Names
+- ba1ea022-5807-41d5-bbeb-292c7e1cf5f6
+- https://atlas.microsoft.com/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

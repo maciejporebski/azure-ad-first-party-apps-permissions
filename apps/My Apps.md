@@ -1,4 +1,8 @@
-# My Apps (2793995e-0a7d-40d7-bd35-6968ba142197)
+# My Apps
+## Service Principal Names
+- 2793995e-0a7d-40d7-bd35-6968ba142197
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

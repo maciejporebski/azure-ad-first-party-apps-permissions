@@ -1,4 +1,66 @@
-# Signup (b4bddae8-ab25-483e-8670-df09b9f1d0ea)
+# Signup
+## Service Principal Names
+- https://svc.prv.signup.microsoft.com/
+- https://svc.prv.signup.microsoft.com
+- https://svc.signup.microsoft.com/
+- https://svc.signup.microsoft.com
+- https://ncu.prv.signup.microsoft.com
+- https://ejp.signup.microsoft.com
+- https://wus.signup.microsoft.com
+- https://eus.signup.microsoft.com
+- https://scu.signup.microsoft.com
+- https://sea.signup.microsoft.com
+- https://weu.signup.microsoft.com
+- https://neu.signup.microsoft.com
+- https://ncu.signup.microsoft.com
+- https://ncu.signup.microsoft.com/
+- https://neu.signup.microsoft.com/
+- https://weu.signup.microsoft.com/
+- https://sea.signup.microsoft.com/
+- https://scu.signup.microsoft.com/
+- https://eus.signup.microsoft.com/
+- https://wus.signup.microsoft.com/
+- https://ejp.signup.microsoft.com/
+- https://ncu.prv.signup.microsoft.com/
+- https://scu.prv.signup.microsoft.com
+- https://scu.prv.signup.microsoft.com/
+- https://prv.signup.microsoft.com
+- https://prv.signup.microsoft.com/
+- https://signup.microsoft.us
+- https://signup.microsoft.us/
+- https://az.signup.microsoft.us
+- https://az.signup.microsoft.us/
+- https://va.signup.microsoft.us
+- https://va.signup.microsoft.us/
+- b4bddae8-ab25-483e-8670-df09b9f1d0ea
+- https://scusignupprv.microsoft.com/
+- https://ncusignupprv.microsoft.com/
+- https://wjpsignup.microsoft.com/
+- https://ejpsignup.microsoft.com/
+- https://wussignup.microsoft.com/
+- https://eussignup.microsoft.com/
+- https://scusignup.microsoft.com/
+- https://eassignup.microsoft.com/
+- https://seasignup.microsoft.com/
+- https://weusignup.microsoft.com/
+- https://neusignup.microsoft.com/
+- https://ncusignup.microsoft.com/
+- https://signup.microsoft.com/
+- https://signup.microsoft.com
+- https://ncusignup.microsoft.com
+- https://neusignup.microsoft.com
+- https://weusignup.microsoft.com
+- https://seasignup.microsoft.com
+- https://eassignup.microsoft.com
+- https://scusignup.microsoft.com
+- https://eussignup.microsoft.com
+- https://wussignup.microsoft.com
+- https://ejpsignup.microsoft.com
+- https://wjpsignup.microsoft.com
+- https://ncusignupprv.microsoft.com
+- https://scusignupprv.microsoft.com
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

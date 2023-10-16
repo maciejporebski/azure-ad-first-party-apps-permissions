@@ -1,4 +1,9 @@
-# Search Federation Connector - Dataverse (9c60a40b-b5c5-4d01-8588-776209c80db3)
+# Search Federation Connector - Dataverse
+## Service Principal Names
+- 9c60a40b-b5c5-4d01-8588-776209c80db3
+- api://9c60a40b-b5c5-4d01-8588-776209c80db3
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

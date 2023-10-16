@@ -1,4 +1,9 @@
-# Microsoft.ServiceBus (80a10ef9-8168-493d-abf9-3297c4ef6e3c)
+# Microsoft.ServiceBus
+## Service Principal Names
+- 80a10ef9-8168-493d-abf9-3297c4ef6e3c
+- https://servicebus.azure.net
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

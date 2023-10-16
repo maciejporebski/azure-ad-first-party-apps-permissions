@@ -1,4 +1,9 @@
-# CompliancePolicy (644c1b11-f63f-45fa-826b-a9d2801db711)
+# CompliancePolicy
+## Service Principal Names
+- 644c1b11-f63f-45fa-826b-a9d2801db711
+- https://substrate.office.com/CompliancePolicy
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

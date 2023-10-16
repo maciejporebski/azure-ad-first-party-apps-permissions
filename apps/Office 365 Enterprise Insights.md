@@ -1,4 +1,10 @@
-# Office 365 Enterprise Insights (f9d02341-e7aa-456d-926d-4a0ca599fbee)
+# Office 365 Enterprise Insights
+## Service Principal Names
+- https://accessibilityreport.office.net/
+- f9d02341-e7aa-456d-926d-4a0ca599fbee
+- https://insights.office.net/
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

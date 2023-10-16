@@ -1,4 +1,8 @@
-# Azure Resource Graph (509e4652-da8d-478d-a730-e9d4a1996ca4)
+# Azure Resource Graph
+## Service Principal Names
+- 509e4652-da8d-478d-a730-e9d4a1996ca4
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

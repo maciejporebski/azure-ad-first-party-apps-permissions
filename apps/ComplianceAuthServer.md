@@ -1,4 +1,11 @@
-# ComplianceAuthServer (9e5d84af-8971-422f-968a-354cd675ae5b)
+# ComplianceAuthServer
+## Service Principal Names
+- https://substrate.office365.us/ComplianceAuthServer
+- https://substrate-dod.office365.us/ComplianceAuthServer
+- 9e5d84af-8971-422f-968a-354cd675ae5b
+- https://substrate.office.com/ComplianceAuthServer
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

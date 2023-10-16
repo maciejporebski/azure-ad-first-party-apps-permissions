@@ -1,4 +1,8 @@
-# Azure AD Identity Governance Insights (58c746b0-a0b0-4647-a8f6-12dde5981638)
+# Azure AD Identity Governance Insights
+## Service Principal Names
+- 58c746b0-a0b0-4647-a8f6-12dde5981638
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

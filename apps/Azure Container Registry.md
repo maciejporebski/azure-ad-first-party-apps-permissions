@@ -1,4 +1,8 @@
-# Azure Container Registry (6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26)
+# Azure Container Registry
+## Service Principal Names
+- 6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 

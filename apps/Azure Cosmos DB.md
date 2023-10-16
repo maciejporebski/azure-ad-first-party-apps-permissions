@@ -1,4 +1,8 @@
-# Azure Cosmos DB (a232010e-820c-4083-83bb-3ace5fc29d0b)
+# Azure Cosmos DB
+## Service Principal Names
+- a232010e-820c-4083-83bb-3ace5fc29d0b
+
+ ## Permissions
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 
