@@ -4,7 +4,7 @@ $servicePrincipals = Get-MgServicePrincipal -All
 $firstPartyServicePrincipals = $servicePrincipals | Where-Object {$_.AppOwnerOrganizationId -eq 'f8cdef31-a31e-4b4a-93e4-5f571e91255a'}
 $firstPartyServicePrincipalsWithRoles = $firstPartyServicePrincipals | Where-Object {$_.Oauth2PermissionScopes.Count -gt 0 -or $_.AppRoles.Count -gt 0} | Sort-Object -Property DisplayName
 
-$readmeMarkdown = "# Azure AD First Party Apps Permissions Reference`n`n"
+$readmeMarkdown = "# Azure AD First Party Apps Permissions`n`n"
 $readmeMarkdown += "| Display Name | App Id |`n|---|---|`n"
 
 foreach($principal in $firstPartyServicePrincipalsWithRoles) {
