@@ -1,4 +1,4 @@
-# Office365 Zoom (0d38933a-0bbd-41ca-9ebd-28c4b5ba7cb7)
+# Fidalgo Dataplane Public (e526e72f-ffae-44a0-8dac-cf14b8bd40e2)
 - [Application Permissions](#application-permissions)
 - [Delegated Permissions](#delegated-permissions)
 
@@ -13,6 +13,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| Connector.Read | 06d98eed-6e1d-47d1-af81-f69ca60a0e97 | Connector.Read | Allow app to access compliance connector |
-| eDiscovery.Export.Download | df0d2e21-1705-4006-b158-1114609fdfbd | eDiscovery.Export.Download | Allow app to download the ediscovery exported data |
+| access_as_user | 983c9dc3-3bcf-4538-9937-bab8b1a31d86 | access_as_user | Allows users to access Fidalgo resources. |
 

@@ -7,6 +7,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| AdminAppCatalog.Read.All | 4f217d7c-5ea7-4dde-a269-9025b80f2cd5 | Read user app assignment | This allows reading user app assignments. |
 | Region.Read.All | 0d9ce864-39e5-424f-8556-b68ce5dac482 | Read user region | Allows the app to read the region for all users in your organization. |
 | Region.ReadWrite.All | 3ed42bc3-d6ed-4cf4-9531-d521e361223e | Read or write user region | Allows the app to read or write the region for all users in your organization. |
 | user_impersonation | fd7bf697-168c-45be-b7ba-e94b3529deff | Have full access to the Skype Teams Service | Allow the application full access to the Skype Teams Service on behalf of the signed-in user |

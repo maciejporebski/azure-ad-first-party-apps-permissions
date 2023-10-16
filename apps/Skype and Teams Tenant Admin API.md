@@ -8,7 +8,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | application_access | 15391dcf-e272-4693-b514-06792e967d66 | application_access | Grant appId full permission |
-| application_access_custom_sba_appliance | 2becb389-af30-4221-8e0a-3384b5a0c656 | application_access_custom_sba_appliance | Grant Sba Appliance permissions |
+| application_access_custom_sba_appliance | 2becb389-af30-4221-8e0a-3384b5a0c656 | Permission for Survivable Branch Appliance (SBA) only | Grant Sba Appliance permissions |
 | Communications.Get | f9d2a51f-70e2-41af-b617-3fceaa33ae55 | Get Communication data | Get communication data for the tenant. |
 
 ## Delegated Permissions
