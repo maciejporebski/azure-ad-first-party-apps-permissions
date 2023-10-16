@@ -1,0 +1,45 @@
+name: Update Apps
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  push:
+    branches: [ master ]
+
+permissions:
+      id-token: write
+      contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Azure Login
+      uses: Azure/login@v1
+      with:
+        client-id: ${{ secrets.AZURE_CLIENT_ID }}
+        tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+        subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+        enable-AzPSSession: true
+    - name: Get Updated Apps
+      uses: Azure/powershell@v1
+      with:
+        inlineScript: |
+          Set-Location $ENV:GITHUB_WORKSPACE
+          Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
+          dir
+          ./src/Get-AppPermissions.ps1
+        azPSVersion: latest
+    - name: Commit changes
+      run: |
+        cd $GITHUB_WORKSPACE
+        now=$(date)
+        git config --global user.email "macporebski@gmail.com"
+        git config --global user.name "Maciej Porebski"
+        git add --all
+        if [ -n "$(git status --porcelain)" ]
+        then
+          git commit -a -m "auto update apps $now"
+          git push
+        fi
