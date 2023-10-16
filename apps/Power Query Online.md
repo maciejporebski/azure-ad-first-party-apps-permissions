@@ -12,6 +12,8 @@ Your application runs as a background service or daemon without a signed-in user
 | EvaluatorApi.AccessAsUser.All | 6ee71d64-f037-41c8-a304-0da50cb763e3 | EvaluatorApi.AccessAsUser.All | Gives the ability to call the api evaluator route with an S2S token and User and Tenant headers for the actual user |
 | Mashup.Evaluate | 3438898e-1b63-4276-bc81-84a61abeeb2c | Mashup.Evaluate | Evaluate M queries |
 | PowerPlatformDataflowApi.ReadWrite.All | 8b009198-76cd-4d24-89d8-e12ac56fd300 | PowerPlatformDataflowApi.ReadWrite.All | Allow read and write access to Power Platform Dataflows public APIs using S2S app only token |
+| PowerPlatformDataflowsDataverseApi.ReadWrite.All | 2dbb57c8-3461-4859-9577-f871158be1c7 | PowerPlatformDataflowsDataverseApi.ReadWrite.All | Allows Dataverse read and write access to Power Platform Dataflows using S2S app only token |
+| Testing.NoOp.All | 122be7f0-6f45-4d5d-8fe6-c92b9bae636d | Testing.NoOp.All | Testing.NoOp.All (Internal) |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
@@ -21,5 +23,6 @@ Your application needs to access the API as the signed-in user.
 | Connections.ReadWrite | c2fcc4d2-7ef5-45ac-a21d-fcb82e7d9fc2 | Connections.ReadWrite | Use and manage connections |
 | EditingSession.ReadWrite | 4b99a07e-1b47-4c8b-8775-199c5fa09a95 | EditingSession.ReadWrite | Read and edit mashups |
 | Mashup.Evaluate | 3438898e-1b63-4276-bc81-84a61abeeb2c | Mashup.Evaluate | Evaluate M queries |
+| Testing.NoOp | 89207a8a-fa24-4101-b973-725978114688 | Testing.NoOp | Testing.NoOp (Internal) |
 | user_impersonation | 8c4dd85b-a993-4034-b2b0-08e093385143 | Access Power Query Online | Allow the application to access Power Query Online on behalf of the signed-in user. |
 

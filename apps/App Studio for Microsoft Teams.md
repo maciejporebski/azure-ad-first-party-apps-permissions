@@ -8,6 +8,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | AppIngestionRequest.Validate.All | 125eb975-f89a-4807-b696-11f7e7eb1294 | AppIngestionRequest.Validate.All | Allows the app to validate pending app-ingestion requests for Teams Platform. |
+| AppValidationResult.ReadWrite.All | 6a040c26-0d11-4c89-96a6-b18e396e33be | AppValidationResult.ReadWrite.All | Allows the app to update the results for the AppValidation request submitted in Teams Developer Portal.  |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 

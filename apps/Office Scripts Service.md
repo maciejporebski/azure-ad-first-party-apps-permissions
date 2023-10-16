@@ -8,6 +8,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Service.Administration | 2dd17dc1-e00f-4851-8746-c6c2651ccd34 | Service.Administration | Allows user to perform administration tasks for Office Scripts. |
+| Service.Webhooks | 9452cd56-047c-4fcb-853f-56e0e2d4201e | Service.Webhooks | Allows webhooks requests to Office Scripts service. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
