@@ -1,5 +1,7 @@
 # Signup
 ## Service Principal Names
+- https://aircapi.signup.microsoft.com
+- https://aircapi.signup.microsoft.com/
 - https://svc.prv.signup.microsoft.com/
 - https://svc.prv.signup.microsoft.com
 - https://svc.signup.microsoft.com/
