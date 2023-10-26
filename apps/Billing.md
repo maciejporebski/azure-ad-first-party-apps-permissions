@@ -11,6 +11,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| FullTrustEAPartnerOrganizationsReader | 1224c7b4-5fd0-40e8-a122-2fb278e6d012 | FullTrustEAPartnerOrganizationsReader | FullTrust EA Partner Organizations Reader |
 | SubscriptionMigrator | 9edf2859-df6b-4ef5-ab1b-fd2837e2f7f7 | SubscriptionMigrator | Subscription Migrator |
 
 ## Delegated Permissions
