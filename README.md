@@ -23,6 +23,7 @@
 | [Azure Maps](<apps/Azure Maps.md>) | ba1ea022-5807-41d5-bbeb-292c7e1cf5f6<br>https://atlas.microsoft.com/ |
 | [Azure Media Services](<apps/Azure Media Services.md>) | 374b2a64-3b6b-436b-934c-b820eacca870<br>https://armrp.media.azure.net/ |
 | [Azure OSSRDBMS Database](<apps/Azure OSSRDBMS Database.md>) | 123cd850-d9df-40bd-94d5-c9f07b7fa203<br>https://ossrdbms-aad.database.windows.net |
+| [Azure Purview](<apps/Azure Purview.md>) | 73c2949e-da2d-457a-9607-fcc665198967<br>https://projectbabylon.azure.net<br>https://projectbabylon.azure.net/<br>https://purview.azure.net<br>https://purview.azure.net/ |
 | [Azure Resource Graph](<apps/Azure Resource Graph.md>) | 509e4652-da8d-478d-a730-e9d4a1996ca4 |
 | [Azure SQL Database](<apps/Azure SQL Database.md>) | 022907d3-0f1b-48f7-badc-1ba6abab6d66<br>https://database.usgovcloudapi.net/<br>https://database.windows.net/<br>https://sql.azuresynapse.net/ |
 | [Azure Storage](<apps/Azure Storage.md>) | e406a681-f3d4-42a8-90b6-c2b029497af1<br>https://storage.azure.com |
