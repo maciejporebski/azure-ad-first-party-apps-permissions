@@ -22,6 +22,7 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Table.Realtime.All | fbd29bb8-d4d8-4bfd-b2b6-7a22d9ca1b68 | Table.Realtime.All | Allow the app to setup SignalR connection and get Realtime notification messages of a table |
 | Tables.Read.All | 8a0d27a3-f8ca-43ba-925f-a142eaee6f5c | Read tables and rows | Allows the app to read tables and table rows on behalf of the signed-in user. |
 | Tables.Read.AllX | fc5c4bcd-3e26-418a-906c-cf1a2e692ebc | Read tables and rows | Allows the app to read tables and table rows on behalf of the signed-in user. |
 | Tables.ReadWrite.All | db8caea5-91dd-44ad-b07e-9421e18e6892 | Read and write tables and rows | Allows the app to read, create, update, and delete tables and table rows on behalf of the signed-in user. |
