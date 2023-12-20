@@ -28,6 +28,7 @@ Your application needs to access the API as the signed-in user.
 | Connections.ReadWrite | c2fcc4d2-7ef5-45ac-a21d-fcb82e7d9fc2 | Connections.ReadWrite | Use and manage connections |
 | EditingSession.ReadWrite | 4b99a07e-1b47-4c8b-8775-199c5fa09a95 | EditingSession.ReadWrite | Read and edit mashups |
 | Mashup.Evaluate | 3438898e-1b63-4276-bc81-84a61abeeb2c | Mashup.Evaluate | Evaluate M queries |
+| MashupProviderApi.Read | baab12c3-28f7-4c88-934b-23ffcaad424a | MashupProviderApi.Read | Use the ManagedProvider API for readonly operations |
 | Testing.NoOp | 89207a8a-fa24-4101-b973-725978114688 | Testing.NoOp | Testing.NoOp (Internal) |
 | user_impersonation | 8c4dd85b-a993-4034-b2b0-08e093385143 | Access Power Query Online | Allow the application to access Power Query Online on behalf of the signed-in user. |
 
