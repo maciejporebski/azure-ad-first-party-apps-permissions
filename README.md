@@ -15,6 +15,7 @@
 | [Azure Container Registry](<apps/Azure Container Registry.md>) | 6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26 |
 | [Azure Cosmos DB](<apps/Azure Cosmos DB.md>) | a232010e-820c-4083-83bb-3ace5fc29d0b |
 | [Azure CosmosDB for PostgreSQL AAD Authentication](<apps/Azure CosmosDB for PostgreSQL AAD Authentication.md>) | b4fa09d8-5da5-4352-83d9-05c2a44cf431<br>https://postgres.cosmos.azure.com |
+| [Azure CosmosDB for PostgreSQL Microsoft EntraId](<apps/Azure CosmosDB for PostgreSQL Microsoft EntraId.md>) | ecafc2d9-cf1a-49a7-b60f-e44e34a988d2 |
 | [Azure Data Lake](<apps/Azure Data Lake.md>) | e9f49c6b-5ce5-44c8-925d-015017e9f7ad<br>https://datalake.azure.net/<br>https://KonaCompute.net |
 | [Azure DevOps](<apps/Azure DevOps.md>) | 499b84ac-1321-427f-aa17-267ca6975798<br>https://wcus0.app.vssps.visualstudio.com<br>https://app.vssps.visualstudio.com/<br>https://app.vssps.vsallin.net/<br>https://analytics.dev.azure.com/ |
 | [Azure HDInsight Cluster API](<apps/Azure HDInsight Cluster API.md>) | 7865c1d2-f040-46cc-875f-831a1ef6a28a<br>https://hib.azurehdinsight.net |
