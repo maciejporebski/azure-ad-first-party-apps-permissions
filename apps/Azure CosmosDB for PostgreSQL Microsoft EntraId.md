@@ -11,7 +11,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| app_impersonation | 45b2dd25-66bb-4e03-8945-c0781f29fc85 | Azure CPG Prod | Access CPG Prod services from the application |
+| app_impersonation | bb7fb9ee-c8d2-4c3b-853e-af20f589cb42 | Azure CPG Prod | Access CPG Prod services from the application |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
