@@ -1,5 +1,6 @@
 # Reading Assignments
 ## Service Principal Names
+- https://localhost:50443
 - https://edu-readingassignments-int2.westus2.cloudapp.azure.com
 - https://edu-readingassignments-prod.eastus2.cloudapp.azure.com
 - 22d27567-b3f0-4dc2-9ec2-46ed368ba538
