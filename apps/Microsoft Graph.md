@@ -267,9 +267,6 @@ Your application runs as a background service or daemon without a signed-in user
 | PeopleSettings.Read.All | ef02f2e7-e22d-4c77-8614-8f765683b86e | Read all tenant-wide people settings | Allows the application to read tenant-wide people settings without a signed-in user. |
 | PeopleSettings.ReadWrite.All | b6890674-9dd5-4e42-bb15-5af07f541ae1 | Read and write all tenant-wide people settings | Allows the application to read and write tenant-wide people settings without a signed-in user. |
 | Place.Read.All | 913b9306-0ce1-42b8-9137-6a7df690a760 | Read all company places | Allows the app to read company places (conference rooms and room lists) for calendar events and other applications, without a signed-in user. |
-| PlaceDevice.Read.All | 8b724a84-ceac-4fd9-897e-e31ba8f2d7a3 | Read all workplace devices | Allows the app to read all workplace devices, without a signed-in user. |
-| PlaceDevice.ReadWrite.All | 2d510721-5c4e-43cd-bfdb-ac0f8819fb92 | Read and write all workplace devices | Allows the app to read and write all workplace devices, without a signed-in user. |
-| PlaceDeviceTelemetry.ReadWrite.All | 27fc435f-44e2-4b30-bf3c-e0ce74aed618 | Write telemetry for all workplace devices. | Allows the app to write telemetry for all workplace devices, without a signed-in user. |
 | Policy.Read.All | 246dd0d5-5bd0-4def-940b-0421030a5b68 | Read your organization's policies | Allows the app to read all your organization's policies without a signed in user. |
 | Policy.Read.ConditionalAccess | 37730810-e9ba-4e46-b07e-8ca78d182097 | Read your organization's conditional access policies | Allows the app to read your organization's conditional access policies, without a signed-in user. |
 | Policy.Read.IdentityProtection | b21b72f6-4e6a-4533-9112-47eea9f97b28 | Read your organization’s identity protection policy | Allows the app to read your organization’s identity protection policy without a signed-in user.  |
@@ -732,8 +729,6 @@ Your application needs to access the API as the signed-in user.
 | PeopleSettings.ReadWrite.All | e67e6727-c080-415e-b521-e3f35d5248e9 | Read and write tenant-wide people settings | Allows the application to read and write tenant-wide people settings on behalf of the signed-in user. |
 | Place.Read.All | cb8f45a0-5c2e-4ea1-b803-84b870a7d7ec | Read all company places | Allows the app to read your company's places (conference rooms and room lists) for calendar events and other applications, on behalf of the signed-in user. |
 | Place.ReadWrite.All | 4c06a06a-098a-4063-868e-5dfee3827264 | Read and write organization places | Allows the app to manage organization places (conference rooms and room lists) for calendar events and other applications, on behalf of the signed-in user. |
-| PlaceDevice.Read.All | 4c7f93d2-6b0b-4e05-91aa-87842f0a2142 | Read all workplace devices | Allows the app to read all workplace devices, without a signed-in user. |
-| PlaceDevice.ReadWrite.All | eafd6a71-e95a-4f8a-bb6e-fb84ab7fbd9e | Read and write all workplace devices | Allows the app to read and write all workplace devices, on behalf of the signed-in user. |
 | Policy.Read.All | 572fea84-0151-49b2-9301-11cb16974376 | Read your organization's policies | Allows the app to read your organization's policies on behalf of the signed-in user. |
 | Policy.Read.ConditionalAccess | 633e0fce-8c58-4cfb-9495-12bbd5a24f7c | Read your organization's conditional access policies | Allows the app to read your organization's conditional access policies on behalf of the signed-in user. |
 | Policy.Read.IdentityProtection | d146432f-b803-4ed4-8d42-ba74193a6ede | Read your organization’s identity protection policy | Allows the app to read your organization’s identity protection policy on behalf of the signed-in user.  |

@@ -42,6 +42,7 @@ Your application runs as a background service or daemon without a signed-in user
 | OcrBillingConfiguration-Internal.Write.All | a585dd3a-70b6-4ff4-a1b9-093b4214e7e4 | OcrBillingConfiguration-Internal.Write.All | OcrBillingConfiguration-Internal.Write.All |
 | OneCyberRelocationData.tenant.read | 9b31c028-bb6a-4d1a-8295-4514d184c061 | OneCyberRelocationData.tenant.read | This allows apps to read the OneCyberRelocationData |
 | OneCyberRelocationData.tenant.write | 03f3ead7-60e6-4522-847b-8a67bb9c50df | OneCyberRelocationData.tenant.write | This allows apps to write the OneCyberRelocationData |
+| PolicyStatusSummary-Internal.Write.All | 6c68db0a-4608-48d3-b0bf-4d0917b88bef | PolicyStatusSummary-Internal.Write.All | PolicyStatusSummary-Internal.Write.All |
 | Purview.DataAccess.All | 67a4e76f-5125-4b64-bcd6-b42a60d47dbe | Purview.DataAccess.All | Purview.DataAccess.All |
 | QuarantinedMessage.Read.All | 3e4e080e-55db-4fa9-8d68-0d9199d4c792 | QuarantinedMessage.Read.All | QuarantinedMessage.Read.All |
 | Recipient.tenant.read | 81eac90b-5b5b-422f-8d2a-9bc2055c5453 | Recipient.tenant.read | Recipient.tenant.read |
