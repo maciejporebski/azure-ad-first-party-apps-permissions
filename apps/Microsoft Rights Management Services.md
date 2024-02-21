@@ -1,5 +1,6 @@
 # Microsoft Rights Management Services
 ## Service Principal Names
+- https://api.aadrm.com
 - 00000012-0000-0000-c000-000000000000/portal.aadrm.com
 - 00000012-0000-0000-c000-000000000000
 - https://aadrm.com/
