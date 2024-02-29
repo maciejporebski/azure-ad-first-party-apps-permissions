@@ -20,6 +20,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | CustomerKeyOnboarding-Internal.ReadWrite.All | 837e1541-7f8b-4fcf-a215-12fe252cd3e2 | CustomerKeyOnboarding-Internal.ReadWrite.All | This scope allows the holder to invoke customer onboarding scenarios |
+| CustomerKeyPolicy-Internal.WrapUnwrap.All | f8a2c9d1-31d8-4a2e-900a-4105aaf50280 | Wrap or Unwrap data using CustomerKey Encryption Policy | Allows application to Wrap or Unwrap data using CustomerKey Encryption Policy. |
 | CustomerKeyPolicy.WrapUnwrap | 42e29572-777c-48b4-bdaf-c63df6da65d3 | Wrap or Unwrap data using CustomerKey Encryption Policy | Allows application to Wrap or Unwrap data using CustomerKey Encryption Policy |
 | CustomerKeyRegistration-Internal.ReadWrite.All | d747c012-3ada-46fa-9807-9c2534d06a14 | Read or Write resource application registration data for any application | Allows an application to Read or Write resource application registration data for any application |
 | CustomerKeyRegistration.ReadWrite.All | 6bbe32a7-dfd3-4ab5-877a-62b4caa98d4d | Read or Write resource application registration data for their application | Allows an application to Read or Write resource application registration data for their application |
