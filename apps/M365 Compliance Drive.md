@@ -19,4 +19,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| SecurityCompliance.ComplianceDrive.Internal.Management | 8ead70b9-4918-4fd5-9ae8-47defb88d0e4 | SecurityCompliance.ComplianceDrive.Internal.Management | This allows app access to ComplianceDrive management APIs. |
 
