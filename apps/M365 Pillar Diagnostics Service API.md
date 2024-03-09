@@ -23,6 +23,8 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Diagnostic.Execute.All | a52c0b2d-afcf-4857-a222-1f5d6a79ccd9 | Diagnostic.Execute.All | Grants an app access to execute diagnostics |
+| Diagnostic.Execute.Copilot | 1023f883-54eb-4af8-807a-66522ba7993a | Diagnostic.Execute.Copilot | Grants a user access to execute Copilot diagnostics. |
+| Diagnostic.ReadOnly | f579a46f-964e-4d58-b326-6aeac33e7df6 | Diagnostic.ReadOnly | Grants a user access to look at the diagnostic history and diagnostic results, but does not allow the execution of any diagnostics. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
