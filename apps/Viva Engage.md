@@ -1,5 +1,6 @@
 # Viva Engage
 ## Service Principal Names
+- https://engage.cloud.microsoft/teams-branded-exp
 - https://engage.cloud.microsoft
 - https://engage.cloud.microsoft/embed
 - https://engage.cloud.microsoft/teams
