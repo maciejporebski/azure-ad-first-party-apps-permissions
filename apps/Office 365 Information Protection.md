@@ -73,6 +73,7 @@ Your application needs to access the API as the signed-in user.
 | LabelAnalyticsActivityData.Read.All | 2da9421b-01d5-43ec-9c8e-b1bfa4a8b2bb | LabelAnalyticsActivityData.Read.All | LabelAnalyticsActivityData.Read.All |
 | MessageTrace.Read.All | 06ab0d31-7112-476e-a479-66394bec63d6 | MessageTrace.Read.All | MessageTrace.Read.All |
 | mtproleinfo.read | 6f44fc23-ea08-4666-8329-85597e11bdcd | mtproleinfo.read | This allows user to read MtpRoleInfo |
+| Purview.DataAccess.All | 739f66f6-655e-48e4-b5bd-2bbeb6077954 | Purview.DataAccess.All | Purview.DataAccess.All |
 | QuarantinedMessage.Read.All | 3e4e080e-55db-4fa9-8d68-0d9199d4c792 | QuarantinedMessage.Read.All | QuarantinedMessage.Read.All |
 | RbacAccessCheck.read | 384a8502-84c5-41d9-a875-7834b77c8005 | RbacAccessCheck.read | This Allows User to read the Rbac Roles |
 | RbacTenantStatus.Read | edfd2d1c-b4b5-4b83-b5e8-c38594e49c26 | RbacTenantStatus.Read | RbacTenantStatus.Read |
