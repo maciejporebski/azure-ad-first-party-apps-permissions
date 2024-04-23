@@ -1,5 +1,8 @@
 # Microsoft Forms
 ## Service Principal Names
+- api://forms.cloud.microsoft/c9a559d2-7aab-4f13-a6ed-e7e9c52aec87
+- https://forms.cloud.microsoft
+- https://forms.cloud.microsoft/
 - api://forms.office.com/c9a559d2-7aab-4f13-a6ed-e7e9c52aec87
 - c9a559d2-7aab-4f13-a6ed-e7e9c52aec87
 - https://forms.office.com/
