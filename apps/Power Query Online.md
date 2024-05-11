@@ -12,6 +12,8 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Connections.AccessAppOnlyTokenProvider.All | 95aeaba8-4a57-4e56-90a4-59d203050155 | Connections.AccessAppOnlyTokenProvider.All | Grants the use of the AppOnlyTokenProvider |
+| Dataflow.AccessAsWellKnownClient.All | 51f5aba9-144c-498b-9fe1-0b26c046ec08 | Dataflow.AccessAsWellKnownClient.All | Grants WellKnown application capabilities |
 | DataflowLoadToCds.ReadWrite.All | 4f9439ec-3c94-45dc-9fa4-f18ff1e22bc9 | DataflowLoadToCds.ReadWrite.All | DataflowLoadToCds.ReadWrite.All (Internal) |
 | DocumentApi.AccessAsUser.All | 8aae893a-9dce-48ba-b1eb-2f1faeeb80a5 | DocumentApi.AccessAsUser.All | DocumentApi.AccessAsUser.All (Internal) |
 | EvaluatorApi.AccessAsUser.All | 6ee71d64-f037-41c8-a304-0da50cb763e3 | EvaluatorApi.AccessAsUser.All | Gives the ability to call the api evaluator route with an S2S token and User and Tenant headers for the actual user |
@@ -27,6 +29,9 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Connections.ReadWrite | c2fcc4d2-7ef5-45ac-a21d-fcb82e7d9fc2 | Connections.ReadWrite | Use and manage connections |
+| Dataflow.Evaluate | 355208ec-0e9f-4bf8-96a4-6d349d4823f5 | Dataflow.Evaluate | Evaluation (Refresh) of Dataflow |
+| Dataflow.Read | 28ad3777-4e07-48f5-8ecb-324389487993 | Dataflow.Read | Read operations on Dataflow |
+| Dataflow.ReadWrite | b91bb452-4b7f-43ac-98b7-fb77c1bc0cd3 | Dataflow.ReadWrite | CRUD operations on Dataflow |
 | EditingSession.ReadWrite | 4b99a07e-1b47-4c8b-8775-199c5fa09a95 | EditingSession.ReadWrite | Read and edit mashups |
 | EvaluatorApi.AccessAsUser | 30626504-99be-4341-8682-c4d047f88248 | EvaluatorApi.AccessAsUser | Gives the ability to call the api evaluator route with a user token |
 | Mashup.Evaluate | 3438898e-1b63-4276-bc81-84a61abeeb2c | Mashup.Evaluate | Evaluate M queries |
