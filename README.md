@@ -157,7 +157,6 @@
 | [OfficeServicesManager](<apps/OfficeServicesManager.md>) | 9e4a5442-a5c9-4f6f-b03f-5b9fcaaf24b1/odc.officeapps.live.com<br>9e4a5442-a5c9-4f6f-b03f-5b9fcaaf24b1<br>https://discovery.api.office.net<br>https://api.office.net<br>https://discovery.api.osi.apps.mil<br>https://discovery.api.osi.office365.us |
 | [Omnichannel for CS CRM ClientApp Primary](<apps/Omnichannel for CS CRM ClientApp Primary.md>) | d9ce8cfa-8bd8-4ff1-b39b-5e5dd5742935<br>https://microsoft.onmicrosoft.com/383f5965-1c8e-465d-8d4d-5d617a65a383 |
 | [Omnichannel for CS Provisioning App Primary](<apps/Omnichannel for CS Provisioning App Primary.md>) | 3957683c-3a48-4a6c-8706-a6e2d6883b02 |
-| [One Outlook Web](<apps/One Outlook Web.md>) | 9199bf20-a13f-4107-85dc-02114787ef48 |
 | [OneLTI](<apps/OneLTI.md>) | d3ee6f25-becc-4659-9bc6-bbe6af7d18e6<br>https://lti.microsoft.com |
 | [OneNote](<apps/OneNote.md>) | 2d4d3d8e-2be3-4bef-9f87-7875a61c29de/onenote.com<br>2d4d3d8e-2be3-4bef-9f87-7875a61c29de<br>https://onenote.com/<br>https://onenote.osi.office365.us/<br>https://onenote.gcc.osi.office365.us/<br>https://onenote.osi.apps.mil/ |
 | [OneProfile Service](<apps/OneProfile Service.md>) | b2cc270f-563e-4d8a-af47-f00963a71dcd<br>https://substrate.office.com/profile/ |
