@@ -1,5 +1,6 @@
 # Microsoft Teams Chat Aggregator
 ## Service Principal Names
+- api://botid-b1379a75-ce5e-4fa3-80c6-89bb39bf646c
 - https://csa.teams.microsoftonline.cn
 - b1379a75-ce5e-4fa3-80c6-89bb39bf646c
 - https://chatsvcagg.teams.microsoft.com

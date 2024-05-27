@@ -1,5 +1,6 @@
 # OCaaS Client Interaction Service
 ## Service Principal Names
+- https://clients.config.gcc.office.net/
 - https://clients.config.office.net
 - https://clients.config.gcc.office.com/
 - c2ada927-a9e2-4564-aae2-70775a2fa0af
