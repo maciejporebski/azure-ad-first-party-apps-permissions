@@ -31,6 +31,7 @@ Your application runs as a background service or daemon without a signed-in user
 | DynamicRiskPreventionTag.Tenant.Read | f63db487-96bf-49af-8a79-faa86287aee6 | DynamicRiskPreventionTag.Tenant.Read | DynamicRiskPreventionTag.Tenant.Read |
 | DynamicRiskPreventionTag.Tenant.Write | 15188c9e-7879-4e83-9d63-c728da8feb0d | DynamicRiskPreventionTag.Tenant.Write | DynamicRiskPreventionTag.Tenant.Write |
 | InsiderRiskData.Read.All | 57fee0bb-e97d-4e5c-a663-2b0c7ce0db37 | InsiderRiskData.Read.All | InsiderRiskData.Read.All |
+| M365ContentExplorer.Read.All | 26872368-3756-4995-a1d0-73cfa9d8f83a | M365ContentExplorer.Read.All | M365ContentExplorer.Read.All |
 | messageeventsummary.tenant.read | 51aa070e-cc8b-45a9-8530-3fc96b0aa701 | messageeventsummary.tenant.read | This scope allows Apps to read tenant's MessageEventSummary data |
 | MessageTrace.Read.All | 06ab0d31-7112-476e-a479-66394bec63d6 | MessageTrace.Read.All | MessageTrace.Read.All |
 | MessageTraceDetail.tenant.read | 85e837d7-9e4b-4bb2-9535-08bb51aa974a | MessageTraceDetail.tenant.read | MessageTraceDetail.tenant.read |
