@@ -19,5 +19,6 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Media.ReadWrite.All | 1fb9e96c-8a94-4464-bf6a-b5d0691f28eb | Media.ReadWrite.All | Allows Teams services to access the IC3 media services |
 | Teams.AccessAsUser.All | 69c9c045-4ac1-4e11-960c-5920f46aa6a6 | Teams.AccessAsUser.All | Allows Teams services to access IC3 services |
 
