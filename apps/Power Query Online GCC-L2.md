@@ -13,6 +13,8 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | DataflowLoadToCds.ReadWrite.All | aa57d559-2448-4fd4-b44b-358c1c7e0301 | DataflowLoadToCds.ReadWrite.All | DataflowLoadToCds.ReadWrite.All (Internal) |
+| DocumentApi.AccessAsUser.All | 8aae893a-9dce-48ba-b1eb-2f1faeeb80a5 | DocumentApi.AccessAsUser.All | DocumentApi.AccessAsUser.All (Internal) |
+| EvaluatorApi.AccessAsUser.All | 6ee71d64-f037-41c8-a304-0da50cb763e3 | EvaluatorApi.AccessAsUser.All | Gives the ability to call the api evaluator route with an S2S token and User and Tenant headers for the actual user |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
