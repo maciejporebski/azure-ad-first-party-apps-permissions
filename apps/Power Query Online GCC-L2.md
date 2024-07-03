@@ -22,5 +22,9 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | all.readwrite | 8d530000-db45-4c00-85fc-d2f328437d75 | All.ReadWrite | Allow read and write access to all APIs on Power Query Online |
+| Connections.ReadWrite | c2fcc4d2-7ef5-45ac-a21d-fcb82e7d9fc2 | Connections.ReadWrite | Use and manage connections |
+| EditingSession.ReadWrite | 4b99a07e-1b47-4c8b-8775-199c5fa09a95 | EditingSession.ReadWrite | Read and edit mashups |
+| Mashup.Evaluate | 3438898e-1b63-4276-bc81-84a61abeeb2c | Mashup.Evaluate | Evaluate M queries |
+| MashupProviderApi.Read | baab12c3-28f7-4c88-934b-23ffcaad424a | MashupProviderApi.Read | Use the ManagedProvider API for readonly operations |
 | user_impersonation | 863ec6c6-4b38-41ba-a117-fb3f24bd9643 | Access Power Query Online | Allow the application to access Power Query Online on behalf of the signed-in user. |
 
