@@ -81,6 +81,7 @@
 | [MDATPNetworkScanAgent](<apps/MDATPNetworkScanAgent.md>) | 04687a56-4fc2-4e36-b274-b862fb649733<br>https://securitycenter.onmicrosoft.com/MdatpNetworkScanAgent |
 | [Media Recording for Dynamics 365 Sales](<apps/Media Recording for Dynamics 365 Sales.md>) | f448d7e5-e313-4f90-a3eb-5dbb3277e4b3 |
 | [Membership View Service](<apps/Membership View Service.md>) | https://profiles.view.api.account.microsoft.com<br>f7a2a81e-ab33-4560-a3dd-6ddca3c5ec6d<br>https://view.api.account.microsoft.com |
+| [Microsoft Alchemy Service](<apps/Microsoft Alchemy Service.md>) | 91ad134d-5284-4adc-a896-d7fd24e9fa15<br>api://91ad134d-5284-4adc-a896-d7fd24e9fa15<br>https://alchemy.microsoft.com<br>https://alchemy.office.net<br>https://alchemy.officeppe.net |
 | [Microsoft Azure App Service](<apps/Microsoft Azure App Service.md>) | abfa0a7c-a6b6-4736-8310-5855508787cd<br>https://appservice.azure.com |
 | [Microsoft Azure Stream Analytics](<apps/Microsoft Azure Stream Analytics.md>) | 66f1e791-7bfb-4e18-aed8-1720056421c7<br>https://streamanalytics.microsoft.com |
 | [Microsoft Cloud App Security](<apps/Microsoft Cloud App Security.md>) | 05a65629-4c1b-48c1-a78b-804c4abdd4af |
