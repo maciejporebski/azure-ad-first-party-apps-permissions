@@ -1,5 +1,7 @@
 # Office Shredding Service
 ## Service Principal Names
+- https://msit.cosmic.shredder.osi.office.net/
+- https://msit.cosmic.shredder.osi.office.net
 - https://wus2-010.shredder.osi.office.net
 - https://wus2-010.shredder.osi.office.net/
 - https://aue-010.shredder.osi.office.net
