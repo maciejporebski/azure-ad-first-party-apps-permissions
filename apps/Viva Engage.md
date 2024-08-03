@@ -28,6 +28,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Analytics.Read.All | 74632bc0-f0fa-46bf-909e-aef9c9ae64c1 | Fetch analytics data | Allows the app to fetch analytics data from Viva Engage |
+| Communities.Read.All | 76f0448e-c4e9-4d05-8884-3e391c24b5cb | Fetch communities information | Allows the app to fetch information related to communities. |
 | Notification.Send.All | 42f58b5b-a80d-4260-a1a5-c9a412f6e0d4 | Send event to Viva Engage. | Allows the app to send event to the Viva Engage. |
 
 ## Delegated Permissions
