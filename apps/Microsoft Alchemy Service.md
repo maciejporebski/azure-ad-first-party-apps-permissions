@@ -21,5 +21,6 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Alchemy.Copilot.ReadAll | 06af25a8-88d6-410f-a7bb-f4145d14dff9 | Access read alchemy data | Have access to read alchemy data (copilot) |
 | Alchemy.Read.All | 38b77c04-6fc3-4040-b319-321b8db0501c | Access read alchemy data | Have access to read alchemy data |
 
