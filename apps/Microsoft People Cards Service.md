@@ -22,6 +22,7 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Files.Read | 1c95d935-5ae8-4181-944c-746c8b105528 | Access the Office People API | Allow access the Office People API |
+| Files.ReadWrite | 9beac4c9-e7ab-4507-9600-1f78e7d6097e | Access the Office People API | Allow access the Office People API |
 | Group.ReadWrite | 36e9a6a1-4901-4ea6-bf22-12fa030a7dda | Access the Office People API | Allow access the Office People API |
 | Insight.Read | de67d5fd-90b8-49f3-9ed1-d8010f5455a4 | Access the Office People API | Allow access the Office People API |
 | LinkedIn.ReadWrite | a46719cd-bc2e-4b9a-858b-ff793390fe77 | Access the Office People API | Allow access the Office People API |
