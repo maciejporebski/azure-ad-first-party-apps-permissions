@@ -14,6 +14,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| DtasGroup.ReadWrite.All | 372686f0-6494-4ca7-a0b5-253958e807a8 | Read and write all group information | Allows the app to read and update group information in your organization. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
