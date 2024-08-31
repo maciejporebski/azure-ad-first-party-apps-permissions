@@ -19,5 +19,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| user_impersonation | 41094075-9dad-400e-a0bd-54e686782033 | Access Azure Service Management as organization users | Allows the application to access the Azure Management Service API acting as users in the organization. |
+| user_impersonation | 41094075-9dad-400e-a0bd-54e686782033 | Access Azure Resource Manager as organization users | Allows the application to access Azure Resource Manager acting as users in the organization. |
 
