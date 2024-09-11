@@ -38,5 +38,8 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | access_as_user | 8e5870bb-8808-44dc-8e10-c509ed919ddd | Read and write to the Yammer platform (preview) | Allows the application to access the Yammer platform on behalf of the signed-in user. |
+| Community.Read.All | d24c7847-c878-47d2-a39f-b689f035800a | Read Viva Engage community | Allows the app to read Viva Engage community and their properties on behalf of the signed-in user. |
+| Community.ReadWrite.All | 57a10a57-3e4f-4080-b1c2-cd51de91422f | Create and read Viva Engage community | Allows the app to create Viva Engage community and read all community properties on behalf of the signed-in user. |
+| StorylineSettings.Read.All | e9b90d5f-b204-47e4-a2a7-8e4606cc93c1 | Read Storyline settings | Allows the app to read Storyline settings on behalf of the signed-in user. |
 | user_impersonation | 5db81a03-0de0-432b-b31e-71d57c8d2e0b | Read and write to the Yammer platform (preview) | Allows the application to access the Yammer platform on behalf of the signed-in user. |
 
