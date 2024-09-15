@@ -1,5 +1,6 @@
 # Microsoft Alchemy Service
 ## Service Principal Names
+- https://m365.alchemy.microsoft.com
 - 91ad134d-5284-4adc-a896-d7fd24e9fa15
 - api://91ad134d-5284-4adc-a896-d7fd24e9fa15
 - https://alchemy.microsoft.com

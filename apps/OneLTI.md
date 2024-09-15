@@ -1,5 +1,6 @@
 # OneLTI
 ## Service Principal Names
+- https://lti.ppe.microsoft.com
 - d3ee6f25-becc-4659-9bc6-bbe6af7d18e6
 - https://lti.microsoft.com
 

@@ -1,5 +1,11 @@
 # Office Shredding Service
 ## Service Principal Names
+- https://shredder-gcc.osi.office.net/
+- https://shredder-gcc.osi.office.net
+- https://usge-000.shredder.osi.office.net/
+- https://usge-000.shredder.osi.office.net
+- https://usgsw-000.shredder.osi.office.net/
+- https://usgsw-000.shredder.osi.office.net
 - https://msit.cosmic.shredder.osi.office.net/
 - https://msit.cosmic.shredder.osi.office.net
 - https://wus2-010.shredder.osi.office.net
