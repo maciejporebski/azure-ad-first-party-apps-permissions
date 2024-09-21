@@ -400,6 +400,8 @@ Your application runs as a background service or daemon without a signed-in user
 | SecurityIdentitiesHealth.ReadWrite.All | ab03ddd5-7ae4-4f2e-8af8-86654f7e0a27 | Read and write all identity security health issues | Allows the app to read and write identity security health issues without a signed-in user. |
 | SecurityIdentitiesSensors.Read.All | 5f0ffea2-f474-4cf2-9834-61cda2bcea5c | Read all identity security sensors | Allows the app to read all the identity security sensors without a signed-in user. |
 | SecurityIdentitiesSensors.ReadWrite.All | d4dcee6d-0774-412a-b06c-aeabbd99e816 | Read and write all identity security sensors | Allows the app to read and write identity security sensors without a signed-in user. |
+| SecurityIdentitiesUserActions.Read.All | 3e5d0bee-973f-4736-a123-4e1ab146f3a8 | Read all identity security available user actions | Allows the app to read all the identity security available user actions without a signed-in user. |
+| SecurityIdentitiesUserActions.ReadWrite.All | b4146a3a-dd4f-4af4-8d91-7cc0eef3d041 | Read and perform all identity security available user actions | Allows the app to read and write identity security available user actions without a signed-in user. |
 | SecurityIncident.Read.All | 45cc0394-e837-488b-a098-1918f48d186c | Read all security incidents | Allows the app to read all security incidents, without a signed-in user. |
 | SecurityIncident.ReadWrite.All | 34bf0e97-1971-4929-b999-9e2442d941d7 | Read and write to all security incidents | Allows the app to read and write to all security incidents, without a signed-in user. |
 | ServiceActivity-Exchange.Read.All | 2b655018-450a-4845-81e7-d603b1ebffdb | Read all Exchange service activity | Allows the app to read all Exchange service activity, without a signed-in user. |
@@ -937,6 +939,8 @@ Your application needs to access the API as the signed-in user.
 | SecurityIdentitiesHealth.ReadWrite.All | 53e51eec-2d9b-4990-97f3-c9aa5d5652c3 | Read and write identity security health issues | Allows the app to read and write identity security health issues on behalf of the signed-in user. |
 | SecurityIdentitiesSensors.Read.All | 2c221239-7c5c-4b30-9355-d84663bfcd96 | Read identity security sensors | Allows the app to read all the identity security sensors of signed user |
 | SecurityIdentitiesSensors.ReadWrite.All | 087c3ad9-c2ca-4b82-9885-d5e25ce9e183 | Read and write identity security sensors | Allows the app to read and write identity security sensors on behalf of the signed-in user. |
+| SecurityIdentitiesUserActions.Read.All | c7d0a939-da1c-4aca-80fa-d0a6cd924801 | Read identity security available user actions | Allows the app to read all the identity security available user actions of signed user |
+| SecurityIdentitiesUserActions.ReadWrite.All | bf230e97-1957-4df6-b3f6-57f9029eacdf | Read and perform identity security available user actions | Allows the app to read and write identity security available user actions on behalf of the signed-in user. |
 | SecurityIncident.Read.All | b9abcc4f-94fc-4457-9141-d20ce80ec952 | Read incidents | Allows the app to read security incidents, on behalf of the signed-in user. |
 | SecurityIncident.ReadWrite.All | 128ca929-1a19-45e6-a3b8-435ec44a36ba | Read and write to incidents | Allows the app to read and write security incidents, on behalf of the signed-in user. |
 | ServiceActivity-Exchange.Read.All | 1fe7aa48-9373-4a47-8df3-168335e0f4c9 | Read all Exchange service activity | Allows the app to read all Exchange service activity, on behalf of the signed-in user. |
