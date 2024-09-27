@@ -79,6 +79,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Calendars.Read | 798ee544-9d2d-430c-a058-570e29e34338 | Read calendars in all mailboxes | Allows the app to read events of all calendars without a signed-in user. |
 | Calendars.ReadBasic.All | 8ba4a692-bc31-4128-9094-475872af8a53 | Read basic details of calendars in all mailboxes  | Allows the app to read events of all calendars, except for properties such as body, attachments, and extensions, without a signed-in user. |
 | Calendars.ReadWrite | ef54d2bf-783f-4e0f-bca1-3210c0444d99 | Read and write calendars in all mailboxes | Allows the app to create, read, update, and delete events of all calendars without a signed-in user. |
+| CallEvents-Emergency.Read.All | f0a35f91-2aa6-4a99-9d5a-5b6bcb66204e | Read all emergency call events | Allows the app to read emergency call event information for all users in your organization without a signed-in user. |
 | CallEvents.Read.All | 1abb026f-7572-49f6-9ddd-ad61cbba181e | Read all call events | Allows the app to read call event information for all users in your organization, without a signed-in user. |
 | CallRecord-PstnCalls.Read.All | a2611786-80b3-417e-adaa-707d4261a5f0 | Read PSTN and direct routing call log data | Allows the app to read all PSTN and direct routing call log data without a signed-in user. |
 | CallRecords.Read.All | 45bbb07e-7321-4fd7-a8f6-3ff27e6a81c8 | Read all call records | Allows the app to read call records for all calls and online meetings without a signed-in user. |
