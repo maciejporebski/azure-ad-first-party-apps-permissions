@@ -30,7 +30,10 @@ Your application runs as a background service or daemon without a signed-in user
 | Analytics.Read.All | 74632bc0-f0fa-46bf-909e-aef9c9ae64c1 | Fetch analytics data | Allows the app to fetch analytics data from Viva Engage |
 | Community.Read.All | 66145180-11f6-4003-9868-db9e3f86723e | Read Viva Engage community | Allows the app to read Viva Engage community and their properties. |
 | Community.ReadWrite.All | caa014a5-48d2-4a7f-814b-cfd868ac9c75 | Create and read Viva Engage community | Allows the app to create Viva Engage community and read all community properties. |
+| EngagementConversation.Migration.All | a34f0f09-eee9-41f8-8332-86cf08bd4938 | Import conversations | Allows the app to import conversations |
+| EngagementConversation.Read.All | 7a985898-9a60-4514-ad36-f8ff01d9e01a | Read all Viva Engage conversations | Allows the app to read all Viva Engage conversations |
 | Notification.Send.All | 42f58b5b-a80d-4260-a1a5-c9a412f6e0d4 | Send event to Viva Engage. | Allows the app to send event to the Viva Engage. |
+| Storyline.ReadWrite.All | 1ded4338-0490-411e-8dba-f6e4aef3bb73 | Read and write storylines | Allows the app to read and write all Viva Engage storylines |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
