@@ -88,6 +88,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Calls.InitiateGroupCall.All | 4c277553-8a09-487b-8023-29ee378d8324 | Initiate outgoing group calls from the app | Allows the app to place outbound calls to multiple users and add participants to meetings in your organization, without a signed-in user. |
 | Calls.JoinGroupCall.All | f6b49018-60ab-4f81-83bd-22caeabfed2d | Join group calls and meetings as an app | Allows the app to join group calls and scheduled meetings in your organization, without a signed-in user.  The app will be joined with the privileges of a directory user to meetings in your organization. |
 | Calls.JoinGroupCallAsGuest.All | fd7ccf6b-3d28-418b-9701-cd10f5cd2fd4 | Join group calls and meetings as a guest | Allows the app to anonymously join group calls and scheduled meetings in your organization, without a signed-in user.  The app will be joined as a guest to meetings in your organization. |
+| ChangeManagement.Read.All | 418dae40-2b65-4819-900c-519a04e4d278 | Read Change Management items | Allows to read all Change Management items. |
 | Channel.Create | f3a65bd4-b703-46df-8f7e-0174fea562aa | Create channels | Create channels in any team, without a signed-in user. |
 | Channel.Delete.All | 6a118a39-1227-45d4-af0c-ea7b40d210bc | Delete channels | Delete channels in any team, without a signed-in user. |
 | Channel.ReadBasic.All | 59a6b24b-4225-4393-8165-ebaec5f55d7a | Read the names and descriptions  of all channels | Read all channel names and channel descriptions, without a signed-in user. |
@@ -594,6 +595,7 @@ Your application needs to access the API as the signed-in user.
 | Calendars.ReadWrite | 1ec239c2-d7c9-4623-a91a-a9775856bb36 | Have full access to user calendars  | Allows the app to create, read, update, and delete events in user calendars. |
 | Calendars.ReadWrite.Shared | 12466101-c9b8-439a-8589-dd09ee67e8e9 | Read and write user and shared calendars | Allows the app to create, read, update and delete events in all calendars in the organization user has permissions to access. This includes delegate and shared calendars. |
 | CallEvents.Read | 43431c03-960e-400f-87c6-8f910321dca3 | Read call event data | Allows the app to read call event information for an organization for the signed-in user. |
+| ChangeManagement.Read.All | 4628dff5-c33e-4fde-b17a-b64e7acb1bed | Read Change Management items | Allows to read all Change Management items. |
 | Channel.Create | 101147cf-4178-4455-9d58-02b5c164e759 | Create channels | Create channels in any team, on behalf of the signed-in user. |
 | Channel.Delete.All | cc83893a-e232-4723-b5af-bd0b01bcfe65 | Delete channels | Delete channels in any team, on behalf of the signed-in user. |
 | Channel.ReadBasic.All | 9d8982ae-4365-4f57-95e9-d6032a4c0b87 | Read the names and descriptions of channels | Read channel names and channel descriptions, on behalf of the signed-in user. |
