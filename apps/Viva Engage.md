@@ -32,6 +32,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Community.ReadWrite.All | caa014a5-48d2-4a7f-814b-cfd868ac9c75 | Create and read Viva Engage community | Allows the app to create Viva Engage community and read all community properties. |
 | EngagementConversation.Migration.All | a34f0f09-eee9-41f8-8332-86cf08bd4938 | Import conversations | Allows the app to import conversations |
 | EngagementConversation.Read.All | 7a985898-9a60-4514-ad36-f8ff01d9e01a | Read all Viva Engage conversations | Allows the app to read all Viva Engage conversations |
+| EngagementConversation.ReadWrite.All | 19de5c8e-95bd-4c18-98c2-7e08900ba9ba | Read and write conversations | Allows the app to read and write all Viva Engage conversations |
 | Notification.Send.All | 42f58b5b-a80d-4260-a1a5-c9a412f6e0d4 | Send event to Viva Engage. | Allows the app to send event to the Viva Engage. |
 | Storyline.ReadWrite.All | 1ded4338-0490-411e-8dba-f6e4aef3bb73 | Read and write storylines | Allows the app to read and write all Viva Engage storylines |
 
