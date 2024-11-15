@@ -10,6 +10,7 @@
 | [Audit Search Api Service](<apps/Audit Search Api Service.md>) | e158eb19-34ac-4d1b-a930-ec92172f7a97<br>https://search.auditing.trafficmanager.net<br>https://o365auditsearch.manage.office.com<br>api://e158eb19-34ac-4d1b-a930-ec92172f7a97 |
 | [Azure AD Identity Governance Insights](<apps/Azure AD Identity Governance Insights.md>) | 58c746b0-a0b0-4647-a8f6-12dde5981638 |
 | [Azure AD Notification](<apps/Azure AD Notification.md>) | fc03f97a-9db0-4627-a216-ec98ce54e018 |
+| [Azure Advanced Threat Protection](<apps/Azure Advanced Threat Protection.md>) | 7b7531ad-5926-4f2d-8a1d-38495ad33e17<br>https://atp.azure.com |
 | [Azure Analysis Services](<apps/Azure Analysis Services.md>) | 4ac7d521-0382-477b-b0f8-7e1d95f85ca2 |
 | [Azure Cognitive Search](<apps/Azure Cognitive Search.md>) | 880da380-985e-4198-81b9-e05b1cc53158<br>https://search.azure.com |
 | [Azure Communication Services](<apps/Azure Communication Services.md>) | 1fd5118e-2576-4263-8130-9503064c837a<br>https://auth.msft.communication.azure.com |
