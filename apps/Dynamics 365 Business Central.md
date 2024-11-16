@@ -44,5 +44,6 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Financials.ReadWrite.All | 2fb13c28-9d89-417f-9af2-ec3065bc16e6 | Access Dynamics 365 Business Central as the signed-in user | Dynamics 365 is a business management solution that’s connecting people and processes like never before. From day one, it makes ordering, selling, invoicing, and reporting easier and faster. |
+| PublicContent.Read.All | fd05c2c8-8e3a-4320-b504-2ddcf0c617d7 | Read public content on Microsoft Learn | Allow the app to read public content on Microsoft Learn, on behalf of the signed-in user. |
 | user_impersonation | bce0976a-cb0b-473b-8800-84eda9f8e447 | Access as the signed-in user | Dynamics 365 is a business management solution that’s connecting people and processes like never before. From day one, it makes ordering, selling, invoicing, and reporting easier and faster. |
 
