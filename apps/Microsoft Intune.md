@@ -1,5 +1,6 @@
 # Microsoft Intune
 ## Service Principal Names
+- https://fef.msub09.manage.microsoft.com
 - https://fef.msua09.manage.microsoft.com
 - https://fef.msuc06.manage.microsoft.com
 - https://fef.amsuin01.manage.microsoft.com
