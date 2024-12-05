@@ -72,6 +72,7 @@ Your application needs to access the API as the signed-in user.
 | AtpStandardPolicy.Tenant.Read | b87cb2cc-0570-4e76-9606-3528d5fb44e7 | AtpStandardPolicy.Tenant.Read | AtpStandardPolicy.Tenant.Read |
 | AtpStandardPolicy.Tenant.Write | 9945d5be-d9cb-45d0-b347-3f827c0d374d | AtpStandardPolicy.Tenant.Write | AtpStandardPolicy.Tenant.Write |
 | LabelAnalyticsActivityData.Read.All | 2da9421b-01d5-43ec-9c8e-b1bfa4a8b2bb | LabelAnalyticsActivityData.Read.All | LabelAnalyticsActivityData.Read.All |
+| M365ContentExplorer.Read.All | b80e6cec-e423-411f-8c98-7fe5a25ca7cf | M365ContentExplorer.Read.All | This allows user to read M365ContentExplorer |
 | MessageTrace.Read.All | 06ab0d31-7112-476e-a479-66394bec63d6 | MessageTrace.Read.All | MessageTrace.Read.All |
 | mtproleinfo.read | 6f44fc23-ea08-4666-8329-85597e11bdcd | mtproleinfo.read | This allows user to read MtpRoleInfo |
 | Purview.DataAccess.All | 739f66f6-655e-48e4-b5bd-2bbeb6077954 | Purview.DataAccess.All | Purview.DataAccess.All |
