@@ -1,8 +1,9 @@
-# Windows Virtual Desktop
+# Privacy Management
 ## Service Principal Names
-- 9cdead84-a844-4324-93f2-b2e6bb768d07
-- https://www.wvd.microsoft.com
-- https://www.wvd.azure.us
+- 5a4a238f-f186-4fff-95bd-d3e70f9e1a08
+- api://botid-5a4a238f-f186-4fff-95bd-d3e70f9e1a08
+- https://privacyppe.trafficmanager.net
+- https://privacy.trafficmanager.net
 
  ## Permissions
 - [Application Permissions](#application-permissions)
@@ -13,12 +14,11 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| Tenant.Create | 299dad25-58e3-473d-9733-171fb3034713 | Tenant.Create | Creators can create Windows Virtual Desktop Tenants |
+| PurviewData.Read.All | 31e9e114-d20e-4a24-95a2-76f9b584fb20 | PurviewData.Read.All | This allows Services to call Purview API's with App tokens |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| User.Access | 1ea0ab9c-b888-476f-aca9-0fc9a53b483a | Access Windows Virtual Desktop | Allow the application to access Windows Virtual Desktop on your behalf. |
 
