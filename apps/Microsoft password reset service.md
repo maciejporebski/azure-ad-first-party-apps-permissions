@@ -12,6 +12,8 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| PasswordWriteback.RefreshClient.All | fc7e8088-95b5-453e-8bef-b17ecfec5ba3 | Read, write and manage self-service password reset writeback configuration | Allows the app to refresh and recreate on-premises configuration for Microsoft self-service password reset. |
+| PasswordWriteback.RegisterClientVersion.All | e006e431-a65b-4f3e-8808-77d29d4c5f1a | Read, write and manage Microsoft Entra Connect Sync Agent | Allows the app to register a newer version of on-premises Microsoft Entra Connect Sync Agent. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
