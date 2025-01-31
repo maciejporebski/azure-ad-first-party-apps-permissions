@@ -30,6 +30,7 @@ Your application needs to access the API as the signed-in user.
 | Bookmark.Read.All | e017a1f7-f5a6-4dc5-a7b6-4342362e299b | Read all bookmarks | Allows the app to list bookmarks and to read their properties on behalf of the signed-in user.  |
 | Building.Read.All | b74d6cc7-732d-424d-9f47-b08e1404f765 | Read all buildings | Allows the app to list buildings and to read their properties on behalf of the signed-in user.  |
 | Calendar.Read.All | 73c5d1d0-1ba7-4978-ad4c-32f0a8a1a9ed | Read all calendars | Allows the app to search all calendars and to read their properties on behalf of the signed-in user.  |
+| Calendars.Read | 46089125-31ba-451a-96a1-278c9490b608 | Read all calendars for default | Allows the app to search all calendars and to read their properties  for default on behalf of the signed-in user.  |
 | Files.Read.All | 79bb59ea-208c-4cff-881e-098caabe543a | Read all files that user can access | Allows the app to read all files the signed-in user can access. |
 | FloorPlan.Read.All | ff60b1a1-5694-4b26-9c81-a5f4fabf51f5 | Read all floor plans | Allows the app to list floor plans and to read their properties on behalf of the signed-in user.  |
 | Group.Read.All | fe6d53fc-0936-42ba-8388-d39c6855c3f2 | Read all groups | Allows the app to list groups, and to read their properties and all group memberships on behalf of the signed-in user.  Also allows the app to read calendar, conversations, files, and other group content for all groups the signed-in user can access. |
