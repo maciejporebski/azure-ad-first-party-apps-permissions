@@ -1,5 +1,6 @@
 # AssistAPI
 ## Service Principal Names
+- https://prv.assist.microsoft.com
 - 2b8844d8-6c87-4fce-97a0-fbec9006e140
 - https://business-assist.microsoft.com
 - https://businessassist.microsoft.com

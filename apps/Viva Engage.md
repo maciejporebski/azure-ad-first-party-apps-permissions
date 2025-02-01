@@ -33,6 +33,9 @@ Your application runs as a background service or daemon without a signed-in user
 | EngagementConversation.Migration.All | a34f0f09-eee9-41f8-8332-86cf08bd4938 | Import conversations | Allows the app to import conversations |
 | EngagementConversation.Read.All | 7a985898-9a60-4514-ad36-f8ff01d9e01a | Read all Viva Engage conversations | Allows the app to read all Viva Engage conversations |
 | EngagementConversation.ReadWrite.All | 19de5c8e-95bd-4c18-98c2-7e08900ba9ba | Read and write conversations | Allows the app to read and write all Viva Engage conversations |
+| EngagementRole.Read | e52ccd5f-74f3-45ef-bb4c-0464d43522cf | Read Viva Engage roles | Allows the app to list Viva Engage roles without a signed-in user. |
+| EngagementRole.Read.All | 0f511994-a49f-440f-9834-7eb89fec8cc7 | Read all Viva Engage roles and role memberships | Allows the app to list all Viva Engage roles and role memberships without a signed-in user. |
+| EngagementRole.ReadWrite.All | 4897f557-5d68-4827-8b0e-c7b983e911f1 | Modify Viva Engage role membership | Allows the app to assign Viva Engage role to a user, and remove a Viva Engage role from a user without a signed-in user. |
 | Notification.Send.All | 42f58b5b-a80d-4260-a1a5-c9a412f6e0d4 | Send event to Viva Engage. | Allows the app to send event to the Viva Engage. |
 | Storyline.ReadWrite.All | 1ded4338-0490-411e-8dba-f6e4aef3bb73 | Read and write storylines | Allows the app to read and write all Viva Engage storylines |
 

@@ -1,5 +1,7 @@
 # Office Shredding Service
 ## Service Principal Names
+- https://shredder.osi.officeppe.net/
+- https://shredder.osi.officeppe.net
 - https://shredder-msit.osi.office.net/
 - https://shredder-msit.osi.office.net
 - https://shredder-gcc.osi.office.net/
