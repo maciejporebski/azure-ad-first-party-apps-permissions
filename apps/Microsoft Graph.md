@@ -237,6 +237,7 @@ Your application runs as a background service or daemon without a signed-in user
 | IndustryData-ReferenceDefinition.Read.All | 6ee891c3-74a4-4148-8463-0c834375dfaf | View reference definitions | Allows the app to read reference definitions without a signed-in user. |
 | IndustryData-ReferenceDefinition.ReadWrite.All | bda16293-63d3-45b7-b16b-833841d27d56 | Manage reference definitions | Allows the app to read and write reference definitions without a signed-in user. |
 | IndustryData-Run.Read.All | f6f5d10b-3024-4d1d-b674-aae4df4a1a73 | View current and previous runs | Allows the app to read current and previous IndustryData runs without a signed-in user. |
+| IndustryData-Run.Start | 7e429772-5b5e-47c0-8fd6-7279294c8033 | View and start runs | Allows the app to view and start IndustryData runs without a signed-in user. |
 | IndustryData-SourceSystem.Read.All | bc167a60-39fe-4865-8b44-78400fc6ed03 | View source system definitions | Allows the app to read source system definitions without a signed-in user. |
 | IndustryData-SourceSystem.ReadWrite.All | 7d866958-e06e-4dd6-91c6-a086b3f5cfeb | Manage source system definitions | Allows the app to read and write source system definitions without a signed-in user. |
 | IndustryData-TimePeriod.Read.All | 7c55c952-b095-4c23-a522-022bce4cc1e3 | Read time period definitions | Allows the app to read time period definitions without a signed-in user. |
@@ -449,6 +450,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Synchronization.Read.All | 5ba43d2f-fa88-4db2-bd1c-a67c5f0fb1ce | Read all Azure AD synchronization data. | Allows the application to read Azure AD synchronization information, without a signed-in user. |
 | Synchronization.ReadWrite.All | 9b50c33d-700f-43b1-b2eb-87e89b703581 | Read and write all Azure AD synchronization data. | Allows the application to configure the Azure AD synchronization service, without a signed-in user. |
 | SynchronizationData-User.Upload | db31e92a-b9ea-4d87-bf6a-75a37a9ca35a | Upload user data to the identity synchronization service | Allows the application to upload bulk user data to the identity synchronization service, without a signed-in user. |
+| SynchronizationData-User.Upload.OwnedBy | 25c32ff3-849a-494b-b94f-20a8ac4e6774 | Upload user data to the identity sync service for apps that this application creates or owns | Allows the application to upload bulk user data to the identity synchronization service for apps that this application creates or owns, without a signed-in user. |
 | Tasks.Read.All | f10e1f91-74ed-437f-a6fd-d6ae88e26c1f | Read all users’ tasks and tasklist | Allows the app to read all users’ tasks and task lists in your organization, without a signed-in user. |
 | Tasks.ReadWrite.All | 44e666d1-d276-445b-a5fc-8815eeb81d55 | Read and write all users’ tasks and tasklists | Allows the app to create, read, update and delete all users’ tasks and task lists in your organization, without a signed-in user |
 | Team.Create | 23fc2474-f741-46ce-8465-674744c5c361 | Create teams | Allows the app to create teams without a signed-in user.  |
@@ -789,6 +791,7 @@ Your application needs to access the API as the signed-in user.
 | IndustryData-ReferenceDefinition.Read.All | a3f96ffe-cb84-40a8-ac85-582d7ef97c2a | View reference definitions | Allows the app to read reference definitions on behalf of the signed-in user. |
 | IndustryData-ReferenceDefinition.ReadWrite.All | a757d430-be6d-430f-af57-28aabe79d247 | Manage reference definitions | Allows the app to read and write reference definitions on behalf of the signed-in user. |
 | IndustryData-Run.Read.All | 92685235-50c4-4702-b2c8-36043db6fa79 | View current and previous runs | Allows the app to read current and previous IndustryData runs on behalf of the signed-in user. |
+| IndustryData-Run.Start | f03a6d0e-0989-460f-80b2-e57c8561763e | View and start runs | Allows the app to view and start IndustryData runs on behalf of the signed-in user. |
 | IndustryData-SourceSystem.Read.All | 49b7016c-89ae-41e7-bd6f-b7170c5490bf | View source system definitions | Allows the app to read source system definitions on behalf of the signed-in user. |
 | IndustryData-SourceSystem.ReadWrite.All | 9599f005-05d6-4ea7-b1b1-4929768af5d0 | Manage source system definitions | Allows the app to read and write source system definitions on behalf of the signed-in user. |
 | IndustryData-TimePeriod.Read.All | c9d51f28-8ccd-42b2-a836-fd8fe9ebf2ae | Read time period definitions | Allows the app to read time period definitions on behalf of the signed-in user. |
