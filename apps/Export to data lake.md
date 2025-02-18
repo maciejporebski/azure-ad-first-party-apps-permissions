@@ -1,7 +1,7 @@
 # Export to data lake
 ## Service Principal Names
-- https://exporttodatalake.com/
 - 7f15f9d9-cad0-44f1-bbba-d36650e07765
+- https://exporttodatalake.com/
 
  ## Permissions
 - [Application Permissions](#application-permissions)

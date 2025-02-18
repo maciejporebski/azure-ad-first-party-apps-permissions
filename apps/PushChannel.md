@@ -1,8 +1,8 @@
 # PushChannel
 ## Service Principal Names
-- 4747d38e-36c5-4bc3-979b-b0ef74df54d1
-- https://pushchanneldf.1drv.ms
 - https://pushchannel.1drv.ms
+- https://pushchanneldf.1drv.ms
+- 4747d38e-36c5-4bc3-979b-b0ef74df54d1
 
  ## Permissions
 - [Application Permissions](#application-permissions)

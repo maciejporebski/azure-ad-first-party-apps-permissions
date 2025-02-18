@@ -1,8 +1,8 @@
 # Microsoft Information Protection Sync Service
 ## Service Principal Names
-- 870c4f2e-85b6-4d43-bdda-6ed9a579b725
-- https://syncservice.o365syncservice.com
 - https://psor.o365syncservice.com
+- https://syncservice.o365syncservice.com
+- 870c4f2e-85b6-4d43-bdda-6ed9a579b725
 
  ## Permissions
 - [Application Permissions](#application-permissions)

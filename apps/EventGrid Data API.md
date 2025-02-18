@@ -1,7 +1,7 @@
 # EventGrid Data API
 ## Service Principal Names
-- 823c0a78-5de0-4445-a7f5-c2f42d7dc89b
 - https://eventgrid.azure.net
+- 823c0a78-5de0-4445-a7f5-c2f42d7dc89b
 
  ## Permissions
 - [Application Permissions](#application-permissions)

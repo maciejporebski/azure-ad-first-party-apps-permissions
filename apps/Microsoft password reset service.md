@@ -1,7 +1,7 @@
 # Microsoft password reset service
 ## Service Principal Names
-- 93625bc8-bfe2-437a-97e0-3d0060024faa
 - https://passwordreset.microsoftonline.com/
+- 93625bc8-bfe2-437a-97e0-3d0060024faa
 
  ## Permissions
 - [Application Permissions](#application-permissions)

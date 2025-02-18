@@ -1,7 +1,7 @@
 # Microsoft Flow Service
 ## Service Principal Names
-- 7df0a125-d3be-4c96-aa54-591f83ff541c
 - https://service.flow.microsoft.com/
+- 7df0a125-d3be-4c96-aa54-591f83ff541c
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,7 +1,7 @@
 # Cortana Runtime Service
 ## Service Principal Names
-- 81473081-50b9-469a-b9d8-303109583ecb
 - https://cortana.ai
+- 81473081-50b9-469a-b9d8-303109583ecb
 
  ## Permissions
 - [Application Permissions](#application-permissions)

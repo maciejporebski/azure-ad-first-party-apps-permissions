@@ -1,8 +1,8 @@
 # CompliancePolicy
 ## Service Principal Names
-- https://substrate.office.com/CompliancePolicySyncService
-- 644c1b11-f63f-45fa-826b-a9d2801db711
 - https://substrate.office.com/CompliancePolicy
+- 644c1b11-f63f-45fa-826b-a9d2801db711
+- https://substrate.office.com/CompliancePolicySyncService
 
  ## Permissions
 - [Application Permissions](#application-permissions)

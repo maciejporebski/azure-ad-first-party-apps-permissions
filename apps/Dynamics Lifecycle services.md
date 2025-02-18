@@ -1,17 +1,17 @@
 # Dynamics Lifecycle services
 ## Service Principal Names
-- https://high.lcs.microsoftdynamics.us
-- https://no.lcs.dynamics.com
-- https://ch.lcs.dynamics.com
-- https://gov.lcs.microsoftdynamics.us
-- 913c6de4-2a4a-4a61-a9ce-945d2b2ce2e0
-- https://lcs.int.dynamics.com
-- https://lcs.dynamics.com
-- https://eu.lcs.dynamics.com
-- https://eu.lcs.int.dynamics.com
-- https://fr.lcs.dynamics.com
-- https://sa.lcs.dynamics.com
 - https://uae.lcs.dynamics.com
+- https://sa.lcs.dynamics.com
+- https://fr.lcs.dynamics.com
+- https://eu.lcs.int.dynamics.com
+- https://eu.lcs.dynamics.com
+- https://lcs.dynamics.com
+- https://lcs.int.dynamics.com
+- 913c6de4-2a4a-4a61-a9ce-945d2b2ce2e0
+- https://gov.lcs.microsoftdynamics.us
+- https://ch.lcs.dynamics.com
+- https://no.lcs.dynamics.com
+- https://high.lcs.microsoftdynamics.us
 
  ## Permissions
 - [Application Permissions](#application-permissions)

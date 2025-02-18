@@ -1,8 +1,8 @@
 # IAM Supportability
 ## Service Principal Names
-- a57aca87-cbc0-4f3c-8b9e-dc095fdc8978
-- https://support.iam.ad.azure.com
 - https://dxp.aad.azure.com
+- https://support.iam.ad.azure.com
+- a57aca87-cbc0-4f3c-8b9e-dc095fdc8978
 
  ## Permissions
 - [Application Permissions](#application-permissions)

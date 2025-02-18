@@ -1,7 +1,7 @@
 # Power Query Online GCC-L4
 ## Service Principal Names
-- ef947699-9b52-4b31-9a37-ef325c6ffc47
 - https://high.powerquery.microsoft.us
+- ef947699-9b52-4b31-9a37-ef325c6ffc47
 
  ## Permissions
 - [Application Permissions](#application-permissions)

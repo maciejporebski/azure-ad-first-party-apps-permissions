@@ -1,11 +1,11 @@
 # Teams EHR Connector
 ## Service Principal Names
-- https://ehrconnectorsvc.gcc.teams.microsoft.com
-- e97edbaf-39b2-4546-ba61-0a24e1bef890
-- https://ehrconnectorsvc.teams.microsoft.com
-- https://vvm.teams.microsoft.com
-- https://vvm-int.teams.microsoft.com
 - https://vvm-dev.teams.microsoft.com
+- https://vvm-int.teams.microsoft.com
+- https://vvm.teams.microsoft.com
+- https://ehrconnectorsvc.teams.microsoft.com
+- e97edbaf-39b2-4546-ba61-0a24e1bef890
+- https://ehrconnectorsvc.gcc.teams.microsoft.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

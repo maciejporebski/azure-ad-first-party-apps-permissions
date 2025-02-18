@@ -1,10 +1,10 @@
 # Bot Framework Dev Portal
 ## Service Principal Names
-- f3723d34-6ff5-4ceb-a148-d99dcd2511fc
-- https://local.botframework.com/
-- https://ppe.botframework.com/
-- https://scratch.botframework.com/
 - https://dev.botframework.com/
+- https://scratch.botframework.com/
+- https://ppe.botframework.com/
+- https://local.botframework.com/
+- f3723d34-6ff5-4ceb-a148-d99dcd2511fc
 
  ## Permissions
 - [Application Permissions](#application-permissions)

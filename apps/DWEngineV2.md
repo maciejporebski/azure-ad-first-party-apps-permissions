@@ -1,10 +1,10 @@
 # DWEngineV2
 ## Service Principal Names
-- https://substrate.office.com/WKWService
-- 441509e5-a165-4363-8ee7-bcf0b7d26739
-- https://outlook.office365.com/dwengine
-- https://outlook.office365.com/ebots
 - https://outlook.office365.com/DWEngineV2/
+- https://outlook.office365.com/ebots
+- https://outlook.office365.com/dwengine
+- 441509e5-a165-4363-8ee7-bcf0b7d26739
+- https://substrate.office.com/WKWService
 
  ## Permissions
 - [Application Permissions](#application-permissions)

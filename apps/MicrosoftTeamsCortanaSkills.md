@@ -1,7 +1,7 @@
 # MicrosoftTeamsCortanaSkills
 ## Service Principal Names
-- 2bb78a2a-f8f1-4bc3-8ecf-c1e15a0726e6
 - https://cortana.teams.microsoft.com
+- 2bb78a2a-f8f1-4bc3-8ecf-c1e15a0726e6
 
  ## Permissions
 - [Application Permissions](#application-permissions)

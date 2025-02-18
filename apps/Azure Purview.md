@@ -1,10 +1,10 @@
 # Azure Purview
 ## Service Principal Names
-- 73c2949e-da2d-457a-9607-fcc665198967
-- https://projectbabylon.azure.net
-- https://projectbabylon.azure.net/
-- https://purview.azure.net
 - https://purview.azure.net/
+- https://purview.azure.net
+- https://projectbabylon.azure.net/
+- https://projectbabylon.azure.net
+- 73c2949e-da2d-457a-9607-fcc665198967
 
  ## Permissions
 - [Application Permissions](#application-permissions)

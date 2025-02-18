@@ -1,9 +1,9 @@
 # Omnichannel for CS CRM ClientApp Primary
 ## Service Principal Names
-- api://legacystorageprod
-- api://legacystoragegov
-- d9ce8cfa-8bd8-4ff1-b39b-5e5dd5742935
 - https://microsoft.onmicrosoft.com/383f5965-1c8e-465d-8d4d-5d617a65a383
+- d9ce8cfa-8bd8-4ff1-b39b-5e5dd5742935
+- api://legacystoragegov
+- api://legacystorageprod
 
  ## Permissions
 - [Application Permissions](#application-permissions)

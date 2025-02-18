@@ -1,7 +1,7 @@
 # Azure Maps
 ## Service Principal Names
-- ba1ea022-5807-41d5-bbeb-292c7e1cf5f6
 - https://atlas.microsoft.com/
+- ba1ea022-5807-41d5-bbeb-292c7e1cf5f6
 
  ## Permissions
 - [Application Permissions](#application-permissions)

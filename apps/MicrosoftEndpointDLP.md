@@ -1,8 +1,8 @@
 # MicrosoftEndpointDLP
 ## Service Principal Names
-- c98e5057-edde-4666-b301-186a01b4dc58
-- https://securitycenter.onmicrosoft.com/MicrosoftEndpointDLP
 - https://securitycenter.onmicrosoft.com/MicrosoftEndpointDLP/
+- https://securitycenter.onmicrosoft.com/MicrosoftEndpointDLP
+- c98e5057-edde-4666-b301-186a01b4dc58
 
  ## Permissions
 - [Application Permissions](#application-permissions)

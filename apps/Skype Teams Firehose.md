@@ -1,10 +1,10 @@
 # Skype Teams Firehose
 ## Service Principal Names
-- cdccd920-384b-4a25-897d-75161a4b74c1
-- https://firehose.teams.microsoft.com
-- https://webhook.gcc.teams.microsoft.com
-- https://webhook.infra.dod.teams.microsoft.us
 - https://webhook.infra.gov.teams.microsoft.us
+- https://webhook.infra.dod.teams.microsoft.us
+- https://webhook.gcc.teams.microsoft.com
+- https://firehose.teams.microsoft.com
+- cdccd920-384b-4a25-897d-75161a4b74c1
 
  ## Permissions
 - [Application Permissions](#application-permissions)

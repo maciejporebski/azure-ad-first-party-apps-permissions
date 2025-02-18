@@ -1,7 +1,7 @@
 # O365 Demeter
 ## Service Principal Names
-- 982bda36-4632-4165-a46a-9863b1bbcf7d
 - https://commerceapi.office.net
+- 982bda36-4632-4165-a46a-9863b1bbcf7d
 
  ## Permissions
 - [Application Permissions](#application-permissions)

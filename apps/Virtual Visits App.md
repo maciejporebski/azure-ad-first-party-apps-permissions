@@ -1,10 +1,10 @@
 # Virtual Visits App
 ## Service Principal Names
-- 2b479c68-8d9b-4e27-9d85-5d74803de734
-- https://healthcare.teams.microsoft.com
-- https://healthcaredogfood.teams.microsoft.com
-- https://healthcarestaging.teams.microsoft.com
 - https://healthcareppe.teams.microsoft.com
+- https://healthcarestaging.teams.microsoft.com
+- https://healthcaredogfood.teams.microsoft.com
+- https://healthcare.teams.microsoft.com
+- 2b479c68-8d9b-4e27-9d85-5d74803de734
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,8 +1,8 @@
 # Fidalgo Dataplane Public
 ## Service Principal Names
-- e526e72f-ffae-44a0-8dac-cf14b8bd40e2
-- https://devcenters.fidalgo.azure.com
 - https://devcenter.azure.com
+- https://devcenters.fidalgo.azure.com
+- e526e72f-ffae-44a0-8dac-cf14b8bd40e2
 
  ## Permissions
 - [Application Permissions](#application-permissions)

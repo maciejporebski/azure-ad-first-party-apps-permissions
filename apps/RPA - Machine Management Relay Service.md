@@ -1,7 +1,7 @@
 # RPA - Machine Management Relay Service
 ## Service Principal Names
-- aad3e70f-aa64-4fde-82aa-c9d97a4501dc
 - https://services.mmr.microsoft.com
+- aad3e70f-aa64-4fde-82aa-c9d97a4501dc
 
  ## Permissions
 - [Application Permissions](#application-permissions)

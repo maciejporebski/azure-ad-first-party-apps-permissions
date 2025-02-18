@@ -1,7 +1,7 @@
 # Virtual Visit APIs
 ## Service Principal Names
-- 5cfe643a-dd84-4d45-834d-c8d659a72a48
 - https://vvms.teams.microsoft.com
+- 5cfe643a-dd84-4d45-834d-c8d659a72a48
 
  ## Permissions
 - [Application Permissions](#application-permissions)

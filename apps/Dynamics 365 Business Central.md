@@ -1,28 +1,28 @@
 # Dynamics 365 Business Central
 ## Service Principal Names
-- https://infoma.api.bc.dynamics.com
-- https://serenicnavigator.api.bc.dynamics.com
-- https://lscentral.api.bc.dynamics.com
-- https://incadea-fastfit.api.bc.dynamics.com
-- https://project365.api.bc.dynamics.com
-- https://4psconstruct.api.bc.dynamics.com
-- https://sparkrock365.api.bc.dynamics.com
-- https://deonline.api.bc.dynamics.com
-- https://wiise.api.bc.dynamics.com
-- https://frentals.api.bc.dynamics.com
-- https://amp.api.bc.dynamics.com
-- https://to-increase-food.api.bc.dynamics.com
-- https://3pl-dynamics.api.bc.dynamics.com
-- https://prodware-scm.api.bc.dynamics.com
-- https://gevis-erp.api.bc.dynamics.com
-- https://apps.businesscentral.dynamics.com
-- 996def3d-b36c-4153-8607-a6fd3c01b89f
-- https://financials.dynamics.com
-- https://projectmadeira.com
-- https://api.financials.dynamics.com
-- https://api.invoicing.office.net
-- https://api.businesscentral.dynamics.com
 - https://api.accountants.dynamics.com
+- https://api.businesscentral.dynamics.com
+- https://api.invoicing.office.net
+- https://api.financials.dynamics.com
+- https://projectmadeira.com
+- https://financials.dynamics.com
+- 996def3d-b36c-4153-8607-a6fd3c01b89f
+- https://apps.businesscentral.dynamics.com
+- https://gevis-erp.api.bc.dynamics.com
+- https://prodware-scm.api.bc.dynamics.com
+- https://3pl-dynamics.api.bc.dynamics.com
+- https://to-increase-food.api.bc.dynamics.com
+- https://amp.api.bc.dynamics.com
+- https://frentals.api.bc.dynamics.com
+- https://wiise.api.bc.dynamics.com
+- https://deonline.api.bc.dynamics.com
+- https://sparkrock365.api.bc.dynamics.com
+- https://4psconstruct.api.bc.dynamics.com
+- https://project365.api.bc.dynamics.com
+- https://incadea-fastfit.api.bc.dynamics.com
+- https://lscentral.api.bc.dynamics.com
+- https://serenicnavigator.api.bc.dynamics.com
+- https://infoma.api.bc.dynamics.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,9 +1,9 @@
 # Azure SQL Database
 ## Service Principal Names
-- 022907d3-0f1b-48f7-badc-1ba6abab6d66
-- https://database.usgovcloudapi.net/
-- https://database.windows.net/
 - https://sql.azuresynapse.net/
+- https://database.windows.net/
+- https://database.usgovcloudapi.net/
+- 022907d3-0f1b-48f7-badc-1ba6abab6d66
 
  ## Permissions
 - [Application Permissions](#application-permissions)

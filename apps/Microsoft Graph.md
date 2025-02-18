@@ -1,16 +1,16 @@
 # Microsoft Graph
 ## Service Principal Names
-- https://canary.graph.microsoft.com/
-- https://graph.microsoft.us/
-- https://dod-graph.microsoft.us/
-- 00000003-0000-0000-c000-000000000000/ags.windows.net
-- 00000003-0000-0000-c000-000000000000
-- https://canary.graph.microsoft.com
-- https://graph.microsoft.com
-- https://ags.windows.net
-- https://graph.microsoft.us
-- https://graph.microsoft.com/
 - https://dod-graph.microsoft.us
+- https://graph.microsoft.com/
+- https://graph.microsoft.us
+- https://ags.windows.net
+- https://graph.microsoft.com
+- https://canary.graph.microsoft.com
+- 00000003-0000-0000-c000-000000000000
+- 00000003-0000-0000-c000-000000000000/ags.windows.net
+- https://dod-graph.microsoft.us/
+- https://graph.microsoft.us/
+- https://canary.graph.microsoft.com/
 
  ## Permissions
 - [Application Permissions](#application-permissions)

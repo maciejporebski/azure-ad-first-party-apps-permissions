@@ -1,9 +1,9 @@
 # ProjectWorkManagement
 ## Service Principal Names
-- 09abbdfd-ed23-44ee-a2d9-a627aa1c90f3/tasks.office.com
-- 09abbdfd-ed23-44ee-a2d9-a627aa1c90f3
-- https://s2s.tasks.office.net
 - https://tasks.office.com
+- https://s2s.tasks.office.net
+- 09abbdfd-ed23-44ee-a2d9-a627aa1c90f3
+- 09abbdfd-ed23-44ee-a2d9-a627aa1c90f3/tasks.office.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,7 +1,7 @@
 # Microsoft Teams UIS
 ## Service Principal Names
-- 1996141e-2b07-4491-927a-5a024b335c78
 - https://uis.teams.microsoft.com
+- 1996141e-2b07-4491-927a-5a024b335c78
 
  ## Permissions
 - [Application Permissions](#application-permissions)

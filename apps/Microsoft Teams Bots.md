@@ -1,22 +1,22 @@
 # Microsoft Teams Bots
 ## Service Principal Names
-- https://bots.teams.skype.com/v3/WhoBot
-- 64f79cb9-9c82-4199-b85b-77e35b7dcbcb
-- https://bots.skype.com
-- https://stbotsdemo.cloudapp.net
-- https://bots.ppespaces.skype.net
-- https://bots.devspaces.skype.net
-- https://bots.skype.com/v3/MsftBot
-- https://stbotsdemo.cloudapp.net/v3/MsftBot
-- https://bots.ppespaces.skype.net/v3/MsftBot
-- https://bots.devspaces.skype.net/v3/MsftBot
-- https://bots.skype.com/v3/WhoBot
-- https://stbotsdemo.cloudapp.net/v3/WhoBot
-- https://bots.ppespaces.skype.net/v3/WhoBot
-- https://bots.devspaces.skype.net/v3/WhoBot
-- https://bothostauthtest.azurewebsites.net
-- https://who.bots.teams.microsoft.com
 - https://who.bots.gcc.teams.microsoft.com
+- https://who.bots.teams.microsoft.com
+- https://bothostauthtest.azurewebsites.net
+- https://bots.devspaces.skype.net/v3/WhoBot
+- https://bots.ppespaces.skype.net/v3/WhoBot
+- https://stbotsdemo.cloudapp.net/v3/WhoBot
+- https://bots.skype.com/v3/WhoBot
+- https://bots.devspaces.skype.net/v3/MsftBot
+- https://bots.ppespaces.skype.net/v3/MsftBot
+- https://stbotsdemo.cloudapp.net/v3/MsftBot
+- https://bots.skype.com/v3/MsftBot
+- https://bots.devspaces.skype.net
+- https://bots.ppespaces.skype.net
+- https://stbotsdemo.cloudapp.net
+- https://bots.skype.com
+- 64f79cb9-9c82-4199-b85b-77e35b7dcbcb
+- https://bots.teams.skype.com/v3/WhoBot
 
  ## Permissions
 - [Application Permissions](#application-permissions)

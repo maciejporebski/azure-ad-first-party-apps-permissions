@@ -1,7 +1,7 @@
 # Targeted Messaging Service
 ## Service Principal Names
-- 4c4f550b-42b2-4a16-93f9-fdb9e01bb6ed
 - https://messaging.office.com/web
+- 4c4f550b-42b2-4a16-93f9-fdb9e01bb6ed
 
  ## Permissions
 - [Application Permissions](#application-permissions)

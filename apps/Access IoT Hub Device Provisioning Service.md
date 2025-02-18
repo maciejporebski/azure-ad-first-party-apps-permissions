@@ -1,7 +1,7 @@
 # Access IoT Hub Device Provisioning Service
 ## Service Principal Names
-- 0cd79364-7a90-4354-9984-6e36c841418d
 - https://azure-devices-provisioning.net
+- 0cd79364-7a90-4354-9984-6e36c841418d
 
  ## Permissions
 - [Application Permissions](#application-permissions)

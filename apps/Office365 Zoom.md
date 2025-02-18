@@ -1,17 +1,17 @@
 # Office365 Zoom
 ## Service Principal Names
-- https://gcch.graphservice.ediscovery.office365.us
-- https://dod.graphservice.ediscovery.office365.us
-- https://graphservice.ediscovery.office365.com
-- https://cpfdwebservicecloudapp.net
-- 0d38933a-0bbd-41ca-9ebd-28c4b5ba7cb7
-- https://zoom-ppe.cloudapp.net
-- https://office365zoom.cloudapp.net
-- https://aedrouting.ediscovery.office.com
-- https://l4office365zoom.usgovcloudapp.net
-- https://l5office365zoom.usgovcloudapp.net
-- https://aedglobal.trafficmanager.net
 - https://aedsdf.trafficmanager.net
+- https://aedglobal.trafficmanager.net
+- https://l5office365zoom.usgovcloudapp.net
+- https://l4office365zoom.usgovcloudapp.net
+- https://aedrouting.ediscovery.office.com
+- https://office365zoom.cloudapp.net
+- https://zoom-ppe.cloudapp.net
+- 0d38933a-0bbd-41ca-9ebd-28c4b5ba7cb7
+- https://cpfdwebservicecloudapp.net
+- https://graphservice.ediscovery.office365.com
+- https://dod.graphservice.ediscovery.office365.us
+- https://gcch.graphservice.ediscovery.office365.us
 
  ## Permissions
 - [Application Permissions](#application-permissions)

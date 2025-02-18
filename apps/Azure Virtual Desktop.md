@@ -1,10 +1,10 @@
 # Azure Virtual Desktop
 ## Service Principal Names
-- ms-device-service://host.wvd.microsoft.com
-- ms-device-service://9cdead84-a844-4324-93f2-b2e6bb768d07
-- 9cdead84-a844-4324-93f2-b2e6bb768d07
-- https://www.wvd.microsoft.com
 - https://www.wvd.azure.us
+- https://www.wvd.microsoft.com
+- 9cdead84-a844-4324-93f2-b2e6bb768d07
+- ms-device-service://9cdead84-a844-4324-93f2-b2e6bb768d07
+- ms-device-service://host.wvd.microsoft.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,7 +1,7 @@
 # Office365 Shell SS-Server
 ## Service Principal Names
-- e8bdeda8-b4a3-4eed-b307-5e2456238a77
 - https://suite.office.net
+- e8bdeda8-b4a3-4eed-b307-5e2456238a77
 
  ## Permissions
 - [Application Permissions](#application-permissions)

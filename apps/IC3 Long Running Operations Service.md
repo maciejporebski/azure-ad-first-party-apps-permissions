@@ -1,7 +1,7 @@
 # IC3 Long Running Operations Service
 ## Service Principal Names
-- 21a8a852-89f4-4947-a374-b26b2db3d365
 - https://lros.infra.teams.microsoft.com
+- 21a8a852-89f4-4947-a374-b26b2db3d365
 
  ## Permissions
 - [Application Permissions](#application-permissions)

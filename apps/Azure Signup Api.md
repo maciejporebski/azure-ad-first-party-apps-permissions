@@ -1,10 +1,10 @@
 # Azure Signup Api
 ## Service Principal Names
-- 3829f069-1c33-45dd-84ab-2465f4282677
-- https://signupapi.azure.com/
-- https://signupapi.azure.com
-- https://signupapi-airgap.trafficmanager.net/
 - https://signupapi-airgap.trafficmanager.net
+- https://signupapi-airgap.trafficmanager.net/
+- https://signupapi.azure.com
+- https://signupapi.azure.com/
+- 3829f069-1c33-45dd-84ab-2465f4282677
 
  ## Permissions
 - [Application Permissions](#application-permissions)

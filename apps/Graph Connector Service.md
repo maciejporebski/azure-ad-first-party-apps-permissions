@@ -1,10 +1,10 @@
 # Graph Connector Service
 ## Service Principal Names
-- https://link-df.gcs.office.com
-- https://substrate.office.com/scd
-- https://substrate.office.com/GraphConnectors
-- 56c1da01-2129-48f7-9355-af6d59d42766
 - https://gcs.office.com
+- 56c1da01-2129-48f7-9355-af6d59d42766
+- https://substrate.office.com/GraphConnectors
+- https://substrate.office.com/scd
+- https://link-df.gcs.office.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

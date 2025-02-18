@@ -1,11 +1,11 @@
 # Microsoft Partner Center
 ## Service Principal Names
-- fa3d9a0c-3fb0-42cc-9193-47c7ecd2edbd
-- https://api.partnercenter.microsoft.com
-- https://partnercenterapi.store.microsoft.com
-- https://partnerapi.store.microsoft.com
-- https://reseller.microsoft.com
 - https://accountmgmtservice.dce.mp.microsoft.com
+- https://reseller.microsoft.com
+- https://partnerapi.store.microsoft.com
+- https://partnercenterapi.store.microsoft.com
+- https://api.partnercenter.microsoft.com
+- fa3d9a0c-3fb0-42cc-9193-47c7ecd2edbd
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,8 +1,8 @@
 # Azure ContainerApps Sessions
 ## Service Principal Names
-- 2c7dd73f-7a21-485b-b97d-a2508fa152c3
-- https://acasessions.io
 - https://dynamicsessions.io
+- https://acasessions.io
+- 2c7dd73f-7a21-485b-b97d-a2508fa152c3
 
  ## Permissions
 - [Application Permissions](#application-permissions)

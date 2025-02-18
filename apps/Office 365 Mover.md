@@ -1,7 +1,7 @@
 # Office 365 Mover
 ## Service Principal Names
-- d62121f3-e023-4972-b6b0-794190c0fd98
 - https://mover.microsoft.com
+- d62121f3-e023-4972-b6b0-794190c0fd98
 
  ## Permissions
 - [Application Permissions](#application-permissions)

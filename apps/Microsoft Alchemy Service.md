@@ -1,12 +1,12 @@
 # Microsoft Alchemy Service
 ## Service Principal Names
-- api://auth-6d96a743-931f-4618-ac8b-e6ee5d77cb60/91ad134d-5284-4adc-a896-d7fd24e9fa15
-- https://m365.alchemy.microsoft.com
-- 91ad134d-5284-4adc-a896-d7fd24e9fa15
-- api://91ad134d-5284-4adc-a896-d7fd24e9fa15
-- https://alchemy.microsoft.com
-- https://alchemy.office.net
 - https://alchemy.officeppe.net
+- https://alchemy.office.net
+- https://alchemy.microsoft.com
+- api://91ad134d-5284-4adc-a896-d7fd24e9fa15
+- 91ad134d-5284-4adc-a896-d7fd24e9fa15
+- https://m365.alchemy.microsoft.com
+- api://auth-6d96a743-931f-4618-ac8b-e6ee5d77cb60/91ad134d-5284-4adc-a896-d7fd24e9fa15
 
  ## Permissions
 - [Application Permissions](#application-permissions)

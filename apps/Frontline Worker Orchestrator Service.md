@@ -1,9 +1,9 @@
 # Frontline Worker Orchestrator Service
 ## Service Principal Names
-- api://flworchestrator.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af
-- https://flworchestrator-int.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af
-- https://flworchestrator.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af
 - cd1b8394-07a3-43b1-8aba-ce6ee572d0af
+- https://flworchestrator.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af
+- https://flworchestrator-int.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af
+- api://flworchestrator.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af
 
  ## Permissions
 - [Application Permissions](#application-permissions)

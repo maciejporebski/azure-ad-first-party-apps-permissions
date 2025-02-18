@@ -1,7 +1,7 @@
 # O365SBRM Service
 ## Service Principal Names
-- 9d06afd9-66c9-49a6-b385-ea7509332b0b
 - https://ocm-api.outlookapps.com
+- 9d06afd9-66c9-49a6-b385-ea7509332b0b
 
  ## Permissions
 - [Application Permissions](#application-permissions)

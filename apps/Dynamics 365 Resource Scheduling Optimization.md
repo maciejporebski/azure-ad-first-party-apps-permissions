@@ -1,7 +1,7 @@
 # Dynamics 365 Resource Scheduling Optimization
 ## Service Principal Names
-- 2f6713e6-1e21-4a83-91b4-5bf9a2378f81
 - api://2f6713e6-1e21-4a83-91b4-5bf9a2378f81
+- 2f6713e6-1e21-4a83-91b4-5bf9a2378f81
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,7 +1,7 @@
 # Microsoft Mixed Reality
 ## Service Principal Names
-- c7ddd9b4-5172-4e28-bd29-1e0792947d18
 - https://sts.mixedreality.azure.com
+- c7ddd9b4-5172-4e28-bd29-1e0792947d18
 
  ## Permissions
 - [Application Permissions](#application-permissions)

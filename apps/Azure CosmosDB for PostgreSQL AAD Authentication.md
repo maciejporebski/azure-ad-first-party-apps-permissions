@@ -1,7 +1,7 @@
 # Azure CosmosDB for PostgreSQL AAD Authentication
 ## Service Principal Names
-- b4fa09d8-5da5-4352-83d9-05c2a44cf431
 - https://postgres.cosmos.azure.com
+- b4fa09d8-5da5-4352-83d9-05c2a44cf431
 
  ## Permissions
 - [Application Permissions](#application-permissions)

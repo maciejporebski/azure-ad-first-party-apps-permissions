@@ -1,7 +1,7 @@
 # Office Scripts Service
 ## Service Principal Names
-- 62fd1447-0ef3-4ab7-a956-7dd05232ecc1
 - https://officescripting.microsoft.com
+- 62fd1447-0ef3-4ab7-a956-7dd05232ecc1
 
  ## Permissions
 - [Application Permissions](#application-permissions)

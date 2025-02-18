@@ -1,7 +1,7 @@
 # Office 365 Information Protection
 ## Service Principal Names
-- https://alert.o365infoprotservice.com
 - 2f3f02c9-5679-4a5c-a605-0de55b07d135
+- https://alert.o365infoprotservice.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

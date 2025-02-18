@@ -1,8 +1,8 @@
 # Azure Data Lake
 ## Service Principal Names
-- e9f49c6b-5ce5-44c8-925d-015017e9f7ad
-- https://datalake.azure.net/
 - https://KonaCompute.net
+- https://datalake.azure.net/
+- e9f49c6b-5ce5-44c8-925d-015017e9f7ad
 
  ## Permissions
 - [Application Permissions](#application-permissions)

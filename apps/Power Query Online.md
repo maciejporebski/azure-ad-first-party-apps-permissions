@@ -1,7 +1,7 @@
 # Power Query Online
 ## Service Principal Names
-- f3b07414-6bf4-46e6-b63f-56941f3f4128
 - https://powerquery.microsoft.com
+- f3b07414-6bf4-46e6-b63f-56941f3f4128
 
  ## Permissions
 - [Application Permissions](#application-permissions)

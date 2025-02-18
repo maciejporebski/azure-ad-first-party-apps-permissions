@@ -1,7 +1,7 @@
 # Azure Communication Services
 ## Service Principal Names
-- 1fd5118e-2576-4263-8130-9503064c837a
 - https://auth.msft.communication.azure.com
+- 1fd5118e-2576-4263-8130-9503064c837a
 
  ## Permissions
 - [Application Permissions](#application-permissions)

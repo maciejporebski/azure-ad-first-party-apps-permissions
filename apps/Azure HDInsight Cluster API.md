@@ -1,7 +1,7 @@
 # Azure HDInsight Cluster API
 ## Service Principal Names
-- 7865c1d2-f040-46cc-875f-831a1ef6a28a
 - https://hib.azurehdinsight.net
+- 7865c1d2-f040-46cc-875f-831a1ef6a28a
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,22 +1,22 @@
 # Viva Engage
 ## Service Principal Names
-- https://engage.cloud.microsoft/teams-branded-exp
-- https://engage.cloud.microsoft
-- https://engage.cloud.microsoft/embed
-- https://engage.cloud.microsoft/teams
-- https://engage.cloud.microsoft/teamsmeeting
-- https://api.yammer.com
-- api://web.yammer.com/botid-26e27eed-f034-49e4-bbc5-031d3c4dc2c4
-- https://web.yammer.com/teamsmeeting
-- 00000005-0000-0ff1-ce00-000000000000/*.yammer.com
-- 00000005-0000-0ff1-ce00-000000000000
-- https://www.yammer.com
-- https://www.yammer.com/
-- https://yammer.office365.com/
-- https://api.yammer.com/
-- https://teams.yammer.com
-- https://web.yammer.com/teams
 - https://web.yammer.com/embed
+- https://web.yammer.com/teams
+- https://teams.yammer.com
+- https://api.yammer.com/
+- https://yammer.office365.com/
+- https://www.yammer.com/
+- https://www.yammer.com
+- 00000005-0000-0ff1-ce00-000000000000
+- 00000005-0000-0ff1-ce00-000000000000/*.yammer.com
+- https://web.yammer.com/teamsmeeting
+- api://web.yammer.com/botid-26e27eed-f034-49e4-bbc5-031d3c4dc2c4
+- https://api.yammer.com
+- https://engage.cloud.microsoft/teamsmeeting
+- https://engage.cloud.microsoft/teams
+- https://engage.cloud.microsoft/embed
+- https://engage.cloud.microsoft
+- https://engage.cloud.microsoft/teams-branded-exp
 
  ## Permissions
 - [Application Permissions](#application-permissions)

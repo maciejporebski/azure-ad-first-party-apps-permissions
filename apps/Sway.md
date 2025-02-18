@@ -1,8 +1,8 @@
 # Sway
 ## Service Principal Names
-- 905fcf26-4eb7-48a0-9ff0-8dcc7194b5ba
-- https://www.sway.com
 - https://sway.com/
+- https://www.sway.com
+- 905fcf26-4eb7-48a0-9ff0-8dcc7194b5ba
 
  ## Permissions
 - [Application Permissions](#application-permissions)

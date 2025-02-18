@@ -1,7 +1,7 @@
 # IC3 Modern Effective Config
 ## Service Principal Names
-- f6e5c0c2-4746-4152-b162-91309d5556df
 - https://mec.infra.teams.microsoft.com
+- f6e5c0c2-4746-4152-b162-91309d5556df
 
  ## Permissions
 - [Application Permissions](#application-permissions)

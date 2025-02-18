@@ -1,8 +1,8 @@
 # Universal Print
 ## Service Principal Names
-- https://print.print.azure.us
-- da9b70f6-5323-4ce6-ae5c-88dcc5082966
 - https://print.print.microsoft.com
+- da9b70f6-5323-4ce6-ae5c-88dcc5082966
+- https://print.print.azure.us
 
  ## Permissions
 - [Application Permissions](#application-permissions)

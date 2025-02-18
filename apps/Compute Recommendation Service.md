@@ -1,7 +1,7 @@
 # Compute Recommendation Service
 ## Service Principal Names
-- b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab
 - api://b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab
+- b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,10 +1,10 @@
 # PowerApps Service
 ## Service Principal Names
-- 475226c6-020e-4fb2-8a90-7a972cbfc1d4
-- https://service.powerapps.com
-- https://api.powerapps.com
-- https://service.powerapps.com/
 - https://api.powerapps.com/
+- https://service.powerapps.com/
+- https://api.powerapps.com
+- https://service.powerapps.com
+- 475226c6-020e-4fb2-8a90-7a972cbfc1d4
 
  ## Permissions
 - [Application Permissions](#application-permissions)

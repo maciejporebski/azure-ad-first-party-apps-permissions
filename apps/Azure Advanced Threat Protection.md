@@ -1,7 +1,7 @@
 # Azure Advanced Threat Protection
 ## Service Principal Names
-- 7b7531ad-5926-4f2d-8a1d-38495ad33e17
 - https://atp.azure.com
+- 7b7531ad-5926-4f2d-8a1d-38495ad33e17
 
  ## Permissions
 - [Application Permissions](#application-permissions)

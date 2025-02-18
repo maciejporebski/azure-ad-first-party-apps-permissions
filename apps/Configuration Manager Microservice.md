@@ -1,9 +1,9 @@
 # Configuration Manager Microservice
 ## Service Principal Names
-- https://cmmicrosvc.manage-mig.microsoft.com/
-- 557c67cf-c916-4293-8373-d584996f60ae
-- https://cmmicrosvc.manage.microsoft.com/
 - https://cmmicrosvc.manage-selfhost.microsoft.com/
+- https://cmmicrosvc.manage.microsoft.com/
+- 557c67cf-c916-4293-8373-d584996f60ae
+- https://cmmicrosvc.manage-mig.microsoft.com/
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,7 +1,7 @@
 # Microsoft Device Directory Service
 ## Service Principal Names
-- 8f41dc7c-542c-4bdd-8eb3-e60543f607ca
 - https://cs.dds.microsoft.com
+- 8f41dc7c-542c-4bdd-8eb3-e60543f607ca
 
  ## Permissions
 - [Application Permissions](#application-permissions)

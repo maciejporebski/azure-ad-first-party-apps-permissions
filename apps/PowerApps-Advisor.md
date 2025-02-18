@@ -1,22 +1,22 @@
 # PowerApps-Advisor
 ## Service Principal Names
-- https://preprod.api.advisor.powerapps.com
-- https://preprod.api.advisor.powerapps.com/
-- https://dev.api.advisor.powerapps.com/
-- https://dev.api.advisor.powerapps.com
-- c9299480-c13a-49db-a7ae-cdfe54fe0313
-- https://advisor.powerapps.com/
-- https://advisor.powerapps.com
-- https://api.advisor.powerapps.com/
-- https://api.advisor.powerapps.com
-- https://test.api.advisor.powerapps.com
-- https://test.api.advisor.powerapps.com/
-- https://gov.api.advisor.powerapps.us
-- https://gov.api.advisor.powerapps.us/
-- https://high.api.advisor.powerapps.us
-- https://high.api.advisor.powerapps.us/
-- https://mil.api.advisor.appsplatform.us
 - https://mil.api.advisor.appsplatform.us/
+- https://mil.api.advisor.appsplatform.us
+- https://high.api.advisor.powerapps.us/
+- https://high.api.advisor.powerapps.us
+- https://gov.api.advisor.powerapps.us/
+- https://gov.api.advisor.powerapps.us
+- https://test.api.advisor.powerapps.com/
+- https://test.api.advisor.powerapps.com
+- https://api.advisor.powerapps.com
+- https://api.advisor.powerapps.com/
+- https://advisor.powerapps.com
+- https://advisor.powerapps.com/
+- c9299480-c13a-49db-a7ae-cdfe54fe0313
+- https://dev.api.advisor.powerapps.com
+- https://dev.api.advisor.powerapps.com/
+- https://preprod.api.advisor.powerapps.com/
+- https://preprod.api.advisor.powerapps.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

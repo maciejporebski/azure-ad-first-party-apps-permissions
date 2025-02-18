@@ -1,20 +1,20 @@
 # Application Insights API
 ## Service Principal Names
-- f5c26e74-f226-4ae8-85f0-b4af0080ac9e
-- https://api.aimon.applicationinsights.io
-- https://api.applicationinsights.io
-- https://api.applicationinsights.io/
-- https://api.aimon.applicationinsights.io/
-- https://api1.aimon.applicationinsights.io
-- https://api2.aimon.applicationinsights.io
-- https://api3.aimon.applicationinsights.io
-- https://api4.aimon.applicationinsights.io
-- https://api5.aimon.applicationinsights.io
-- https://api1.applicationinsights.io
-- https://api2.applicationinsights.io
-- https://api3.applicationinsights.io
-- https://api4.applicationinsights.io
 - https://api5.applicationinsights.io
+- https://api4.applicationinsights.io
+- https://api3.applicationinsights.io
+- https://api2.applicationinsights.io
+- https://api1.applicationinsights.io
+- https://api5.aimon.applicationinsights.io
+- https://api4.aimon.applicationinsights.io
+- https://api3.aimon.applicationinsights.io
+- https://api2.aimon.applicationinsights.io
+- https://api1.aimon.applicationinsights.io
+- https://api.aimon.applicationinsights.io/
+- https://api.applicationinsights.io/
+- https://api.applicationinsights.io
+- https://api.aimon.applicationinsights.io
+- f5c26e74-f226-4ae8-85f0-b4af0080ac9e
 
  ## Permissions
 - [Application Permissions](#application-permissions)

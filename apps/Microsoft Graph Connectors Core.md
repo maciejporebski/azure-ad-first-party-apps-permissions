@@ -1,7 +1,7 @@
 # Microsoft Graph Connectors Core
 ## Service Principal Names
-- f8f7a2aa-e116-4ba6-8aea-ca162cfa310d
 - https://substrate.office.com/cdapi
+- f8f7a2aa-e116-4ba6-8aea-ca162cfa310d
 
  ## Permissions
 - [Application Permissions](#application-permissions)

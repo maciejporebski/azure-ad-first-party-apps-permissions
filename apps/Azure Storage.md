@@ -1,7 +1,7 @@
 # Azure Storage
 ## Service Principal Names
-- e406a681-f3d4-42a8-90b6-c2b029497af1
 - https://storage.azure.com
+- e406a681-f3d4-42a8-90b6-c2b029497af1
 
  ## Permissions
 - [Application Permissions](#application-permissions)

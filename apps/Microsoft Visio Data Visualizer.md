@@ -1,12 +1,12 @@
 # Microsoft Visio Data Visualizer
 ## Service Principal Names
-- 00695ed2-3202-4156-8da1-69f60065e255
-- api://ffc-visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255
-- api://visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255
-- api://visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255/access_as_user
-- api://ffc-visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255/access_as_user
-- api://ppc-visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255/access_as_user
 - api://ppc-visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255
+- api://ppc-visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255/access_as_user
+- api://ffc-visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255/access_as_user
+- api://visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255/access_as_user
+- api://visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255
+- api://ffc-visio.officeapps.live.com/va/00695ed2-3202-4156-8da1-69f60065e255
+- 00695ed2-3202-4156-8da1-69f60065e255
 
  ## Permissions
 - [Application Permissions](#application-permissions)

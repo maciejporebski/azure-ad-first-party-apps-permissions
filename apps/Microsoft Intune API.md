@@ -1,13 +1,13 @@
 # Microsoft Intune API
 ## Service Principal Names
-- https://api.manage-mig.microsoft.com/
-- c161e42e-d4df-4a3d-9b42-e7a3c31f59d4
-- https://api.manage-selfhost.microsoft.com/
-- https://api.manage-ppe.microsoft.us/
-- https://api.manage-test.microsoft.us/
-- https://api.manage.microsoft.us/
-- https://api.manage.microsoft.com/
 - https://api.manage-beta.microsoft.com/
+- https://api.manage.microsoft.com/
+- https://api.manage.microsoft.us/
+- https://api.manage-test.microsoft.us/
+- https://api.manage-ppe.microsoft.us/
+- https://api.manage-selfhost.microsoft.com/
+- c161e42e-d4df-4a3d-9b42-e7a3c31f59d4
+- https://api.manage-mig.microsoft.com/
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,7 +1,7 @@
 # Microsoft.EventHubs
 ## Service Principal Names
-- https://eventhubs.azure.net
 - 80369ed6-5f11-4dd9-bef3-692475845e77
+- https://eventhubs.azure.net
 
  ## Permissions
 - [Application Permissions](#application-permissions)

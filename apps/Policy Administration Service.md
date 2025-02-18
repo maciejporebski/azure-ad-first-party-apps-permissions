@@ -1,9 +1,9 @@
 # Policy Administration Service
 ## Service Principal Names
-- https://authorization.microsoft.com
-- https://pas.windows.net/
-- https://pas.windows.net
 - 0469d4cd-df37-4d93-8a61-f8c75b809164
+- https://pas.windows.net
+- https://pas.windows.net/
+- https://authorization.microsoft.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

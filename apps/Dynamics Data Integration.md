@@ -1,7 +1,7 @@
 # Dynamics Data Integration
 ## Service Principal Names
-- 2e49aa60-1bd3-43b6-8ab6-03ada3d9f08b
 - https://IntegratorApp.com
+- 2e49aa60-1bd3-43b6-8ab6-03ada3d9f08b
 
  ## Permissions
 - [Application Permissions](#application-permissions)

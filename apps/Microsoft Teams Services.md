@@ -1,13 +1,13 @@
 # Microsoft Teams Services
 ## Service Principal Names
-- cc15fd57-2c6c-4117-a88c-83b1d56b4bbe
-- https://api.spaces.skype.com/
-- https://teams.microsoft.com
-- https://api.spaces.skype.com
-- https://api.gcc.teams.microsoft.com
-- https://teams.microsoft.com/
-- https://middletier.dod.teams.microsoft.us
 - https://middletier.gov.teams.microsoft.us
+- https://middletier.dod.teams.microsoft.us
+- https://teams.microsoft.com/
+- https://api.gcc.teams.microsoft.com
+- https://api.spaces.skype.com
+- https://teams.microsoft.com
+- https://api.spaces.skype.com/
+- cc15fd57-2c6c-4117-a88c-83b1d56b4bbe
 
  ## Permissions
 - [Application Permissions](#application-permissions)

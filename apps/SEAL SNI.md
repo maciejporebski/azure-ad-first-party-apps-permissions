@@ -1,7 +1,7 @@
 # SEAL SNI
 ## Service Principal Names
-- c10f411a-874c-485c-9d66-6e0b34202c41
 - https://seal-sni
+- c10f411a-874c-485c-9d66-6e0b34202c41
 
  ## Permissions
 - [Application Permissions](#application-permissions)

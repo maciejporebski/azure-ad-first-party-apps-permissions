@@ -1,7 +1,7 @@
 # ConnectionsService
 ## Service Principal Names
-- b7912db9-aa33-4820-9d4f-709830fdd78f
 - https://api.connections.ms
+- b7912db9-aa33-4820-9d4f-709830fdd78f
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,8 +1,8 @@
 # Windows Azure Service Management API
 ## Service Principal Names
-- 797f4846-ba00-4fd7-ba43-dac1f8f63013
-- https://management.core.windows.net/
 - https://management.azure.com/
+- https://management.core.windows.net/
+- 797f4846-ba00-4fd7-ba43-dac1f8f63013
 
  ## Permissions
 - [Application Permissions](#application-permissions)

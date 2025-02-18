@@ -1,12 +1,12 @@
 # Microsoft Teams Chat Aggregator
 ## Service Principal Names
-- api://botid-b1379a75-ce5e-4fa3-80c6-89bb39bf646c
-- https://csa.teams.microsoftonline.cn
-- b1379a75-ce5e-4fa3-80c6-89bb39bf646c
-- https://chatsvcagg.teams.microsoft.com
-- https://chatsvcagg.dod.teams.microsoft.us
-- https://chatsvcagg.gov.teams.microsoft.us
 - https://chatsvcagg.gcc.teams.microsoft.com
+- https://chatsvcagg.gov.teams.microsoft.us
+- https://chatsvcagg.dod.teams.microsoft.us
+- https://chatsvcagg.teams.microsoft.com
+- b1379a75-ce5e-4fa3-80c6-89bb39bf646c
+- https://csa.teams.microsoftonline.cn
+- api://botid-b1379a75-ce5e-4fa3-80c6-89bb39bf646c
 
  ## Permissions
 - [Application Permissions](#application-permissions)

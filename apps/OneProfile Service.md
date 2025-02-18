@@ -1,7 +1,7 @@
 # OneProfile Service
 ## Service Principal Names
-- b2cc270f-563e-4d8a-af47-f00963a71dcd
 - https://substrate.office.com/profile/
+- b2cc270f-563e-4d8a-af47-f00963a71dcd
 
  ## Permissions
 - [Application Permissions](#application-permissions)

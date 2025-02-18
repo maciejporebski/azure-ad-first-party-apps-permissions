@@ -1,11 +1,11 @@
 # Microsoft People Cards Service
 ## Service Principal Names
-- api://394866fc-eedb-4f01-8536-3ff84b16be2a
-- https://gcc.loki.delve.office.com/
-- https://gcchigh.loki.office365.us/
-- https://dod.loki.office365.us/
-- 394866fc-eedb-4f01-8536-3ff84b16be2a
 - https://loki.delve.office.com/
+- 394866fc-eedb-4f01-8536-3ff84b16be2a
+- https://dod.loki.office365.us/
+- https://gcchigh.loki.office365.us/
+- https://gcc.loki.delve.office.com/
+- api://394866fc-eedb-4f01-8536-3ff84b16be2a
 
  ## Permissions
 - [Application Permissions](#application-permissions)

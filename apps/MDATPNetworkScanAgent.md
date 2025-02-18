@@ -1,7 +1,7 @@
 # MDATPNetworkScanAgent
 ## Service Principal Names
-- 04687a56-4fc2-4e36-b274-b862fb649733
 - https://securitycenter.onmicrosoft.com/MdatpNetworkScanAgent
+- 04687a56-4fc2-4e36-b274-b862fb649733
 
  ## Permissions
 - [Application Permissions](#application-permissions)

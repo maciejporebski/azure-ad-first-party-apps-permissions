@@ -1,9 +1,9 @@
 # Skype for Business Online
 ## Service Principal Names
-- 00000004-0000-0ff1-ce00-000000000000/*.infra.lync.com
-- 00000004-0000-0ff1-ce00-000000000000/*.online.lync.com
-- 00000004-0000-0ff1-ce00-000000000000
 - https://api.skypeforbusiness.com/
+- 00000004-0000-0ff1-ce00-000000000000
+- 00000004-0000-0ff1-ce00-000000000000/*.online.lync.com
+- 00000004-0000-0ff1-ce00-000000000000/*.infra.lync.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)

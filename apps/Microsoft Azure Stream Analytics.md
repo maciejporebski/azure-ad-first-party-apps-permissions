@@ -1,7 +1,7 @@
 # Microsoft Azure Stream Analytics
 ## Service Principal Names
-- 66f1e791-7bfb-4e18-aed8-1720056421c7
 - https://streamanalytics.microsoft.com
+- 66f1e791-7bfb-4e18-aed8-1720056421c7
 
  ## Permissions
 - [Application Permissions](#application-permissions)

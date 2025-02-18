@@ -1,20 +1,20 @@
 # Microsoft Threat Protection
 ## Service Principal Names
-- 8ee8fdad-f234-4243-8f3b-15c294843740
-- https://security.microsoft.com/mtp
-- https://api-us.security.microsoft.com
-- https://api-eu.security.microsoft.com
-- https://api-uk.security.microsoft.com
-- https://api-gcc.security.microsoft.us
-- https://api-gov.security.microsoft.us
-- https://api.security.microsoft.com
-- https://api.security.microsoft.com/
-- https://api-gov.security.microsoft.us/
-- https://api-gcc.security.microsoft.us/
-- https://api-uk.security.microsoft.com/
-- https://api-eu.security.microsoft.com/
-- https://api-us.security.microsoft.com/
 - https://security.microsoft.com/mtp/
+- https://api-us.security.microsoft.com/
+- https://api-eu.security.microsoft.com/
+- https://api-uk.security.microsoft.com/
+- https://api-gcc.security.microsoft.us/
+- https://api-gov.security.microsoft.us/
+- https://api.security.microsoft.com/
+- https://api.security.microsoft.com
+- https://api-gov.security.microsoft.us
+- https://api-gcc.security.microsoft.us
+- https://api-uk.security.microsoft.com
+- https://api-eu.security.microsoft.com
+- https://api-us.security.microsoft.com
+- https://security.microsoft.com/mtp
+- 8ee8fdad-f234-4243-8f3b-15c294843740
 
  ## Permissions
 - [Application Permissions](#application-permissions)

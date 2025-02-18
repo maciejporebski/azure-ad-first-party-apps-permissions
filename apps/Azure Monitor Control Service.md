@@ -1,7 +1,7 @@
 # Azure Monitor Control Service
 ## Service Principal Names
-- e933bd07-d2ee-4f1d-933c-3752b819567b
 - https://monitor.azure.com/
+- e933bd07-d2ee-4f1d-933c-3752b819567b
 
  ## Permissions
 - [Application Permissions](#application-permissions)

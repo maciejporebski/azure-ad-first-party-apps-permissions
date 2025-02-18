@@ -1,7 +1,7 @@
 # Microsoft Stream Portal
 ## Service Principal Names
-- cf53fce8-def6-4aeb-8d30-b158e7b1cf83
 - https://stream.microsoft.com
+- cf53fce8-def6-4aeb-8d30-b158e7b1cf83
 
  ## Permissions
 - [Application Permissions](#application-permissions)

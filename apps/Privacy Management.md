@@ -1,9 +1,9 @@
 # Privacy Management
 ## Service Principal Names
-- 5a4a238f-f186-4fff-95bd-d3e70f9e1a08
-- api://botid-5a4a238f-f186-4fff-95bd-d3e70f9e1a08
-- https://privacyppe.trafficmanager.net
 - https://privacy.trafficmanager.net
+- https://privacyppe.trafficmanager.net
+- api://botid-5a4a238f-f186-4fff-95bd-d3e70f9e1a08
+- 5a4a238f-f186-4fff-95bd-d3e70f9e1a08
 
  ## Permissions
 - [Application Permissions](#application-permissions)

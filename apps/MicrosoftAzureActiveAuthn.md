@@ -1,7 +1,7 @@
 # MicrosoftAzureActiveAuthn
 ## Service Principal Names
-- 0000001a-0000-0000-c000-000000000000/pfweb.phonefactor.net
 - 0000001a-0000-0000-c000-000000000000
+- 0000001a-0000-0000-c000-000000000000/pfweb.phonefactor.net
 
  ## Permissions
 - [Application Permissions](#application-permissions)

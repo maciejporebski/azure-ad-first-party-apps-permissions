@@ -1,9 +1,9 @@
 # Portfolios
 ## Service Principal Names
-- f53895d3-095d-408f-8e93-8f94b391404e
-- https://project.microsoft.com
-- https://portfolios.officeppe.com
 - https://gcc.project.microsoft.com
+- https://portfolios.officeppe.com
+- https://project.microsoft.com
+- f53895d3-095d-408f-8e93-8f94b391404e
 
  ## Permissions
 - [Application Permissions](#application-permissions)

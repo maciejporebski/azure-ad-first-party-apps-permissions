@@ -1,7 +1,7 @@
 # Azure Cognitive Search
 ## Service Principal Names
-- 880da380-985e-4198-81b9-e05b1cc53158
 - https://search.azure.com
+- 880da380-985e-4198-81b9-e05b1cc53158
 
  ## Permissions
 - [Application Permissions](#application-permissions)

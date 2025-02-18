@@ -1,7 +1,7 @@
 # Microsoft_Azure_Support
 ## Service Principal Names
-- 959678cf-d004-4c22-82a6-d2ce549a58b8
 - https://s2.support.ext.azure.com
+- 959678cf-d004-4c22-82a6-d2ce549a58b8
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,14 +1,14 @@
 # Microsoft Partner
 ## Service Principal Names
-- 4990cffe-04e8-4e8b-808a-1175604b879f
-- https://developer.microsoft.com
-- https://dev.microsoft.com
-- https://devcenter.microsoft.com/
-- https://developers.windows.com/
-- https://developer.windows.com/
-- https://dev.windows.com/
-- https://api.partner.microsoft.com
 - https://api.partner.microsoft-int.com
+- https://api.partner.microsoft.com
+- https://dev.windows.com/
+- https://developer.windows.com/
+- https://developers.windows.com/
+- https://devcenter.microsoft.com/
+- https://dev.microsoft.com
+- https://developer.microsoft.com
+- 4990cffe-04e8-4e8b-808a-1175604b879f
 
  ## Permissions
 - [Application Permissions](#application-permissions)

@@ -1,7 +1,7 @@
 # Cortana at Work Service
 ## Service Principal Names
-- 2a486b53-dbd2-49c0-a2bc-278bdfc30833
 - https://cortana.ai/api
+- 2a486b53-dbd2-49c0-a2bc-278bdfc30833
 
  ## Permissions
 - [Application Permissions](#application-permissions)
