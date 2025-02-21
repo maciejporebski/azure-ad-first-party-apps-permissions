@@ -24,6 +24,9 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | user_impersonation | ee69721e-6c3a-468f-a9ec-302d16a4c599 | Have full access to Visual Studio Team Services REST APIs | Allow the application full access to the REST APIs provided by Visual Studio Team Services on behalf of the signed-in user |
+| vso.advsec | 78fa0d77-2f93-4844-b309-d46fe87fdc1c | AdvancedSecurity (read) | Grants the ability to read alerts, result instances, analysis result instances |
+| vso.advsec_manage | 5a20e9fd-a07c-4c6e-9595-7b78bebaf75d | AdvancedSecurity (read, write, and manage) | Grants the ability to access sarif upload information, delete analysis, and update alerts |
+| vso.advsec_write | be203134-c456-436a-9be1-c6bd8a5046a4 | AdvancedSecurity (read and write) | Grants the ability to upload analyses in sarif |
 | vso.agentpools | ff83db68-cb4a-4cff-9bfe-285ed2bb9e45 | Agent Pools (read) | Grants the ability to view tasks, pools, queues, agents, and currently running or recently completed jobs for agents. |
 | vso.agentpools_manage | 09370e63-5e5c-4c44-b89a-6368427605d4 | Agent Pools (read, manage) | Grants the ability to manage pools, queues, and agents. |
 | vso.analytics | fcd8f1a4-ac62-487a-b198-13632f189646 | Analytics (read) | Grants the ability to query analytics. |
