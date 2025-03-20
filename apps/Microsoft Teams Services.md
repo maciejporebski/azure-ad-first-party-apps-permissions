@@ -1,5 +1,6 @@
 # Microsoft Teams Services
 ## Service Principal Names
+- https://teams.cloud.microsoft
 - https://middletier.gov.teams.microsoft.us
 - https://middletier.dod.teams.microsoft.us
 - https://teams.microsoft.com/
