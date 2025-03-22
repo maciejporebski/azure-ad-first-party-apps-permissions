@@ -30,6 +30,7 @@ Your application runs as a background service or daemon without a signed-in user
 | DataInsightsUsersData.tenant.read | 0eabd45c-e771-460d-a601-2d534e78a1be | DataInsightsUsersData.tenant.read | DataInsightsUsersData.tenant.read |
 | DynamicRiskPreventionTag.Tenant.Read | f63db487-96bf-49af-8a79-faa86287aee6 | DynamicRiskPreventionTag.Tenant.Read | DynamicRiskPreventionTag.Tenant.Read |
 | DynamicRiskPreventionTag.Tenant.Write | 15188c9e-7879-4e83-9d63-c728da8feb0d | DynamicRiskPreventionTag.Tenant.Write | DynamicRiskPreventionTag.Tenant.Write |
+| EopDataInsights.AccessAsApp | cfbd1345-3cf0-408c-8c99-1491bde7ce52 | EopDataInsights.AccessAsApp | EopDataInsights.AccessAsApp |
 | InsiderRiskData.Read.All | 57fee0bb-e97d-4e5c-a663-2b0c7ce0db37 | InsiderRiskData.Read.All | InsiderRiskData.Read.All |
 | M365ContentExplorer.Read.All | 26872368-3756-4995-a1d0-73cfa9d8f83a | M365ContentExplorer.Read.All | M365ContentExplorer.Read.All |
 | messageeventsummary.tenant.read | 51aa070e-cc8b-45a9-8530-3fc96b0aa701 | messageeventsummary.tenant.read | This scope allows Apps to read tenant's MessageEventSummary data |
