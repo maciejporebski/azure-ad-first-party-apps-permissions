@@ -1,5 +1,6 @@
 # O365 Demeter
 ## Service Principal Names
+- https://publisher-aircapi.1pp.microsoft.com
 - https://commerceapi.office.net
 - 982bda36-4632-4165-a46a-9863b1bbcf7d
 

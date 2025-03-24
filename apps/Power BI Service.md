@@ -1,5 +1,6 @@
 # Power BI Service
 ## Service Principal Names
+- api://daily.local.powerbi.com/00000009-0000-0000-c000-000000000000
 - api://botid-18563b69-42ea-4693-9fe8-32ed3cab102d
 - api://botid-b76e1078-3416-45a9-bb7a-54828299362f
 - api://botid-365f198c-f33d-4b87-b209-62033e2f4d6f
