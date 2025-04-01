@@ -44,6 +44,7 @@
 | [Call Recorder](<apps/Call Recorder.md>) | 4580fd1d-e5a3-4f56-9ad1-aab0e3bf8f76 |
 | [ComplianceAuthServer](<apps/ComplianceAuthServer.md>) | https://substrate.office.com/ComplianceAuthServer<br>9e5d84af-8971-422f-968a-354cd675ae5b<br>https://substrate-dod.office365.us/ComplianceAuthServer<br>https://substrate.office365.us/ComplianceAuthServer |
 | [CompliancePolicy](<apps/CompliancePolicy.md>) | https://substrate.office.com/CompliancePolicy<br>644c1b11-f63f-45fa-826b-a9d2801db711<br>https://substrate.office.com/CompliancePolicySyncService |
+| [ComplianceWorkbenchApp](<apps/ComplianceWorkbenchApp.md>) | https://substrate-dod.office365.us/complianceworkbench<br>https://substrate.office365.us/complianceworkbench<br>https://substrate.office.com/complianceworkbench<br>92876b03-76a3-4da8-ad6a-0511ffdf8647 |
 | [Compute Recommendation Service](<apps/Compute Recommendation Service.md>) | api://b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab<br>b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab |
 | [Configuration Manager Microservice](<apps/Configuration Manager Microservice.md>) | https://cmmicrosvc.manage-selfhost.microsoft.com/<br>https://cmmicrosvc.manage.microsoft.com/<br>557c67cf-c916-4293-8373-d584996f60ae<br>https://cmmicrosvc.manage-mig.microsoft.com/ |
 | [ConnectionsService](<apps/ConnectionsService.md>) | https://api.connections.ms<br>b7912db9-aa33-4820-9d4f-709830fdd78f |
