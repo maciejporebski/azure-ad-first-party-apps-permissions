@@ -32,4 +32,6 @@ Your application needs to access the API as the signed-in user.
 |---|---|---|---|
 | Connector.Read | 06d98eed-6e1d-47d1-af81-f69ca60a0e97 | Connector.Read | Allow app to access compliance connector |
 | eDiscovery.Export.Download | df0d2e21-1705-4006-b158-1114609fdfbd | eDiscovery.Export.Download | Allow app to download the ediscovery exported data |
+| eDiscovery.Jobs.Read | 0f062bc7-6f95-469a-810f-d846e6cbba44 | eDiscovery.Jobs.Read | Allow app to read properties of jobs submitted to eDiscovery. |
+| eDiscovery.Jobs.Write | 5faac7a2-ab08-4049-aece-ab2b4de5f59e | eDiscovery.Jobs.Write | Allow app to submit jobs to eDiscovery. |
 
