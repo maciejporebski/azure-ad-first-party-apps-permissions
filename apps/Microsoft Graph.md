@@ -568,6 +568,7 @@ Your application runs as a background service or daemon without a signed-in user
 | VirtualEvent.Read.All | 1dccb351-c4e4-4e09-a8d1-7a9ecbf027cc | Read all users' virtual events | Allows the app to read all virtual events without a signed-in user. |
 | VirtualEventRegistration-Anon.ReadWrite.All | 23211fc1-f9d1-4e8e-8e9e-08a5d0a109bb | Read and write anonymous users' virtual event registrations | Allows the app to read and write anonymous users' virtual event registrations, without a signed-in user |
 | WindowsUpdates.ReadWrite.All | 7dd1be58-6e76-4401-bf8d-31d1e8180d5b | Read and write all Windows update deployment settings | Allows the app to read and write all Windows update deployment settings for the organization without a signed-in user. |
+| WorkforceIntegration.Read.All | f10b94b9-37d1-4c88-8b7e-bf75a1152d39 | Read workforce integrations | Allows the app to read workforce integrations without a signed-in user. |
 | WorkforceIntegration.ReadWrite.All | 202bf709-e8e6-478e-bcfd-5d63c50b68e3 | Read and write workforce integrations | Allows the app to manage workforce integrations to synchronize data from Microsoft Teams Shifts, without a signed-in user. |
 
 ## Delegated Permissions
