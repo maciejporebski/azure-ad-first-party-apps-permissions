@@ -29,6 +29,7 @@ Your application needs to access the API as the signed-in user.
 | LinkedIn.ReadWrite | a46719cd-bc2e-4b9a-858b-ff793390fe77 | Access the Office People API | Allow access the Office People API |
 | LLM.Read | b4ed7afe-ffaf-4a1c-ade1-91d29981e3bb | Access the Office People API | Allow access the Office People API |
 | Mail.Read | 75763f24-4303-4c58-a8b1-8e03ead9d770 | Access the Office People API | Allow access the Office People API |
+| OnlineMeetings.Read | 2e87e453-2fc7-45ee-947f-bf81dc7f0926 | Access the Office People API | Allow access the Office People API |
 | Organization.Read | a248f402-c66c-43c5-87b7-f1bcb63d5541 | Access the Office People API | Allow access the Office People API |
 | OrgPartition.ReadWrite | fa24bc06-dbf4-4adb-8a3c-0af452b9a6dc | Access the Office People API | Allow access the Office People API |
 | Settings.Read | 9a03526c-9f8c-4c0f-a79a-0bb3c3be3ed1 | Access the Office People API | Allow access the Office People API |
