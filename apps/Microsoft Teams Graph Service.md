@@ -31,6 +31,8 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | ApiSecretRegistration.ReadWrite | 7d00ce87-dff2-46f7-8cec-977df77a9e33 | Allow reading and writing Teams App API secret registrations | Allow reading and writing Teams App API secret registrations |
+| AppIngestion.Read | 07bf5a4d-e87c-42b2-ac0b-91f803f4aeea | Read ingested apps | Allows the app to read all ingested apps on behalf of the signed-in user. |
+| AppIngestion.Write | f031a3e7-c1cf-4a4e-b3b2-b230123ebef2 | Perform write operations on ingested apps | Allows the app to publish a new app, update or withdraw an existing app on behalf of the signed-in user. |
 | Graph.ReadWrite.All | ed20b8a8-12e9-45f5-b3e5-69f25572d7be | Access APIs exposed by Teams Graph worload | Allows Microsoft Graph to call into the service to perform operations on application's behalf |
 | ResourceSpecificPermission.Read | df563937-6d21-4fa5-8284-f8cd6ff567fe | Allow reading resource specific permissions | Allows reading resource specific permissions for an application |
 | ResourceSpecificPermission.ReadWrite | 0cf5e046-95b4-47da-83d3-b9ca4fb97744 | Allow reading and writing resource specific permissions | Allows reading and writing resource specific permissions for an application |
