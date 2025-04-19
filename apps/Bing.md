@@ -38,4 +38,5 @@ Your application needs to access the API as the signed-in user.
 | People.Read.All | e06fee6d-72ac-417d-bb34-d1b82b9f5346 | Read all users' relevant people lists | Allows the app to read a scored list of relevant people of the signed-in user or other users in the signed-in user's organization.  |
 | QnA.Read.All | bfc6f88b-6314-451d-ac7c-501307ad192a | Read all QnA | Allows the app to list QnA and to read their properties on behalf of the signed-in user.  |
 | User.Read.All | 9ee66b54-9cf0-41b8-87da-d62f8c21222b | Read all users' full profiles | Allows the app to read the full set of profile properties, reports, and managers of other users in your organization, on behalf of the signed-in user. |
+| Web.Read | 516d1055-ed6f-4e63-922d-eb17aef59604 | Access web grounding | Allows the app to fetch web grounded data for Copilot |
 
