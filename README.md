@@ -24,6 +24,7 @@
 | [Azure HDInsight Cluster API](<apps/Azure HDInsight Cluster API.md>) | https://hib.azurehdinsight.net<br>7865c1d2-f040-46cc-875f-831a1ef6a28a |
 | [Azure Key Vault](<apps/Azure Key Vault.md>) | https://vault.azure.net<br>cfa8b339-82a2-471a-a3c9-0fc0be7a4093 |
 | [Azure Kubernetes Service AAD Server](<apps/Azure Kubernetes Service AAD Server.md>) | https://aks-aad-server.azure.com<br>6dae42f8-4368-4678-94ff-3960e28e3630 |
+| [Azure Machine Learning Services](<apps/Azure Machine Learning Services.md>) | https://ml.azure.us<br>https://ml.azure.com<br>18a66f5f-dbdf-4c17-9dd7-1634712a9cbe |
 | [Azure Maps](<apps/Azure Maps.md>) | https://atlas.microsoft.com/<br>ba1ea022-5807-41d5-bbeb-292c7e1cf5f6 |
 | [Azure Media Services](<apps/Azure Media Services.md>) | https://armrp.media.azure.net/<br>374b2a64-3b6b-436b-934c-b820eacca870 |
 | [Azure Monitor Control Service](<apps/Azure Monitor Control Service.md>) | https://monitor.azure.com/<br>e933bd07-d2ee-4f1d-933c-3752b819567b |

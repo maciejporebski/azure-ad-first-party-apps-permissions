@@ -66,6 +66,8 @@ Your application needs to access the API as the signed-in user.
 | vso.packaging | fcc79b02-ad6b-4ac7-af05-70cb9e349708 | Packaging (read) | Grants the ability to read feeds and packages. |
 | vso.packaging_manage | 1c2a30a3-4b4c-42b1-bb10-6f24faf344d7 | Packaging (read, write, and manage) | Grants the ability to create, read, update, and delete feeds and packages. |
 | vso.packaging_write | fb6a8425-8933-4b7f-9c4a-154568e06e5c | Packaging (read and write) | Grants the ability to create and read feeds and packages. |
+| vso.pats | de2740de-3092-4b70-afcd-df4a8a4ecacf | Pats (read) | Grants the ability to read Pats for a user |
+| vso.pats_manage | 15b69eb5-89f0-4f4d-8d0d-219397dab9c4 | Pats (read and manage) | Grants the ability to read and manage Pats for a user |
 | vso.pipelineresources_manage | 8deb8858-ff9b-4c4e-b702-5a6abbb28db0 | Pipeline Resources (use and manage) | Grants the ability to manage a protected resource or a pipeline's request to use a protected resource, agent pool, environment, queue, repository, secure files, service connection, and variable group |
 | vso.pipelineresources_use | 7c6f675c-fff5-4f8a-adf1-1a3d6f3fafdc | Pipeline Resources (use) | Grants the ability to approve a pipeline's request to use a protected resource, agent pool, environment, queue, repository, secure files, service connection, and variable group |
 | vso.profile | 4ee63f9b-9e65-476c-a487-9fea1e00c7ef | User profile (read) | Grants the ability to read your profile, accounts, collections, projects, teams, and other top-level organizational artifacts. |

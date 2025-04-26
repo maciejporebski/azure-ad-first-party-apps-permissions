@@ -18,6 +18,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| AppCatalog.Read.All | bb050071-0147-4956-8cf1-9168939c0a79 | Read App Catalog | Allows the application to read all the AppCatalog |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
