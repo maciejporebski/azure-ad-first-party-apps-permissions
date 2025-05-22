@@ -30,4 +30,5 @@ Your application needs to access the API as the signed-in user.
 | People.Read | 36073ebf-e0ad-4838-b99a-8f63f2b60db1 | Read users' relevant people lists | Allows the app to read a ranked list of relevant people of the signed-in user. The list includes local contacts, contacts from social networking, your organization's directory, and people from recent communications (such as email and Skype) |
 | QnA.Read.All | 537ceb4f-32cd-4b8e-bab3-8303e950ccf0 | Read all QnA | Allows the app to list QnA and to read their properties on behalf of the signed-in user.  |
 | SubstrateSearch-Internal.ReadWrite | 2aec0168-f9e2-4ce1-bb0f-1145f35f5a64 | Search across the users' office content | Allows the app to search across the users office content. This content includes relevant people, documents, emails and skype messages. |
+| SubstrateSearchServiceFiles.ReadAll | 2aec0168-f9e2-4ce1-bb0f-1145f35f5a60 | Search across the users office content | Allows the app to search across sharepoint content. This is used for 3S unfurl route. |
 
