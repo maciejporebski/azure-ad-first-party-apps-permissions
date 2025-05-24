@@ -452,6 +452,7 @@ Your application runs as a background service or daemon without a signed-in user
 | SecurityIncident.Read.All | 45cc0394-e837-488b-a098-1918f48d186c | Read all security incidents | Allows the app to read all security incidents, without a signed-in user. |
 | SecurityIncident.ReadWrite.All | 34bf0e97-1971-4929-b999-9e2442d941d7 | Read and write to all security incidents | Allows the app to read and write to all security incidents, without a signed-in user. |
 | SensitivityLabel.Evaluate | 57f0b71b-a759-45a0-9a0f-cc099fbd9a44 | Evaluate sensitivity labels | Allow the app to determine if there is any sensitivity label to be applied automatically to the content or recommended to the user for manual application, without a signed-in user. |
+| SensitivityLabel.Evaluate.All | 986fa56a-6680-4aac-af09-4d1765376739 | Evaluate labels tenant scope. | Allows the app to evaluate all sensitivity label. |
 | SensitivityLabel.Read | 3b8e7aad-f6e3-4299-83f8-6fc6a5777f0b | Get labels application scope. | Allows the app to get sensitivity labels. |
 | SensitivityLabels.Read.All | e46a01e9-b2cf-4d89-8424-bcdc6dd445ab | Get labels tenant scope. | Allows the app to get sensitivity labels. |
 | ServiceActivity-Exchange.Read.All | 2b655018-450a-4845-81e7-d603b1ebffdb | Read all Exchange service activity | Allows the app to read all Exchange service activity, without a signed-in user. |
