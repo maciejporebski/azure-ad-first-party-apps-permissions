@@ -33,6 +33,7 @@
 | [Azure Resource Graph](<apps/Azure Resource Graph.md>) | 509e4652-da8d-478d-a730-e9d4a1996ca4 |
 | [Azure Signup Api](<apps/Azure Signup Api.md>) | https://signupapi-airgap.trafficmanager.net<br>https://signupapi-airgap.trafficmanager.net/<br>https://signupapi.azure.com<br>https://signupapi.azure.com/<br>3829f069-1c33-45dd-84ab-2465f4282677 |
 | [Azure SQL Database](<apps/Azure SQL Database.md>) | https://sql.azuresynapse.net/<br>https://database.windows.net/<br>https://database.usgovcloudapi.net/<br>022907d3-0f1b-48f7-badc-1ba6abab6d66 |
+| [Azure SRE Agent](<apps/Azure SRE Agent.md>) | 59f0a04a-b322-4310-adc9-39ac41e9631e<br>https://azurecopilot.io<br>https://azuresre.dev<br>https://azuresre.ai |
 | [Azure Storage](<apps/Azure Storage.md>) | https://storage.azure.com<br>e406a681-f3d4-42a8-90b6-c2b029497af1 |
 | [Azure Time Series Insights](<apps/Azure Time Series Insights.md>) | 120d688d-1518-4cf7-bd38-182f158850b6<br>https://api.timeseries.azure.com/ |
 | [Azure Virtual Desktop](<apps/Azure Virtual Desktop.md>) | https://www.wvd.azure.us<br>https://www.wvd.microsoft.com<br>9cdead84-a844-4324-93f2-b2e6bb768d07<br>ms-device-service://9cdead84-a844-4324-93f2-b2e6bb768d07<br>ms-device-service://host.wvd.microsoft.com |
