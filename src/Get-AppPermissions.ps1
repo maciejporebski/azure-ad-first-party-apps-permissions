@@ -1,3 +1,5 @@
+Get-Module -ListAvailable
+
 Connect-MgGraph -AccessToken (ConvertTo-SecureString -String (Get-AzAccessToken -ResourceTypeName MSGraph).Token -AsPlainText) | Out-Null
 
 $servicePrincipals = Get-MgServicePrincipal -All
