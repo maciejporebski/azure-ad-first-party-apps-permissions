@@ -23,7 +23,7 @@ jobs:
         subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
         enable-AzPSSession: true
     - name: Get Updated Apps
-      uses: Azure/powershell@v1
+      uses: azure/powershell@v2
       with:
         inlineScript: |
           Set-Location $ENV:GITHUB_WORKSPACE
