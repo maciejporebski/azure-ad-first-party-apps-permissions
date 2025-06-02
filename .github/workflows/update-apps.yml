@@ -31,15 +31,15 @@ jobs:
           dir
           ./src/Get-AppPermissions.ps1
         azPSVersion: latest
-    - name: Commit Changes
-      run: |
-        cd $GITHUB_WORKSPACE
-        now=$(date)
-        git config --global user.email "${{ vars.GIT_CONFIG_USER_EMAIL }}"
-        git config --global user.name "${{ vars.GIT_CONFIG_USER_NAME }}"
-        git add --all
-        if [ -n "$(git status --porcelain)" ]
-        then
-          git commit -a -m "auto update apps $now"
-          git push
-        fi
+#    - name: Commit Changes
+#      run: |
+#        cd $GITHUB_WORKSPACE
+#        now=$(date)
+#        git config --global user.email "${{ vars.GIT_CONFIG_USER_EMAIL }}"
+#        git config --global user.name "${{ vars.GIT_CONFIG_USER_NAME }}"
+#        git add --all
+#        if [ -n "$(git status --porcelain)" ]
+#        then
+#          git commit -a -m "auto update apps $now"
+#          git push
+#        fi
