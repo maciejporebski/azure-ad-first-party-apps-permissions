@@ -1,5 +1,3 @@
-Get-Module -ListAvailable
-
 $token = (Get-AzAccessToken -ResourceTypeName MSGraph -AsSecureString -ErrorAction Stop).token
 Connect-MgGraph -AccessToken $token
 
