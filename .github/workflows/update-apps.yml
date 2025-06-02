@@ -30,7 +30,7 @@ jobs:
           Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
           dir
           ./src/Get-AppPermissions.ps1
-        azPSVersion: latest
+        azPSVersion: '14.0.0'
 #    - name: Commit Changes
 #      run: |
 #        cd $GITHUB_WORKSPACE
