@@ -29,4 +29,5 @@ Your application needs to access the API as the signed-in user.
 | OrgSettings-Planner.ReadWrite.All | 2e483df6-5d5c-44ee-88f3-e5238f38ebb6 | Read and write organization-wide Microsoft Planner settings | Allows the app to read and write organization-wide Microsoft Planner settings on behalf of the signed-in user. |
 | Tasks.Read.Published | 8057a3f8-ac27-4195-984c-ee6efa721ef1 | Read user published tasks | Allows an app to read published user tasks |
 | Tasks.ReadWrite.Published | 0c93847b-70f8-4a59-b353-a04ef5d88f75 | Create, read, update and delete user published tasks | Allows an app to read, create, update and delete published user tasks |
+| UserPreferences-Planner.Read.Shared | 2f3e68fd-e659-467c-9489-8ba89a9406af | Read all user shared settings | Allows an app to read shared user settings |
 

@@ -13,6 +13,7 @@ Your application runs as a background service or daemon without a signed-in user
 |---|---|---|---|
 | FullTrustEAPartnerOrganizationsReader | 1224c7b4-5fd0-40e8-a122-2fb278e6d012 | FullTrustEAPartnerOrganizationsReader | FullTrust EA Partner Organizations Reader |
 | LegacyManager | b0096bea-94b4-42b2-990c-6eedd19f4f4a | LegacyManager | Manger of legacy APIs |
+| PartnerOffboardingManager | 54bff1ce-0f2d-4eb3-a2f0-49d67447a80e | PartnerOffboardingManager | Partner Offboarding Manager |
 | SubscriptionMigrator | 9edf2859-df6b-4ef5-ab1b-fd2837e2f7f7 | SubscriptionMigrator | Subscription Migrator |
 
 ## Delegated Permissions
