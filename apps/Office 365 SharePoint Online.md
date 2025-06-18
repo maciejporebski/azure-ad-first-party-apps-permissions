@@ -14,11 +14,17 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Migration.Read.All | b7155856-e8b7-4ba1-bf43-8c9912353676 | Read access to migration data on the SharePoint admin site | Allows the app to read migration data via the SharePoint admin site without a signed-in user. |
+| Migration.ReadWrite.All | dfe5a59c-77fe-436b-9a47-375a284cf302 | Read and write access to migration data on the SharePoint admin site | Allows the app to read and write migration data via the SharePoint admin site without a signed-in user. |
 | Sites.FullControl.All | 678536fe-1083-478a-9c59-b99265e6b0d3 | Have full control of all site collections | Allows the app to have full control of all site collections without a signed in user. |
 | Sites.Manage.All | 9bff6588-13f2-4c48-bbf2-ddab62256b36 | Read and write items and lists in all site collections | Allows the app to read, create, update, and delete document libraries and lists in all site collections without a signed in user. |
 | Sites.Read.All | d13f72ca-a275-4b96-b789-48ebcc4da984 | Read items in all site collections | Allows the app to read documents and list items in all site collections without a signed in user. |
 | Sites.ReadWrite.All | fbcd29d2-fcca-4405-aded-518d457caae4 | Read and write items in all site collections | Allows the app to create, read, update, and delete documents and list items in all site collections without a signed in user. |
 | Sites.Selected | 20d37865-089c-4dee-8c41-6967602d4ac8 | Access selected site collections | Allow the application to access a subset of site collections without a signed in user. The specific site collections and the permissions granted will be configured in SharePoint Online. |
+| SitesMetadataAdmin.Read.All | 1ee80186-f376-4677-b0be-fbad73a4a9ea | Read access to site collection metadata on the SharePoint admin site | Allows the app to read site collection metadata without a signed-in user. |
+| SitesMetadataAdmin.ReadWrite.All | 6d004c19-cc42-41ea-8888-cce2fc5bd2c5 | Read and write access to site collection metadata on the SharePoint admin site | Allows the app to read and write site collection metadata without a signed-in user. |
+| TenantReports.Read.All | 3cc23ca2-bb9d-42cd-9802-f792b98bac3b | Read access to tenant report data on the SharePoint admin site | Allows the app to read tenant reports via the SharePoint admin site without a signed-in user. |
+| TenantReports.ReadWrite.All | e512dd2e-d13a-4816-9202-d3ef0357c7b1 | Read and write access to tenant report data on the SharePoint admin site | Allows the app to read and write tenant reports via the SharePoint admin site without a signed-in user. |
 | TermStore.Read.All | 2a8d57a5-4090-4a41-bf1c-3c621d2ccad3 | Read managed metadata | Allows the app to read enterprise managed metadata and to read basic site info without a signed in user. |
 | TermStore.ReadWrite.All | c8e3537c-ec53-43b9-bed3-b2bd3617ae97 | Read and write managed metadata | Allows the app to write enterprise managed metadata and to read basic site info without a signed in user. |
 | User.Read.All | df021288-bdef-4463-88db-98f22de89214 | Read user profiles | Allows the app to read user profiles without a signed in user. |
