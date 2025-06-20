@@ -1,5 +1,6 @@
 # Microsoft Whiteboard Services
 ## Service Principal Names
+- https://whiteboard.svc.cloud.microsoft
 - https://whiteboard.microsoft.com
 - 95de633a-083e-42f5-b444-a4295d8e9314
 

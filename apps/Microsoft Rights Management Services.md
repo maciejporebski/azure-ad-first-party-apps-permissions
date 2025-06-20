@@ -1,5 +1,9 @@
 # Microsoft Rights Management Services
 ## Service Principal Names
+- https://aadrm.sovnext2.us
+- https://aadrm.sovnext2.us/
+- https://api.aadrm.sovnext2.us/
+- https://api.aadrm.sovnext2.us
 - https://aadrm.us
 - https://aadrm.com
 - https://api.aadrm.us/
