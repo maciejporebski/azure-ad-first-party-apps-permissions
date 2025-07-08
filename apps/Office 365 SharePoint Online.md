@@ -1,5 +1,6 @@
 # Office 365 SharePoint Online
 ## Service Principal Names
+- api://00000003-0000-0ff1-ce00-000000000000
 - https://microsoft.sharepoint-df.com
 - 00000003-0000-0ff1-ce00-000000000000
 - 00000003-0000-0ff1-ce00-000000000000/*.sharepoint.com
