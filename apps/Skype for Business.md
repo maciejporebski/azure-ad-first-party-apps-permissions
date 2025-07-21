@@ -1,5 +1,6 @@
 # Skype for Business
 ## Service Principal Names
+- https://scheduler.teams.microsoft.com/.default
 - https://int.attend.teams.microsoft.net/
 - https://prd.attend.teams.microsoft.com/
 - https://attend.dod.teams.microsoft.us/

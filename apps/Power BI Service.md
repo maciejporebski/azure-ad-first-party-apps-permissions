@@ -1,5 +1,13 @@
 # Power BI Service
 ## Service Principal Names
+- api://daily.powerbi.com/botid-eec63e08-5dea-428c-aade-23c000f82d93
+- api://botid-eec63e08-5dea-428c-aade-23c000f82d93
+- api://dxt.powerbi.com/botid-e10af16e-ea3e-4ee2-8c87-61f71f9b8fa5
+- api://botid-e10af16e-ea3e-4ee2-8c87-61f71f9b8fa5
+- api://msit.powerbi.com/botid-d00f51c7-f7b6-4989-b73f-7e3093498cd7
+- api://botid-d00f51c7-f7b6-4989-b73f-7e3093498cd7
+- api://app.powerbi.com/botid-9d35fbfb-4215-4ecf-997f-f45bcbd2f9a9
+- api://botid-9d35fbfb-4215-4ecf-997f-f45bcbd2f9a9
 - api://daily.local.powerbi.com/00000009-0000-0000-c000-000000000000
 - api://botid-18563b69-42ea-4693-9fe8-32ed3cab102d
 - api://botid-b76e1078-3416-45a9-bb7a-54828299362f

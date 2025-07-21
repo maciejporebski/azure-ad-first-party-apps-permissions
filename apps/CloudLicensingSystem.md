@@ -1,8 +1,7 @@
-# Azure AD Notification
+# CloudLicensingSystem
 ## Service Principal Names
-- api://botid-8c3406b7-729d-4401-9aa2-9eb88cf68781
-- api://botid-7e6fef82-3ea4-444b-9d82-5225256772bc
-- fc03f97a-9db0-4627-a216-ec98ce54e018
+- de247707-4e4a-47d6-89fd-3c632f870b34
+- https://cloudlicensing.microsoft.com
 
  ## Permissions
 - [Application Permissions](#application-permissions)
@@ -19,5 +18,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| Application.ReadWrite | 0a8cab7d-5369-41c7-ae0f-dc63a8f0465a | Application.ReadWrite | Allows a user to manage an application's notifications and templates.. |
+| Assets.ReadWrite.All | 703f6192-642a-4e6b-8f6b-0820e6127784 | Read or Write all assets | this allows admin to view or assign asset |
 

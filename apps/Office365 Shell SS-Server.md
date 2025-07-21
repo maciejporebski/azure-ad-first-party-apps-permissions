@@ -1,5 +1,6 @@
 # Office365 Shell SS-Server
 ## Service Principal Names
+- https://ss.wwprod.officeshell.core.microsoft
 - https://suite.office.net
 - e8bdeda8-b4a3-4eed-b307-5e2456238a77
 

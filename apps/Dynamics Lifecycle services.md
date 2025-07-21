@@ -1,5 +1,16 @@
 # Dynamics Lifecycle services
 ## Service Principal Names
+- https://lcsapi.gov.lcs.microsoftdynamics.us
+- https://lcsapi.no.lcs.dynamics.com
+- https://lcsapi.ch.lcs.dynamics.com
+- https://lcsapi.uae.lcs.dynamics.com
+- https://lcsapi.sa.lcs.dynamics.com
+- https://lcsapi.fr.lcs.dynamics.com
+- https://lcsapi.eu.lcs.dynamics.com
+- https://lcsapi.p2.lcs.int.dynamics.com
+- https://lcsapi.p2.lcs.dynamics.com
+- https://lcsapi.lcs.dynamics.com
+- https://lcsapi.lcs.int.dynamics.com
 - https://uae.lcs.dynamics.com
 - https://sa.lcs.dynamics.com
 - https://fr.lcs.dynamics.com

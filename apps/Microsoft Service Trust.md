@@ -1,5 +1,6 @@
 # Microsoft Service Trust
 ## Service Principal Names
+- https://sov.complianceposturemanagement.office.net
 - https://servicetrust.microsoft.com
 - d6fdaa33-e821-4211-83d0-cf74736489e1
 - https://gccm.complianceposturemanagement.office365.us

@@ -1,5 +1,7 @@
 # M365 Pillar Diagnostics Service
 ## Service Principal Names
+- api://58ea322b-940c-4d98-affb-345ec4cccb92
+- https://pillardiagnostics.microsoft.com
 - 58ea322b-940c-4d98-affb-345ec4cccb92
 
  ## Permissions
