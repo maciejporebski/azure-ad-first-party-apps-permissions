@@ -25,6 +25,7 @@ Your application runs as a background service or daemon without a signed-in user
 | ExternalItem.Read.OwnedBy | 2d39c17b-ba50-4d0b-9b85-6bc10574bcdb | ExternalItem.Read.OwnedBy | Allows the app to read external items without a signed-in user. The app can only read items of the connection that it is authorized to. |
 | ExternalItem.ReadWrite.All | 38c3d6ee-69ee-422f-b954-e17819665354 | ExternalItem.ReadWrite.All | Allows the app to read and write all external items without a signed-in user. |
 | ExternalItem.ReadWrite.OwnedBy | c01869db-7dda-4be3-a224-eea18a6e6beb | ExternalItem.ReadWrite.OwnedBy | Allows the app to read and write external items without a signed-in user. The app can only read external items of the connection that it is authorized to. |
+| WebhookData.Read.All | 875b7cce-8b8e-4f69-8744-0d0d285c25f3 | WebhookData.Read.All | Allows the app to read all webhook connection details without a signed-in user. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
@@ -41,4 +42,5 @@ Your application needs to access the API as the signed-in user.
 | ExternalItem.Read.OwnedBy | 7dd8483d-ffd6-4c0c-a2be-88d3aea446d8 | ExternalItem.Read.OwnedBy | Allows the app to read external items on behalf of a signed-in user. The signed-in user must be an administrator. The app can only read items of the connection that it is authorized to. |
 | ExternalItem.ReadWrite.All | 565c16dd-b86f-4528-9d73-af8687391f02 | ExternalItem.ReadWrite.All | Allows the app to read and write all external items on behalf of a signed-in user. The signed-in user must be an administrator. |
 | ExternalItem.ReadWrite.OwnedBy | 13d477ed-f4cf-4cc0-9678-80517234742e | ExternalItem.ReadWrite.OwnedBy | Allows the app to read and write external items on behalf of a signed-in user. The signed-in user must be an administrator. The app can only read external items of the connection that it is authorized to. |
+| WebhookData.Read.All | a3028c9a-803b-47f3-be20-0f9a6c25a813 | Read webhook connection details | Allow the app to read webhook connection details, on behalf of the signed-in user. |
 
