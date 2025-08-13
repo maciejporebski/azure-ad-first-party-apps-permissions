@@ -19,5 +19,6 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| access-as-user | 0c80a1ae-d4a4-4dfc-acde-ec00fbf86fe8 | AD Notification Teams consent | AD Notification Teams consent |
 | Application.ReadWrite | 0a8cab7d-5369-41c7-ae0f-dc63a8f0465a | Application.ReadWrite | Allows a user to manage an application's notifications and templates.. |
 
