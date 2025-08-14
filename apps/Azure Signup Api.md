@@ -16,6 +16,11 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | CreateInvitation20230101 | b39d576f-c5a3-4820-b851-00060443f895 | CreateInvitation20230101 | Allows the app to create and get a new InvitationId for tenant and billing account creation. |
+| Qualification_Charity | 0fab173d-4ed1-478b-976a-8c8ee219758b | Qualification_Charity | Allow user to add charity qualification. |
+| Qualification_Commercial | f04d1efa-b98b-4a56-ad63-a259c4859fdd | Qualification_Commercial | Allow user to add commercial qualification. |
+| Qualification_DOD | d0175eef-86a5-4f91-ba11-e69a87656565 | Qualification_DOD | Allow user to add dod qualification. |
+| Qualification_GCCHigh | ab0c514c-6a2b-4a77-81bc-74019dff79d3 | Qualification_GCCHigh | Allow user to add gcc high qualification. |
+| Qualification_Government | 3e74b245-2d1f-4ffb-a5e8-9a05aceca540 | Qualification_Government | Allow user to add government qualification. |
 | SignupPlatformDelegatedRole | 8de2faed-dae7-4e94-8d5d-a49be218c680 | SignupPlatformDelegatedRole | Provides delegated role to the caller. |
 | Tag_charity | eb6f173a-fd78-41c4-9208-e2df4e4e0475 | Tag_charity | Allows partners to add tags with charity namespace. |
 | Tag_ea | d59f33c1-1406-4028-a0f7-8f00ae1dbf10 | Tag_ea | Allows partners to add tags with ea namespace. |
