@@ -1,5 +1,9 @@
 # Reading Assignments
 ## Service Principal Names
+- https://ppe.speakerprogress.edu.svc.cloud.microsoft
+- https://speakerprogress.edu.svc.cloud.microsoft
+- https://ppe.learningactivities.edu.cloud.microsoft
+- https://learningactivities.edu.cloud.microsoft
 - https://readingprogress.edu.svc.cloud.microsoft
 - https://readingprogress.edu.svc.cloud.dev.microsoft
 - https://ppe.readingprogress.edu.svc.cloud.microsoft
