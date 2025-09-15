@@ -77,6 +77,7 @@ Your application needs to access the API as the signed-in user.
 | DataAgent.Read.All | 40fa91d5-73ef-412c-a8c8-c8658670d0eb | Read data agents | Allows reading data agents on the user’s behalf. |
 | DataAgent.ReadWrite.All | c23fda5c-561f-4890-ad72-5f57bb7496fd | Read and write data agents | Allows modifying data agents on the user’s behalf. |
 | DataAgent.Reshare.All | 82b1d51c-42df-4ba9-9aee-bbba1e3f2ab7 | DataAgent.Reshare (retired) |   |
+| DatabricksCatalog.Read.All | 6cadaf62-a218-4d72-a641-0f85c813ece3 | Read Databricks workspaces catalog metadata. | Allows reading Databricks workspaces catalog metadata on the user’s behalf. |
 | Dataflow.Execute.All | 529939f7-18e3-4be4-ba92-b01894a4fadf | Execute dataflows | Allows executing dataflows on the user’s behalf. |
 | Dataflow.Read.All | f9759906-80a4-4f4a-b010-24b832bc6a30 | Read dataflows | Allows reading dataflows on the user’s behalf. |
 | Dataflow.ReadWrite.All | ddd37690-e119-40c5-a821-3746ea6125c4 | Read and write dataflows | Allows modifying dataflows on the user’s behalf. |
@@ -118,6 +119,7 @@ Your application needs to access the API as the signed-in user.
 | GraphQLApi.Read.All | deae611f-920b-422f-805e-f635080c4cfb | Read GraphQLApis | Allows reading GraphQLApis on the user’s behalf. |
 | GraphQLApi.ReadWrite.All | 73d01b13-cb5e-466e-8752-a50feccb317e | Read and write GraphQLApis | Allows modifying GraphQLApis on the user’s behalf. |
 | GraphQLApi.Reshare.All | 88cf9f59-aa53-4386-ae14-3c8263713766 | GraphQLApi.Reshare (retired) |   |
+| Item.Audit.All | 6213ab68-aad6-4ec9-836a-306b14f6fee6 | Make API calls that require audit permissions on all items | Allows the app to make API calls that require audit permissions on all items, on behalf of the signed-in user. |
 | Item.Execute.All | caf40b1a-f10e-4da1-86e4-5fda17eb2b07 | Make API calls that require execute permissions on all Fabric items | Allows the app to make API calls that require execute permissions on all Fabric items, on behalf of the signed-in user. |
 | Item.ExternalDataShare.All | bae3e5e0-a78a-4b0f-b3a0-0dc52f365b9d | Allows the app to create and manage external data shares for all Fabric items | Allows the app to create and manage external data shares for all Fabric items, on behalf of the signed-in user. |
 | Item.Read.All | d2bc95fc-440e-4b0e-bafd-97182de7aef5 | Make API calls that require read permissions on all Fabric items | Allows the app to make API calls that require read permissions on all Fabric items, on behalf of the signed-in user. |
