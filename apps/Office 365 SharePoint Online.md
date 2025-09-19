@@ -17,6 +17,8 @@ Your application runs as a background service or daemon without a signed-in user
 |---|---|---|---|
 | Migration.Read.All | b7155856-e8b7-4ba1-bf43-8c9912353676 | Read access to migration data on the SharePoint admin site | Allows the app to read migration data via the SharePoint admin site without a signed-in user. |
 | Migration.ReadWrite.All | dfe5a59c-77fe-436b-9a47-375a284cf302 | Read and write access to migration data on the SharePoint admin site | Allows the app to read and write migration data via the SharePoint admin site without a signed-in user. |
+| SharePointCrossTenantMigration.Manage.All | 806d1b36-e37b-4f02-9c9e-a1269982b2aa | Read, write and manage Cross-Tenant migration settings and tasks | Read, write and manage Cross-Tenant migration settings and tasks, without a signed-in user |
+| SharePointCrossTenantMigration.Read.All | 8cfb5122-1118-41e2-b9f2-8ab21a06c030 | Read Cross-Tenant migration settings and tasks | Read Cross-Tenant migration settings and tasks, without a signed-in user |
 | Sites.FullControl.All | 678536fe-1083-478a-9c59-b99265e6b0d3 | Have full control of all site collections | Allows the app to have full control of all site collections without a signed in user. |
 | Sites.Manage.All | 9bff6588-13f2-4c48-bbf2-ddab62256b36 | Read and write items and lists in all site collections | Allows the app to read, create, update, and delete document libraries and lists in all site collections without a signed in user. |
 | Sites.Read.All | d13f72ca-a275-4b96-b789-48ebcc4da984 | Read items in all site collections | Allows the app to read documents and list items in all site collections without a signed in user. |
@@ -48,6 +50,8 @@ Your application needs to access the API as the signed-in user.
 | Project.Write | d75a7b17-f04e-40d9-8e35-79b949bdb891 | Read and write user projects | Allows the app to read, create, update, and delete the current users’ projects. |
 | ProjectWebApp.FullControl | e7e732bd-932b-45c4-8ce5-40d60a7daad9 | Have full control of all ProjectWebApp site collections | Allows the app to have full control of all ProjectWebApp site collections the signed-in user. |
 | ProjectWebAppReporting.Read | a4c14cd7-8bd6-4337-8e87-78623dfc023b | Read ProjectWebApp OData reporting data | Allows the app to read all OData reporting data from all ProjectWebApp site collections for the signed-in user. |
+| SharePointCrossTenantMigration.Manage.All | 5b625b3d-65b6-4fb0-85d9-8a5aa26bdf36 | Read, write and manage Cross-Tenant migration settings and tasks | Read, write and manage Cross-Tenant migration settings and tasks, on behalf of the signed-in user |
+| SharePointCrossTenantMigration.Read.All | 8d11884e-6820-4673-a5d6-64d2a68b311e | Read Cross-Tenant migration settings and tasks | Read Cross-Tenant migration settings and tasks, on behalf of the signed-in user |
 | Sites.Search.All | 1002502a-9a71-4426-8551-69ab83452fab | Run search queries as a user | Allows the app to run search queries and to read basic site info on behalf of the current signed-in user. Search results are based on the user's permissions instead of the app's permissions. |
 | Sites.Selected | 9ac4404a-0323-446d-b334-b4ae4d18b38a | Access selected site collections | Allows the app to access a subset of site collections with a signed-in user. The specific site collections and the permissions granted will be configured in SharePoint Online. |
 | TaskStatus.Submit | c4258712-0efb-41f1-b6bc-be58e4e32f3f | Submit project task status updates | Allows the app to submit project task status updates the signed-in user. |
