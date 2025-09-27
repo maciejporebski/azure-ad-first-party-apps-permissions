@@ -93,7 +93,6 @@ Your application needs to access the API as the signed-in user.
 | vso.taskgroups_write | 8be3739c-dabb-4cf4-a05d-207a5220e4f0 | Task Groups (read, create) | Grants the ability to read and create task groups. |
 | vso.test | c0efe20b-0db1-4aec-9cb5-cdc097b2e773 | Test management (read) | Grants the ability to read test plans, cases, results and other test management related artifacts. |
 | vso.test_write | 0a731f7b-93ec-4267-aa35-47b4b9fcdf08 | Test management (read and write) | Grants the ability to read, create, and update test plans, cases, results and other test management related artifacts. |
-| vso.threads_full | 58e8028a-07da-44f8-9dce-69f2052e9a0f | PR threads | Grants the ability to read and write to pull request comment threads. |
 | vso.tokenadministration | 859fb1f9-e5ab-4e67-88f8-a971d3e4707a | Token Administration | Grants the ability to manage (view and revoke) existing tokens to organization administrators |
 | vso.tokens | ea83b09f-09d2-4ee5-bb93-d346c57debdb | Delegated Authorization Tokens | Grants the ability to manage delegated authorization tokens to users |
 | vso.variablegroups_manage | e20dcb7e-deff-4025-805a-853e74ff44c1 | Variable Groups (read, create and manage) | Grants the ability to read, create and manage variable groups. |
