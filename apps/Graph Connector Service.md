@@ -1,5 +1,6 @@
 # Graph Connector Service
 ## Service Principal Names
+- https://copilot-connectors.core.microsoft
 - https://gcs.office.com
 - 56c1da01-2129-48f7-9355-af6d59d42766
 - https://substrate.office.com/GraphConnectors

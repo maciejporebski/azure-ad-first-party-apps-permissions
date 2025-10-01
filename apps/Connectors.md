@@ -1,5 +1,6 @@
 # Connectors
 ## Service Principal Names
+- api://auth-63ff5842-2734-4f48-97a7-cb5a1385047a/48af08dc-f6d2-435f-b2a7-069abd99c086
 - https://outlook.office365.com/connectors
 - 48af08dc-f6d2-435f-b2a7-069abd99c086
 

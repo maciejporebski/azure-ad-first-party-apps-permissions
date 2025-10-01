@@ -51,7 +51,7 @@
 | [Compute Recommendation Service](<apps/Compute Recommendation Service.md>) | api://b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab<br>b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab |
 | [Configuration Manager Microservice](<apps/Configuration Manager Microservice.md>) | https://cmmicrosvc.manage-selfhost.microsoft.com/<br>https://cmmicrosvc.manage.microsoft.com/<br>557c67cf-c916-4293-8373-d584996f60ae<br>https://cmmicrosvc.manage-mig.microsoft.com/ |
 | [ConnectionsService](<apps/ConnectionsService.md>) | https://api.connections.ms<br>b7912db9-aa33-4820-9d4f-709830fdd78f |
-| [Connectors](<apps/Connectors.md>) | https://outlook.office365.com/connectors<br>48af08dc-f6d2-435f-b2a7-069abd99c086 |
+| [Connectors](<apps/Connectors.md>) | api://auth-63ff5842-2734-4f48-97a7-cb5a1385047a/48af08dc-f6d2-435f-b2a7-069abd99c086<br>https://outlook.office365.com/connectors<br>48af08dc-f6d2-435f-b2a7-069abd99c086 |
 | [Cortana at Work Bing Services](<apps/Cortana at Work Bing Services.md>) | https://cortana.ai/internal/bing<br>22d7579f-06c2-4baa-89d2-e844486adb9d |
 | [Cortana at Work Service](<apps/Cortana at Work Service.md>) | https://cortana.ai/api<br>2a486b53-dbd2-49c0-a2bc-278bdfc30833 |
 | [Cortana Runtime Service](<apps/Cortana Runtime Service.md>) | https://cortana.ai<br>81473081-50b9-469a-b9d8-303109583ecb |
@@ -76,7 +76,7 @@
 | [Frontline Worker Orchestrator Service](<apps/Frontline Worker Orchestrator Service.md>) | cd1b8394-07a3-43b1-8aba-ce6ee572d0af<br>https://flworchestrator.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af<br>https://flworchestrator-int.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af<br>api://flworchestrator.teams.microsoft.com/cd1b8394-07a3-43b1-8aba-ce6ee572d0af |
 | [GitHub Actions API](<apps/GitHub Actions API.md>) | 4435c199-c3da-46b9-a61d-76de3f2c9f82 |
 | [GitHub Actions API - Dev](<apps/GitHub Actions API - Dev.md>) | b9a50111-7110-459d-bc13-534691bd5b7b |
-| [Graph Connector Service](<apps/Graph Connector Service.md>) | https://gcs.office.com<br>56c1da01-2129-48f7-9355-af6d59d42766<br>https://substrate.office.com/GraphConnectors<br>https://substrate.office.com/scd<br>https://link-df.gcs.office.com |
+| [Graph Connector Service](<apps/Graph Connector Service.md>) | https://copilot-connectors.core.microsoft<br>https://gcs.office.com<br>56c1da01-2129-48f7-9355-af6d59d42766<br>https://substrate.office.com/GraphConnectors<br>https://substrate.office.com/scd<br>https://link-df.gcs.office.com |
 | [IAM Supportability](<apps/IAM Supportability.md>) | https://dxp.aad.azure.com<br>https://support.iam.ad.azure.com<br>a57aca87-cbc0-4f3c-8b9e-dc095fdc8978 |
 | [IC3 Gateway](<apps/IC3 Gateway.md>) | 39aaf054-81a5-48c7-a4f8-0293012095b9<br>https://ic3.teams.office.com<br>https://ic3-non-cae.teams.office.com |
 | [IC3 Gateway TestClone](<apps/IC3 Gateway TestClone.md>) | https://ic3-testing.teams.office.com<br>55bdc56c-2b15-4538-aa37-d0c008c8c430<br>https://ic3-non-cae-testing.teams.office.com |
