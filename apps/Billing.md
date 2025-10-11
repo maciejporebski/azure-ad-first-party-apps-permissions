@@ -11,6 +11,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| CustomerOffboardingManager | 3c3a3b03-4791-4e89-8753-fa338df5564d | CustomerOffboardingManager | Customer Offboarding Manager |
 | FullTrustEAPartnerOrganizationsReader | 1224c7b4-5fd0-40e8-a122-2fb278e6d012 | FullTrustEAPartnerOrganizationsReader | FullTrust EA Partner Organizations Reader |
 | FullTrustInternalBillingAccountReader | 42f62651-2fce-49b0-8b8a-b2c36bdb2c28 | FullTrustInternalBillingAccountReader | Full Trust Internal Billing Account Reader |
 | IndirectResellerOffboardingManager | ddbd0f71-1ff8-4335-a4b5-420bab16e11e | IndirectResellerOffboardingManager | Indirect Reseller Offboarding Manager |
