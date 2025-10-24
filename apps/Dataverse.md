@@ -45,5 +45,6 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| mcp.tools | a4c5bee6-25ff-4bb5-b926-b7eb8062ae7a | Access Dataverse MCP tools as organization users | Allows the application to access Dataverse MCP tools as organization users |
 | user_impersonation | 78ce3f0f-a1ce-49c2-8cde-64b5c0896db4 | Access Common Data Service as organization users | Allows the application to access Common Data Service acting as users in the organization. |
 
