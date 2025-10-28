@@ -40,5 +40,6 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| LearningActivities.ReadWrite | fbbb4b08-457d-479b-b90b-de1c068ffd03 | Read and Write Learning Activities | Allows reading and writing of learning activities data. |
 | ReadingAssignments.ReadWrite | a577a7fd-1007-45d9-89fc-49e2c0851d0a | ReadingAssignments.ReadWrite | Allows reading and writing of reading assignment data. |
 
