@@ -37,7 +37,6 @@ Your application needs to access the API as the signed-in user.
 | FloorPlan.Read.All | ff60b1a1-5694-4b26-9c81-a5f4fabf51f5 | Read all floor plans | Allows the app to list floor plans and to read their properties on behalf of the signed-in user.  |
 | Group.Read.All | fe6d53fc-0936-42ba-8388-d39c6855c3f2 | Read all groups | Allows the app to list groups, and to read their properties and all group memberships on behalf of the signed-in user.  Also allows the app to read calendar, conversations, files, and other group content for all groups the signed-in user can access. |
 | NewsFeed.Read | c11daebe-235e-4429-ab4c-43569661ff2a | Read news feed | Allows the app to read news feeds and to read their properties on behalf of the signed-in user.  |
-| People.Read.All | e06fee6d-72ac-417d-bb34-d1b82b9f5346 | Read all users' relevant people lists | Allows the app to read a scored list of relevant people of the signed-in user or other users in the signed-in user's organization.  |
 | QnA.Read.All | bfc6f88b-6314-451d-ac7c-501307ad192a | Read all QnA | Allows the app to list QnA and to read their properties on behalf of the signed-in user.  |
 | User.Read.All | 9ee66b54-9cf0-41b8-87da-d62f8c21222b | Read all users' full profiles | Allows the app to read the full set of profile properties, reports, and managers of other users in your organization, on behalf of the signed-in user. |
 | Web.Read | 516d1055-ed6f-4e63-922d-eb17aef59604 | Access web grounding | Allows the app to fetch web grounded data for Copilot |
