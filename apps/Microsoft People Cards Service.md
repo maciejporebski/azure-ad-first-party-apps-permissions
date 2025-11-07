@@ -31,6 +31,7 @@ Your application needs to access the API as the signed-in user.
 | Mail.Read | 75763f24-4303-4c58-a8b1-8e03ead9d770 | Access the Office People API | Allow access the Office People API |
 | OnlineMeetings.Read | 2e87e453-2fc7-45ee-947f-bf81dc7f0926 | Access the Office People API | Allow access the Office People API |
 | Organization.Read | a248f402-c66c-43c5-87b7-f1bcb63d5541 | Access the Office People API | Allow access the Office People API |
+| Policy.Read | 1d28bd1f-7c1b-4e6b-bc5b-abc07323e7f2 | Loki Policy.Read | Allow client apps to read policy data via Loki. |
 | User.Read | 62e3da56-9c9b-4e31-a9bb-967b9a2b361f | Access the Office People API | Allow access the Office People API |
 | User.Read.All | 07c496ee-38d1-46df-b73d-45e1ff46d11e | Access to log on | Access the Office People API |
 | User.ReadWrite | 9eb61caf-4504-44c6-9d98-48e6a1ab8639 | Access the Office People API | Allow access the Office People API |
