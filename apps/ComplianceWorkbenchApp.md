@@ -14,8 +14,6 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| eDiscovery.Jobs.Read | 0f062bc7-6f95-469a-810f-d846e6cbba44 | eDiscovery.Jobs.Read | Allow app to read properties of jobs submitted to eDiscovery. |
-| eDiscovery.Jobs.Write | 5faac7a2-ab08-4049-aece-ab2b4de5f59e | eDiscovery.Jobs.Write | Allow app to submit jobs to eDiscovery. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
