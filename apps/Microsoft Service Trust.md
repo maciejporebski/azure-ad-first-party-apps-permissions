@@ -54,4 +54,5 @@ Your application needs to access the API as the signed-in user.
 | ComplianceManager.ReadWrite.All | 05d808b8-d17a-47c9-ae7f-e20768cbad5d | Read and write all Compliance Manager data | Allows users to read and write Compliance Manager data. |
 | Documents.Read.All | e808ab43-7555-447f-8b87-1d6a5c5038ef | Read all documents | Allows users to read documents. |
 | TBD | 50bf3dfa-9431-427d-823a-f146d9350034 | Microsoft Service Trust | Our app will be a one stop shop for current and prospective customers who need Security, Privacy, and Compliance information around Microsoft Cloud (Azure, Dynamics CRM Online and Office 365).  It should be open any tenant who has AAD record – trial tenants as well as paid tenant across Microsoft Cloud.  |
+| Trust.Content.All | b55dae21-0932-4324-a1cd-45a046d7a6e1 | Microsoft Service Trust | Our app will be a one stop shop for current and prospective customers who need Security, Privacy, and Compliance information around Microsoft Cloud (Azure, Dynamics CRM Online and Office 365). It should be open any tenant who has AAD record – trial tenants as well as paid tenant across Microsoft Cloud. |
 
