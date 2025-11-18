@@ -18,6 +18,7 @@ Your application runs as a background service or daemon without a signed-in user
 | OrganizationAnalytics.ReadWrite | 00a72033-22db-4037-9c68-f8b0d437bce4 | OrganizationAnalytics.ReadWrite | Allows read-write access to org-wide analytics e.g Custom Nudges  |
 | OrganizationSettings.ReadWrite | 2bf589c4-d055-4872-a96d-15d99b610750 | OrganizationSettings.ReadWrite | This allows access to read and write Organization Settings. |
 | QuietTime.Read.All | 0d258a9c-4699-4c1a-9715-c01749e7473d | QuietTime.Read.All | QuietTime.Read.All |
+| QuietTimeStatus.Read.All | 97073fc4-341a-4124-94ec-ea70cff53f9f | QuietTimeStatus.Read.All | This allows access to check whether a given user is currently in their quiet time window |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
