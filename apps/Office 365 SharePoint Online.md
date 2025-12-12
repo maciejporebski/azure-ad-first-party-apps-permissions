@@ -44,6 +44,8 @@ Your application needs to access the API as the signed-in user.
 | AllSites.Write | 640ddd16-e5b7-4d71-9690-3f4022699ee7 | Read and write items in all site collections | Allows the app to create, read, update, and delete documents and list items in all site collections on behalf of the signed-in user. |
 | EnterpriseResource.Read | b8341dab-4143-49da-8eb9-3d8c073f9e77 | Read user project enterprise resources | Allows the app to read the current user's enterprise resources. |
 | EnterpriseResource.Write | 2511a087-5795-4cae-9123-d5b7d6ec4844 | Read and write user project enterprise resources | Allows the app to read, create, update, and delete the current user’s enterprise resources. |
+| Migration.Read.All | f569098d-1005-4cc6-a812-3bdccdcfbb98 | Can view migration data from the admin site | Allows the app to read migration data using the SharePoint admin site, on behalf of the signed-in user. |
+| Migration.ReadWrite.All | 1a50df37-8278-4139-9af3-3b60d57dd007 | Can view and edit migration data from the admin site | Allows the app to read and write migration data using the SharePoint admin site, on behalf of the signed-in user. |
 | MyFiles.Read | dd2c8d78-58e1-46d7-82dd-34d411282686 | Read user files | Allows the app to read the current user's files. |
 | MyFiles.Write | 2cfdc887-d7b4-4798-9b33-3d98d6b95dd2 | Read and write user files | Allows the app to read, create, update, and delete the current user's files. |
 | Project.Read | 2beb830c-70d1-4f5b-a983-79cbdb0c6c6a | Read user projects | Allows the app to read the current user's projects. |
@@ -54,7 +56,11 @@ Your application needs to access the API as the signed-in user.
 | SharePointCrossTenantMigration.Read.All | 8d11884e-6820-4673-a5d6-64d2a68b311e | Read Cross-Tenant migration settings and tasks | Read Cross-Tenant migration settings and tasks, on behalf of the signed-in user |
 | Sites.Search.All | 1002502a-9a71-4426-8551-69ab83452fab | Run search queries as a user | Allows the app to run search queries and to read basic site info on behalf of the current signed-in user. Search results are based on the user's permissions instead of the app's permissions. |
 | Sites.Selected | 9ac4404a-0323-446d-b334-b4ae4d18b38a | Access selected site collections | Allows the app to access a subset of site collections with a signed-in user. The specific site collections and the permissions granted will be configured in SharePoint Online. |
+| SitesMetadataAdmin.Read.All | ee5c91f0-be0b-463e-85c9-57f0514c3d29 | Can view site collection metadata from the admin site | Allows the app to read site collection metadata using the SharePoint admin site, on behalf of the signed-in user. |
+| SitesMetadataAdmin.ReadWrite.All | 9aaa3660-6678-4cb8-b4b5-be92b6f4fbf0 | Can view and edit site collection metadata from the admin site | Allows the app to read and write site collection metadata using the SharePoint admin site, on behalf of the signed-in user. |
 | TaskStatus.Submit | c4258712-0efb-41f1-b6bc-be58e4e32f3f | Submit project task status updates | Allows the app to submit project task status updates the signed-in user. |
+| TenantReports.Read.All | 97533022-c395-42ce-bcf7-7d554ac912fc | Can view tenant reports from the admin site | Allows the app to read tenant reports via the SharePoint admin site, on behalf of the signed-in user. |
+| TenantReports.ReadWrite.All | fb471c34-3a48-412f-969b-e2b9bc071042 | Can view and edit tenant reports from the admin site | Allows the app to read and write tenant reports via the SharePoint admin site, on behalf of the signed-in user. |
 | TermStore.Read.All | a468ea40-458c-4cc2-80c4-51781af71e41 | Read managed metadata | Allows the app to read managed metadata and to read basic site info on behalf of the signed-in user. |
 | TermStore.ReadWrite.All | 59a198b5-0420-45a8-ae59-6da1cb640505 | Read and write managed metadata | Allows the app to read, create, update, and delete managed metadata and to read basic site info on behalf of the signed-in user. |
 | User.Read.All | 0cea5a30-f6f8-42b5-87a0-84cc26822e02 | Read user profiles | Allows the app to read user profiles and to read basic site info on behalf of the signed-in user. |
