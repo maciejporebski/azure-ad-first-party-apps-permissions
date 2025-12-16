@@ -23,6 +23,7 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Calendar.Read | de374d49-137d-465b-b4bb-ef2cec26583f | Access the Office People API | Allow access the Office People API |
+| Chat.Read | 594a414c-f70a-4504-b1f6-f1b5a4c95b2f | Read chat messages (delegated) | Allow access to chat messages via this API. |
 | Files.Read | 1c95d935-5ae8-4181-944c-746c8b105528 | Access the Office People API | Allow access the Office People API |
 | Files.ReadWrite | 9beac4c9-e7ab-4507-9600-1f78e7d6097e | Access the Office People API | Allow access the Office People API |
 | Group.ReadWrite | 36e9a6a1-4901-4ea6-bf22-12fa030a7dda | Access the Office People API | Allow access the Office People API |
