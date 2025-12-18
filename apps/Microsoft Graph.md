@@ -516,6 +516,7 @@ Your application runs as a background service or daemon without a signed-in user
 | SensitivityLabel.Evaluate.All | 986fa56a-6680-4aac-af09-4d1765376739 | Evaluate labels tenant scope. | Allows the app to evaluate all sensitivity label. |
 | SensitivityLabel.Read | 3b8e7aad-f6e3-4299-83f8-6fc6a5777f0b | Get labels application scope. | Allows the app to get sensitivity labels. |
 | SensitivityLabels.Read.All | e46a01e9-b2cf-4d89-8424-bcdc6dd445ab | Get labels tenant scope. | Allows the app to get sensitivity labels. |
+| SentimentSurvey.Export.All | 84fa35c1-f997-4c1c-894c-bb52108cfbbf | Export all Sentiment Survey | Allows the app to read all Sentiment Survey, without a signed-in user.  |
 | ServiceActivity-Exchange.Read.All | 2b655018-450a-4845-81e7-d603b1ebffdb | Read all Exchange service activity | Allows the app to read all Exchange service activity, without a signed-in user. |
 | ServiceActivity-Microsoft365Web.Read.All | c766cb16-acc4-4663-ba09-6eedef5876c5 | Read all Microsoft 365 Web service activity | Allows the app to read all Microsoft 365 Web service activity, without a signed-in user. |
 | ServiceActivity-OneDrive.Read.All | 57b4f899-b8c5-47c7-bdd3-c410c55602b7 | Read all One Drive service activity | Allows the app to read all One Drive service activity, without a signed-in user. |
@@ -1221,6 +1222,7 @@ Your application needs to access the API as the signed-in user.
 | SensitivityLabel.Evaluate.All | a42e3c42-b31e-4919-b699-696dca5dc9e7 | Evaluate labels tenant scope. | Allows the app to evaluate all sensitivity label. |
 | SensitivityLabel.Read | 1aeb73ce-68d7-49b7-913a-eedc80844551 | Get labels user scope. | Allows the app to get sensitivity labels. |
 | SensitivityLabels.Read.All | 8b377c27-ea19-4863-a948-8a8588c8f2c3 | Get labels app scope. | Allows the app to get sensitivity labels. |
+| SentimentSurvey.Export.All | df9fd94d-51ff-443d-8f31-ae4dc1b5b8d8 | Export all Sentiment Survey | Allows the app to export all Sentiment Survey, on behalf of the signed-in user. |
 | ServiceActivity-Exchange.Read.All | 1fe7aa48-9373-4a47-8df3-168335e0f4c9 | Read all Exchange service activity | Allows the app to read all Exchange service activity, on behalf of the signed-in user. |
 | ServiceActivity-Microsoft365Web.Read.All | d74c75b1-d5a9-479d-902d-92f8f99182c1 | Read all Microsoft 365 Web service activity | Allows the app to read all Microsoft 365 Web service activity, on behalf of the signed-in user. |
 | ServiceActivity-OneDrive.Read.All | 347e3c16-30f3-4ac7-9b52-fc3c053de9c9 | Read all One Drive service activity | Allows the app to read all One Drive service activity, on behalf of the signed-in user. |
