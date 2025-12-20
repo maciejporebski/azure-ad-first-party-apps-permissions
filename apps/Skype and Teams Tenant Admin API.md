@@ -25,6 +25,7 @@ Your application needs to access the API as the signed-in user.
 |---|---|---|---|
 | CEH_service | 44351fcc-b88d-4077-982f-3367f5078db1 | CEH_service | this allows non admin users to access configAPI |
 | MailboxSettings.Read | 0e276de4-189b-47b3-8c80-ce726cfb7671 | MailboxSettings.Read | For O365 CA only |
+| sharepoint_service | 98a74943-4bc4-416e-8028-288cf2f36197 | Allows the app to connect with share point | Allows the app to connect with share point |
 | Team.ReadBasic.All | d326a74b-6caa-4da2-95a3-e2a64a01e18c | Get the list of the teams of the signed in user | Get the list of the teams of the signed in user |
 | user_impersonation | e60370c1-e451-437e-aa6e-d76df38e5f15 | Access Microsoft Teams and Skype for Business data as the signed in user | Access Microsoft Teams and Skype for Business data based on the user's role membership |
 
