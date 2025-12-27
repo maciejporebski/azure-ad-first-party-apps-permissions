@@ -29,4 +29,6 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| DiscoveryConnectedServices.ReadWrite | f6ce1383-15a3-4547-a2cd-0b6fa8804df8 | Read and write access to connected services for the user | Allows the app read and write access to connected services for the user |
+| MRU.ReadWrite | b7d2228a-50ac-4639-bc0d-6c91c3e5bac5 | Read and write access to a list of most recently used documents and locations for the user | Allows the app read and write access to a list of user’s most recently used documents and locations |
 
