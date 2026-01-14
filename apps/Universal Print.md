@@ -13,6 +13,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| PrintBadges.Read | 19f99fa8-134e-4c3f-a9f7-5180eaa6e011 | Read users' badge details | Allows the application to read users' badge details without a signed-in user. |
 | PrinterProperties.Read | 94d79b9e-e7e6-4109-80ae-82b1babdcc9b | Read the properties and attributes of printers. |  Allows the application to read the properties and attributes of printers without a signed-in user. |
 | PrinterProperties.ReadWrite | 1c90a3a7-465b-49c4-adcc-c8ac83d3d3f8 | Read and write the properties and attributes of printers. | Allows the application to read and write the properties and attributes of printers without a signed-in user. |
 | Printers.Read | 2b1bdd6b-9a0f-47c6-a806-b3e20cfd07a8 | Read printers. | Allows the application to read printers without a signed-in user. |
