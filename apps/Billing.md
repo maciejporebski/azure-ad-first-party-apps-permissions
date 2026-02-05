@@ -11,6 +11,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| AddressCustomerMasterReader | 1cbc9fa5-af3f-44ad-9455-35ef4dd212aa | AddressCustomerMasterReader | Address Customer Master Reader |
 | BillingPeriodReader | 8e62a787-fdef-400f-86a5-c8ba447b1e3a | BillingPeriodReader | Billing Period Reader |
 | CustomerOffboardingManager | 3c3a3b03-4791-4e89-8753-fa338df5564d | CustomerOffboardingManager | Customer Offboarding Manager |
 | CustomerReader | a589c920-4000-431e-8a26-3c849e60d9e8 | CustomerReader | Customer Reader |
