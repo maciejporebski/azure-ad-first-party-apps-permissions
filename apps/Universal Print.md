@@ -29,6 +29,10 @@ Your application needs to access the API as the signed-in user.
 | Connectors.FullControl | 6c7c7cbe-f3f8-48fb-b096-39b9ef6f7620 | Create (register), read, update and delete users' print connectors. | Allows the application to create (register), read, update and delete users' print connectors on behalf of the signed-in user. |
 | Connectors.Read | 37390602-91c2-474e-9a2d-9aecacfe8cb6 | Read users' print connectors. | Allows the application to read users' print connectors on behalf of the signed-in user. |
 | Connectors.ReadWrite | 3bd7575e-0596-40d1-8c87-24cecd66f9b6 | Read and update users' print connectors. | Allows the application to read and update users' print connectors on behalf of the signed-in user. |
+| PrintBadgeCollections.Read | 23b75ee2-e239-4146-92a4-e86346ffe4ad | Read print badge collections. | Allows the application to read print badge collections on behalf of the signed-in user. |
+| PrintBadgeCollections.ReadWrite | d6c2f65a-47e8-40e8-88c6-6fb221d28b8d | Read and write print badge collections. | Allows the application to read and update print badge collections on behalf of the signed-in user. |
+| PrintBadges.Read | 5ab706f2-4ce1-4c50-a91c-80c9d82f1a65 | Read print badges. | Allows the application to read print badges on behalf of the signed-in user. |
+| PrintBadges.ReadWrite | b0251562-fe60-48c3-a11c-b2a82962956a | Read and write print badges. | Allows the application to read and update print badges on behalf of the signed-in user. |
 | PrinterProperties.Read | dda0c3bb-15d9-4582-a50f-c6e715d22379 | Read the properties and attributes of users' printers. | Allows the application to read the properties and attributes of users' printers on behalf of the signed-in user. |
 | PrinterProperties.ReadWrite | 76e86aee-8f10-4427-a1e9-1c7f5e3d658e | Read and write the properties and attributes of users' printers. | Allows the application to read and write the properties and attributes of users' printers on behalf of the signed-in user. |
 | Printers.Create | 3e306194-d6c5-43ad-afbb-0e7b16a9c10b | Create (register) new printers. | Allows the application to create (register) new printers on behalf of the signed-in user. |
