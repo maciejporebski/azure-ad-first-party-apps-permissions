@@ -1,5 +1,19 @@
 # Dynamics 365 Business Central
 ## Service Principal Names
+- https://mcp.businesscentral.dynamics.com
+- https://gevis-erp.mcp.bc.dynamics.com
+- https://prodware-scm.mcp.bc.dynamics.com
+- https://to-increase-food.mcp.bc.dynamics.com
+- https://amp.mcp.bc.dynamics.com
+- https://frentals.mcp.bc.dynamics.com
+- https://wiise.mcp.bc.dynamics.com
+- https://deonline.mcp.bc.dynamics.com
+- https://sparkrock365.mcp.bc.dynamics.com
+- https://4psconstruct.mcp.bc.dynamics.com
+- https://incadea-fastfit.mcp.bc.dynamics.com
+- https://lscentral.mcp.bc.dynamics.com
+- https://serenicnavigator.mcp.bc.dynamics.com
+- https://infoma.mcp.bc.dynamics.com
 - https://api.accountants.dynamics.com
 - https://api.businesscentral.dynamics.com
 - https://api.invoicing.office.net

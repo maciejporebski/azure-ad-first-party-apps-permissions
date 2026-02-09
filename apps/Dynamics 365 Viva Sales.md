@@ -1,5 +1,7 @@
 # Dynamics 365 Viva Sales
 ## Service Principal Names
+- api://perf.vivasales.dynamics.com/4787c7ff-7cea-43db-8d0d-919f15c6354b
+- api://perf.vivasales.dynamics.com/botid-c4c77a47-d52d-42ba-99ba-db92391fa85e
 - api://partnerfre.vivasales.dynamics.com/4787c7ff-7cea-43db-8d0d-919f15c6354b
 - api://partnerfre.vivasales.dynamics.com/botid-0d2ebec4-5894-455b-92d8-34ace77d3506
 - api://sg.vivasales.dynamics.com/0c9c6d7b-0ccd-4dbd-96d4-9a7985e2f396
