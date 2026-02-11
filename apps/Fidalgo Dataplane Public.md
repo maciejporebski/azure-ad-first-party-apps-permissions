@@ -13,6 +13,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| actonbehalfof.create.all | b1a7c8e2-1234-4cde-9876-abcdef123456 | Act On Behalf Of - Create All | Allows the app to create resources on behalf of eligible users when policy and RBAC permit. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
