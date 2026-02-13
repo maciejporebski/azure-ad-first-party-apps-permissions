@@ -60,6 +60,7 @@
 | [DeploymentScheduler](<apps/DeploymentScheduler.md>) | 8bbf8725-b3ca-4468-a217-7c8da873186e |
 | [Designer](<apps/Designer.md>) | 5e2795e3-ce8c-4cfb-b302-35fe5cd01597<br>https://designerappservice.officeapps.live.com<br>api://botid-5e2795e3-ce8c-4cfb-b302-35fe5cd01597<br>api://designer.microsoft.com/botid-5e2795e3-ce8c-4cfb-b302-35fe5cd01597 |
 | [Device Registration Service](<apps/Device Registration Service.md>) | urn:ms-drs:enterpriseregistration.windows.net<br>urn:ms-drs:enterpriseregistration.microsoftonline.us<br>01cb2876-7ebd-4aa4-9cc9-d28bd4d359a9 |
+| [Diagnostic Services Data Access](<apps/Diagnostic Services Data Access.md>) | api://dataplane.diagnosticservices.azure.com<br>3603eff4-9141-41d5-ba8f-02fb3a439cd6 |
 | [Directory and Policy Cache](<apps/Directory and Policy Cache.md>) | 7b58f833-4438-494c-a724-234928795a67 |
 | [DirectoryLookupService](<apps/DirectoryLookupService.md>) | https://dls.substrate.office.com/<br>9cd0f7df-8b1a-4e54-8c0c-0ef3a51116f6 |
 | [DWEngineV2](<apps/DWEngineV2.md>) | https://outlook.office365.com/DWEngineV2/<br>https://outlook.office365.com/ebots<br>https://outlook.office365.com/dwengine<br>441509e5-a165-4363-8ee7-bcf0b7d26739<br>https://substrate.office.com/WKWService |
