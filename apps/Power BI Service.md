@@ -55,6 +55,7 @@ Your application needs to access the API as the signed-in user.
 | App.Read.All | 8b01a991-5a5a-47f8-91a2-84d6bfd72c02 | View all Power BI apps | The app can view all Power BI apps the signed in user has access to. |
 | Capacity.Read.All | 76e2ebd5-0dfb-4a5b-93c7-ed89e0362834 | View all capacities | The app can view all Power BI Premium and Power BI Embedded capacities that the signed in user has access to. |
 | Capacity.ReadWrite.All | 4eabc3d1-b762-40ff-9da5-0e18fdf11230 | Read and write all capacities | The app can view and edit all Power BI Premium and Power BI Embedded capacities that the signed in user has access to. |
+| Catalog.Read.All | c595891f-110c-4524-abce-fa7b97bc7c65 | Read catalog | Allows reading catalog on the user’s behalf. |
 | Code.AccessAzureDataExplorer.All | eaf7943f-ddfe-4442-96af-9419cf9522f3 | Access Azure Data Explorer | Allow the application to access Azure Data Explorer on behalf of the signed-in user. |
 | Code.AccessAzureDataLake.All | c655ab60-056e-4dd8-8cd0-6b5398bf6002 | Have full access to the Azure Data Lake service | Allow the application full access to the Azure Data Lake service on behalf of the signed-in user. |
 | Code.AccessAzureKeyvault.All | 2049d009-d5d1-4947-85ab-8b727def2427 | Have full access to the Azure Key Vault service | Allow the application full access to the Azure Key Vault service on behalf of the signed-in user. |
