@@ -608,6 +608,7 @@ Your application runs as a background service or daemon without a signed-in user
 | TeamworkDevice.ReadWrite.All | 79c02f5b-bd4f-4713-bc2c-a8a4a66e127b | Read and write Teams devices | Allow the app to read and write the management data for Teams devices, without a signed-in user. |
 | TeamworkTag.Read.All | b74fd6c4-4bde-488e-9695-eeb100e4907f | Read tags in Teams | Allows the app to read tags in Teams without a signed-in user. |
 | TeamworkTag.ReadWrite.All | a3371ca5-911d-46d6-901c-42c8c7a937d8 | Read and write tags in Teams | Allows the app to read and write tags in Teams without a signed-in user. |
+| TeamworkTargetedMessage.Read.All | b0cfd829-be18-4b31-bb0e-ec1df8197ba3 | Read all targeted messages of group chat or channel | Allows the app to read all group chat or channel targeted messages in Microsoft Teams. |
 | TermStore.Read.All | ea047cc2-df29-4f3e-83a3-205de61501ca | Read all term store data | Allows the app to read all term store data, without a signed-in user. This includes all sets, groups and terms in the term store. |
 | TermStore.ReadWrite.All | f12eb8d6-28e3-46e6-b2c0-b7e4dc69fc95 | Read and write all term store data | Allows the app to read, edit or write all term store data, without a signed-in user. This includes all sets, groups and terms in the term store. |
 | ThreatAssessment.Read.All | f8f035bb-2cce-47fb-8bf5-7baf3ecbee48 | Read threat assessment requests | Allows an app to read your organization's threat assessment requests, without a signed-in user. |
