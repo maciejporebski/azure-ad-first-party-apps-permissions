@@ -15,6 +15,7 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | AnalyticsConfig.Read | 9dc0bf61-2c27-4f46-a5ad-84d524c9cba4 | AnalyticsConfig.Read | AnalyticsConfig.Read |
+| OrganizationAnalytics.EssStream.Read.All | fcd57aa7-c2b4-4b41-aa8b-266b6c42e1a5 | OrganizationAnalytics.EssStream.Read.All | OrganizationAnalytics.EssStream.Read.All |
 | OrganizationAnalytics.ReadWrite | 00a72033-22db-4037-9c68-f8b0d437bce4 | OrganizationAnalytics.ReadWrite | Allows read-write access to org-wide analytics e.g Custom Nudges  |
 | OrganizationSettings.ReadWrite | 2bf589c4-d055-4872-a96d-15d99b610750 | OrganizationSettings.ReadWrite | This allows access to read and write Organization Settings. |
 | QuietTime.Read.All | 0d258a9c-4699-4c1a-9715-c01749e7473d | QuietTime.Read.All | QuietTime.Read.All |
