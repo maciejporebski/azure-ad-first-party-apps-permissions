@@ -19,4 +19,5 @@ Your application needs to access the API as the signed-in user.
 |---|---|---|---|
 | branding.search | 17c38fce-d62f-4e61-85d1-d60852e316a2 | branding.search | Allows users to search for their custom branding information. |
 | IntuneAADEnterpriseApps.Read | e3fb1dc8-dea4-41fc-bfbe-1148f98e8821 | Read AAD Enterprise Apps | Allows user to read their targeted AAD Enterprise apps |
+| UserOSRecoveryProfiles.Read | 65f5fc61-37d4-4b5c-b092-d51e627c11a4 | Read user's OS Recovery Profiles | Allows the app to read read user's OS Recovery Profiles. |
 

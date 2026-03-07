@@ -48,6 +48,7 @@ Your application needs to access the API as the signed-in user.
 | access_as_user | 8e5870bb-8808-44dc-8e10-c509ed919ddd | Read and write to the Yammer platform | Allows the application to access the Yammer platform on behalf of the signed-in user. |
 | Community.Read.All | d24c7847-c878-47d2-a39f-b689f035800a | Read Viva Engage community | Allows the app to read Viva Engage community and their properties on behalf of the signed-in user. |
 | Community.ReadWrite.All | 57a10a57-3e4f-4080-b1c2-cd51de91422f | Create and read Viva Engage community | Allows the app to create Viva Engage community and read all community properties on behalf of the signed-in user. |
+| engage_access | 66622194-1f28-432c-8b29-1a664754247a | Access Viva Engage | Allows the current user to sign in to Viva Engage with files permission. |
 | EngagementConversation.Read.All | 317f9190-b490-4d08-9cb3-0e0ab1892e08 | Read all Viva Engage conversations | Allows the app to read all Viva Engage conversations on behalf of the signed-in user. |
 | EngagementConversation.ReadWrite.All | 7bedefb8-2ade-4b30-a48d-d656c8e9d314 | Read and write all Viva Engage conversations | Allows the app to read and write all Viva Engage conversations on behalf of the signed-in user. |
 | Storyline.ReadWrite.All | d472d143-85dd-45b2-8114-a295534d2140 | Read and write all Viva Engage storylines | Allows the app to read and write all Viva Engage storylines on behalf of the signed-in user. |
