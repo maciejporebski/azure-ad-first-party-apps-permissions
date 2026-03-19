@@ -19,6 +19,8 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| AgentBlueprint.Read.All | 6fdbf6e8-d61d-4b53-84e5-35bdc7fb608b | AgentBlueprint.Read.All | Allows the app to read Agent Blueprints |
+| AgentBlueprint.ReadWrite.All | d7e34e2a-d3c6-4619-95a2-0e6829f90a32 | AgentBlueprint.ReadWrite.All | Allows the app to read and write Agent Blueprints |
 | ApiSecretRegistration.ReadUnredacted.All | af8f2fa3-fc06-41b1-aed5-e2645bfe886f | Allows reading unredacted Teams App Api secret registrations | Allows reading unredacted Teams App Api secret registrations |
 | Graph.ReadWrite.All | ed20b8a8-12e9-45f5-b3e5-69f25572d7be | Access APIs exposed by Teams Graph worload | Allows Microsoft Graph to call into the service to perform operations on application's behalf |
 | ResourceSpecificPermission.Read.All | 226fe4b3-a51b-403f-887c-b4f10a79c5aa | Allow reading resource specific permissions | Allows reading resource specific permissions for an application |
