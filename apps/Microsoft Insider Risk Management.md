@@ -18,4 +18,5 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Connector.Read | 3105f1e2-2f5e-4dbc-b276-a29474e18597 | Connector.Read | This allows user to access compliance connector APIs |
+| PurviewData.Read.All | cd0f19c9-fe4c-4339-b0fd-12a4c3ac6604 | Read purview data as the signed-in user | Allows the app to read purview data on behalf of the signed-in user |
 
