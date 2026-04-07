@@ -20,6 +20,7 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Agent365.Observability.AllAgents.Read | fc442157-aadc-4cd1-b557-e27533e32d61 | Read all agent metrics | Allows reading of all agent metrics across the tenant. |
 | AiFlows.Ai.Execute | 67a887de-b565-4e46-8f2f-6edfcaf34006 | Execute AI related operations (like Generate) on AI flow | Allows to execute AI related operations (like Generate) on AI flows |
 | AiFlows.Ai.Read | 1cea5717-a4d4-40c1-bf71-7f340cfad4f0 | AI related read operations on AI flow | Allows to do AI related read operations on AI flows |
 | AiFlows.Ai.Write | 1f7549d7-b59b-4536-b840-aab2a4adb634 | AI related write operations on AI flow | Allows to do AI related write operations on AI flows |
@@ -72,7 +73,6 @@ Your application needs to access the API as the signed-in user.
 | Licensing.BillingPolicies.ReadWrite | 25223ba4-e810-4f08-9803-cde4b2057a13 | Read and Write Billing Policies | Read and Write Billing Policies |
 | Licensing.IsvContracts.Read | 9dafb9c1-c236-48b1-b142-20dcaab58675 | Read ISV Contracts | Allows reading ISV contracts |
 | Licensing.IsvContracts.ReadWrite | 61bfce59-bddc-493f-b20c-32af5e904b83 | Read and Write ISV Contracts | Allows reading and writing ISV contracts |
-| Maven.Observability.AllAgents.Read | fc442157-aadc-4cd1-b557-e27533e32d61 | Read all agent metrics | Allows reading of all agent metrics across the tenant. |
 | PowerApps.Apps.Play | 5991ee89-0511-4700-b3be-d42ef2e7d61d | Play Power Apps | Allows playing Power Apps |
 | PowerApps.Apps.Read | 5322d31f-39c1-4756-9c92-ae069c366b70 | Read Power App | Allows reading Power Apps |
 | PowerAutomate.Flows.Read | ed141b5c-775b-4ab0-9b28-31191f7d3bf5 | Read Power Automate Flows | Allows reading Power Automate Flows |
