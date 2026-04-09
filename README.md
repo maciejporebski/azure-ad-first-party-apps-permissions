@@ -12,6 +12,7 @@
 | [Azure AD Notification](<apps/Azure AD Notification.md>) | api://botid-8c3406b7-729d-4401-9aa2-9eb88cf68781<br>api://botid-7e6fef82-3ea4-444b-9d82-5225256772bc<br>fc03f97a-9db0-4627-a216-ec98ce54e018 |
 | [Azure Advanced Threat Protection](<apps/Azure Advanced Threat Protection.md>) | https://atp.azure.com<br>7b7531ad-5926-4f2d-8a1d-38495ad33e17 |
 | [Azure Analysis Services](<apps/Azure Analysis Services.md>) | 4ac7d521-0382-477b-b0f8-7e1d95f85ca2 |
+| [Azure App Configuration](<apps/Azure App Configuration.md>) | 35ffadb3-7fc1-497e-b61b-381d28e744cc<br>https://azconfig.io<br>https://appconfig.azure.com |
 | [Azure Cognitive Search](<apps/Azure Cognitive Search.md>) | https://search.azure.com<br>880da380-985e-4198-81b9-e05b1cc53158 |
 | [Azure Communication Services](<apps/Azure Communication Services.md>) | https://auth.msft.communication.azure.com<br>1fd5118e-2576-4263-8130-9503064c837a |
 | [Azure Container Registry](<apps/Azure Container Registry.md>) | 6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26 |
