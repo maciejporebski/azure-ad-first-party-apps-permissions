@@ -41,6 +41,7 @@ Your application needs to access the API as the signed-in user.
 | Authorization.RoleAssignments.Read | 5333e2d9-371f-42d6-9212-516921242dfc | Power Platform role assignment reader | Allows reading Power Platform role assignments |
 | Authorization.RoleAssignments.Write | a53c8130-3c33-407c-a1ba-ec806fdc55ca | Power Platform role assignment writer | Allows assigning Power Platform role assignments |
 | Connectivity.Connections.Read | d0ac573f-48ce-4693-88c1-8fa719eb8b45 | Read Connections | Allows reading connections |
+| Connectivity.Connections.Write | 5d973cb3-b843-4baf-bc35-646ccb9181ce | Write Connections | Allows writing connections |
 | Connectivity.Connectors.Read | 41e78a9d-569c-4929-ad5e-5ab23eeb83f4 | Read Connectors | Allows reading connectors |
 | CopilotFlows.ChatAssistant.Execute | d2054574-cb6b-4b74-ad3d-d06f6c8d0383 | Call Cloud Flows chat assistant | Allows calling cloud flows chat assistant |
 | CopilotFlows.CloudFlows.ChatAssistant | e778d2c8-0f7b-400e-9d3a-e01302c74df2 | Cloud Flows chat assistant | Allows cloud flows chat assistant |
