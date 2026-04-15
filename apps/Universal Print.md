@@ -19,6 +19,8 @@ Your application runs as a background service or daemon without a signed-in user
 | Printers.Read | 2b1bdd6b-9a0f-47c6-a806-b3e20cfd07a8 | Read printers. | Allows the application to read printers without a signed-in user. |
 | PrintJob.Read | b695614a-52ec-4835-9e13-bdf5ff4c7448 | Read the metadata and payload of users' print jobs. | Allows the application to read the metadata and payload of users' print jobs without a signed-in user. |
 | PrintJob.ReadWriteBasic | 11f87dac-027f-4d76-bd29-1ea1536b93da | Read and write the metadata of users' print jobs. | Allows the application to read and write the metadata of users' print jobs without a signed-in user. |
+| ScanJob.ReadWrite | f9ca039a-912c-4090-b90f-87e8f9355feb | Read, create and update scan job. | Allows the application to read, create and update scan job without a signed-in user. |
+| Scanners.ReadWrite | 69fabcfb-17a2-4326-b55b-9fee898a8066 | Read and update scanner status and capabilities. | Allows the application to read and update scanner status and capabilities without a signed-in user. |
 
 ## Delegated Permissions
 Your application needs to access the API as the signed-in user. 
