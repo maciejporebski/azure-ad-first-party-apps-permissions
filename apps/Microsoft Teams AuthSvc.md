@@ -22,5 +22,6 @@ Your application needs to access the API as the signed-in user.
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | Authorization.ReadWrite | 2987cb93-912a-4a08-9ab0-503f4df87c94 | Teams Authsvc Authorization ReadWrite | Allows user to authorize with Teams Auth service |
+| Region.Read | 8b8e929c-c5c0-4f3e-8b7a-5c6d9e5f4a1b | Read user region | Allows the app to read the region for all users in your organization |
 | Region.ReadWrite | c7dcb720-26e4-4e6a-9ddd-20743a98fff2 | Read or write user region | Allows the app to read or write the region for all users in your organization |
 
