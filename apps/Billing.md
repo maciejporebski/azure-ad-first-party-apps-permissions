@@ -21,6 +21,7 @@ Your application runs as a background service or daemon without a signed-in user
 | FullTrustProjectReader | a010eb98-c8e4-40c5-afc7-87df9f063e89 | FullTrustProjectReader | Full Trust Project Reader |
 | IndirectResellerOffboardingManager | ddbd0f71-1ff8-4335-a4b5-420bab16e11e | IndirectResellerOffboardingManager | Indirect Reseller Offboarding Manager |
 | LegacyManager | b0096bea-94b4-42b2-990c-6eedd19f4f4a | LegacyManager | Manger of legacy APIs |
+| PartnerDetailsManager | 66b0d3be-66cc-465d-852a-87d76566ce29 | PartnerDetailsManager | Partner Details Manager |
 | PartnerOffboardingManager | 54bff1ce-0f2d-4eb3-a2f0-49d67447a80e | PartnerOffboardingManager | Partner Offboarding Manager |
 | ProjectReader | 88c2cc2d-c66c-4343-83ae-31fd6fd413b6 | ProjectReader | Project Reader |
 | RefreshManager | 73ba0d8a-0f84-44f8-9857-fb364934f4db | RefreshManager | Refresh Manager |
