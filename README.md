@@ -16,6 +16,7 @@
 | [Azure Cognitive Search](<apps/Azure Cognitive Search.md>) | https://search.azure.com<br>880da380-985e-4198-81b9-e05b1cc53158 |
 | [Azure Communication Services](<apps/Azure Communication Services.md>) | https://auth.msft.communication.azure.com<br>1fd5118e-2576-4263-8130-9503064c837a |
 | [Azure Container Registry](<apps/Azure Container Registry.md>) | 6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26 |
+| [Azure Container Registry Application](<apps/Azure Container Registry Application.md>) | https://containerregistry.azure.net<br>76c92352-c057-4cc2-9b1e-f34c32bc58bd |
 | [Azure ContainerApps Sessions](<apps/Azure ContainerApps Sessions.md>) | https://dynamicsessions.io<br>https://acasessions.io<br>2c7dd73f-7a21-485b-b97d-a2508fa152c3 |
 | [Azure Cosmos DB](<apps/Azure Cosmos DB.md>) | a232010e-820c-4083-83bb-3ace5fc29d0b |
 | [Azure CosmosDB for PostgreSQL AAD Authentication](<apps/Azure CosmosDB for PostgreSQL AAD Authentication.md>) | https://postgres.cosmos.azure.com<br>b4fa09d8-5da5-4352-83d9-05c2a44cf431 |
