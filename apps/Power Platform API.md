@@ -66,6 +66,12 @@ Your application needs to access the API as the signed-in user.
 | EnvironmentManagement.Groups.ReadWrite | d8ed48a4-d90b-481c-b222-e9e342f38d58 | Read and Write Environment Groups | Allows reading and writing of Environment Groups |
 | EnvironmentManagement.Settings.Read | 7107eb22-bdfb-4e2b-b5f3-8aa114795f6a | Read Environment Management Settings | Allows reading of Environment Management Settings |
 | EnvironmentManagement.Settings.ReadWrite | 7a11470a-3968-43d4-af14-8fc4e6afcec1 | Update Environment Management Settings | Allows update of Environment Management Settings |
+| GitRepositories.Protocol.Read | a7b85da8-78f1-4d9a-8a69-e336021f8b38 | Git protocol read | Allows reading Git repositories using the Git Smart HTTP protocol (clone, fetch, pull) |
+| GitRepositories.Protocol.ReadWrite | e9ebc1eb-0b1d-4832-b3b3-327cdd83aaca | Git protocol read/write | Allows reading and writing Git repositories using the Git Smart HTTP protocol (clone, fetch, pull, push) |
+| GitRepositories.Repositories.Delete | fc484cae-c0c8-4167-ac58-d4ba870d380d | Delete Git repos | Allows deleting Git repositories |
+| GitRepositories.Repositories.Read | 7a4793e4-11e5-4213-9305-964e8f65b0e2 | Read Git repos | Allows reading Git repositories, branches, commits, files, and archives |
+| GitRepositories.Repositories.ReadWrite | bf37b1ff-0d4a-4438-b61f-100b46b80af9 | Read/Write Git repos | Allows reading and writing Git repositories including creating branches, merging, and committing files |
+| GitRepositories.Repositories.Share | 1c124288-17a0-4679-828f-dc25ae0a62e0 | Share Git repos | Allows managing access (sharing and permissions) on Git repositories |
 | Governance.CrossTenantConnectionReports.Read | d92670ac-a2e1-401e-a780-2588db417f04 | Read Cross-Tenant Connection Reports | Allows reading cross-tenant connection reports |
 | Governance.CrossTenantConnectionReports.ReadWrite | 622fcf4a-1ce8-4827-acd2-24a54bb04aaf | Read and Write Cross-Tenant Connection Reports | Allows reading and writing cross-tenant connection reports |
 | Licensing.Allocations.Read | 73cf5c38-5257-4f28-8bbb-f78acf3290a4 | Read Currency Allocations | Allows reading currency allocations |
