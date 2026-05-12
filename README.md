@@ -12,6 +12,7 @@
 | [Azure AD Notification](<apps/Azure AD Notification.md>) | api://botid-8c3406b7-729d-4401-9aa2-9eb88cf68781<br>api://botid-7e6fef82-3ea4-444b-9d82-5225256772bc<br>fc03f97a-9db0-4627-a216-ec98ce54e018 |
 | [Azure Advanced Threat Protection](<apps/Azure Advanced Threat Protection.md>) | https://atp.azure.com<br>7b7531ad-5926-4f2d-8a1d-38495ad33e17 |
 | [Azure Analysis Services](<apps/Azure Analysis Services.md>) | 4ac7d521-0382-477b-b0f8-7e1d95f85ca2 |
+| [Azure API Center](<apps/Azure API Center.md>) | c3ca1a77-7a87-4dba-b8f8-eea115ae4573<br>https://azure-apicenter.net |
 | [Azure App Configuration](<apps/Azure App Configuration.md>) | 35ffadb3-7fc1-497e-b61b-381d28e744cc<br>https://azconfig.io<br>https://appconfig.azure.com |
 | [Azure Cognitive Search](<apps/Azure Cognitive Search.md>) | https://search.azure.com<br>880da380-985e-4198-81b9-e05b1cc53158 |
 | [Azure Communication Services](<apps/Azure Communication Services.md>) | https://auth.msft.communication.azure.com<br>1fd5118e-2576-4263-8130-9503064c837a |
@@ -232,6 +233,7 @@
 | [Teams EHR Connector](<apps/Teams EHR Connector.md>) | https://vvm-dev.teams.microsoft.com<br>https://vvm-int.teams.microsoft.com<br>https://vvm.teams.microsoft.com<br>https://ehrconnectorsvc.teams.microsoft.com<br>e97edbaf-39b2-4546-ba61-0a24e1bef890<br>https://ehrconnectorsvc.gcc.teams.microsoft.com |
 | [Teams User Engagement Profile Service](<apps/Teams User Engagement Profile Service.md>) | https://gwthsvc.teams.microsoft.com<br>0f54b75d-4d29-4a92-80ae-106a60cd8f5d |
 | [TeamsChatServiceApp](<apps/TeamsChatServiceApp.md>) | https://msg.teams.microsoft.com<br>4cba1704-a0c1-45ee-9d41-fe75b4ef9190 |
+| [TEST-Azure API Center](<apps/TEST-Azure API Center.md>) | a45c1cb0-6899-445e-8961-29576781c228<br>https://azure-apicenter-int.net |
 | [Universal Print](<apps/Universal Print.md>) | https://print.print.microsoft.com<br>da9b70f6-5323-4ce6-ae5c-88dcc5082966<br>https://print.print.azure.us |
 | [Verifiable Credentials Service](<apps/Verifiable Credentials Service.md>) | bb2a64ee-5d29-4b07-a491-25806dc854d3 |
 | [Verifiable Credentials Service Admin](<apps/Verifiable Credentials Service Admin.md>) | 6a8b4b39-c021-437c-b060-5a14a3fd65f3 |
