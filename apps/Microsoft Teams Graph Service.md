@@ -20,7 +20,13 @@ Your application runs as a background service or daemon without a signed-in user
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
 | AgentBlueprint.Read.All | 6fdbf6e8-d61d-4b53-84e5-35bdc7fb608b | AgentBlueprint.Read.All | Allows the app to read Agent Blueprints |
+| AgentBlueprint.ReadSelected.All | ee9e43f5-8bda-44d0-808f-885b38113567 | AgentBlueprint.ReadSelected.All | Allows the app to read Agent Blueprints |
 | AgentBlueprint.ReadWrite.All | d7e34e2a-d3c6-4619-95a2-0e6829f90a32 | AgentBlueprint.ReadWrite.All | Allows the app to read and write Agent Blueprints |
+| AgentBlueprint.ReadWriteSelected.All | 7cddb0e5-ad5a-42c1-aa3d-c1c04f6a30e4 | AgentBlueprint.ReadWriteSelected.All | Allows the app to read and write selected Agent Blueprints |
+| AgentInstance.Read.All | 9062175b-9da6-4337-a11b-9cb8c1cdef08 | AgentInstance.Read.All | Allows the app to read Agent ID instances |
+| AgentInstance.ReadSelected.All | 6a37fcfd-2481-4625-b88f-50bd819a07cc | AgentInstance.ReadSelected.All | Allows the app to read Agent ID instances |
+| AgentInstance.ReadWrite.All | 14bd51a3-8784-481a-aaae-342e98e8039e | AgentInstance.ReadWrite.All | Allows the app to read and write Agent ID instances |
+| AgentInstance.ReadWriteSelected.All | c3d0ca49-f209-4c91-9c9e-0cf8a8475a01 | AgentInstance.ReadWriteSelected.All | Allows the app to read and write Agent ID instances |
 | ApiSecretRegistration.ReadUnredacted.All | af8f2fa3-fc06-41b1-aed5-e2645bfe886f | Allows reading unredacted Teams App Api secret registrations | Allows reading unredacted Teams App Api secret registrations |
 | Graph.ReadWrite.All | ed20b8a8-12e9-45f5-b3e5-69f25572d7be | Access APIs exposed by Teams Graph worload | Allows Microsoft Graph to call into the service to perform operations on application's behalf |
 | ResourceSpecificPermission.Read.All | 226fe4b3-a51b-403f-887c-b4f10a79c5aa | Allow reading resource specific permissions | Allows reading resource specific permissions for an application |
@@ -32,6 +38,8 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| AgentBlueprint.ReadWrite | 723ae776-88e2-41ae-a328-162e2ef59f42 | Allow the app to read and write Agent Blueprints on behalf of the signed in user. | Allow the app to read and write Agent Blueprints on behalf of the signed in user. |
+| AgentInstance.Read | 8b6db0f8-fa3d-4f4c-843a-52052616f3f7 | Read Agent ID instances on behalf of the signed-in user. | Allows the app to read Agent ID instances on behalf of the signed-in user. |
 | ApiSecretRegistration.ReadWrite | 7d00ce87-dff2-46f7-8cec-977df77a9e33 | Allow reading and writing Teams App API secret registrations | Allow reading and writing Teams App API secret registrations |
 | AppIngestion.Read | 07bf5a4d-e87c-42b2-ac0b-91f803f4aeea | Read ingested apps | Allows the app to read all ingested apps on behalf of the signed-in user. |
 | AppIngestion.Write | f031a3e7-c1cf-4a4e-b3b2-b230123ebef2 | Perform write operations on ingested apps | Allows the app to publish a new app, update or withdraw an existing app on behalf of the signed-in user. |
