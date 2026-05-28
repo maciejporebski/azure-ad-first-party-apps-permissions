@@ -13,6 +13,7 @@
 | [Azure Advanced Threat Protection](<apps/Azure Advanced Threat Protection.md>) | https://atp.azure.com<br>7b7531ad-5926-4f2d-8a1d-38495ad33e17 |
 | [Azure Analysis Services](<apps/Azure Analysis Services.md>) | 4ac7d521-0382-477b-b0f8-7e1d95f85ca2 |
 | [Azure API Center](<apps/Azure API Center.md>) | c3ca1a77-7a87-4dba-b8f8-eea115ae4573<br>https://azure-apicenter.net |
+| [Azure API for DICOM](<apps/Azure API for DICOM.md>) | 75e725bf-66ce-4cea-9b9a-5c4caae57f33<br>https://dicom.healthcareapis.azure.com<br>https://dicom.healthcareapis.azure.com/ |
 | [Azure App Configuration](<apps/Azure App Configuration.md>) | 35ffadb3-7fc1-497e-b61b-381d28e744cc<br>https://azconfig.io<br>https://appconfig.azure.com |
 | [Azure Cognitive Search](<apps/Azure Cognitive Search.md>) | https://search.azure.com<br>880da380-985e-4198-81b9-e05b1cc53158 |
 | [Azure Communication Services](<apps/Azure Communication Services.md>) | https://auth.msft.communication.azure.com<br>1fd5118e-2576-4263-8130-9503064c837a |
@@ -25,6 +26,7 @@
 | [Azure Data Lake](<apps/Azure Data Lake.md>) | https://KonaCompute.net<br>https://datalake.azure.net/<br>e9f49c6b-5ce5-44c8-925d-015017e9f7ad |
 | [Azure DevOps](<apps/Azure DevOps.md>) | https://analytics.dev.azure.com/<br>https://app.vssps.vsallin.net/<br>https://app.vssps.visualstudio.com/<br>https://wcus0.app.vssps.visualstudio.com<br>499b84ac-1321-427f-aa17-267ca6975798 |
 | [Azure HDInsight Cluster API](<apps/Azure HDInsight Cluster API.md>) | https://hib.azurehdinsight.net<br>7865c1d2-f040-46cc-875f-831a1ef6a28a |
+| [Azure Healthcare APIs](<apps/Azure Healthcare APIs.md>) | 4f6778d8-5aef-43dc-a1ff-b073724b9495<br>https://azurehealthcareapis.com<br>https://fhir.azurehealthcareapis.com |
 | [Azure Key Vault](<apps/Azure Key Vault.md>) | https://vault.azure.net<br>cfa8b339-82a2-471a-a3c9-0fc0be7a4093 |
 | [Azure Kubernetes Service AAD Server](<apps/Azure Kubernetes Service AAD Server.md>) | https://aks-aad-server.azure.com<br>6dae42f8-4368-4678-94ff-3960e28e3630 |
 | [Azure Machine Learning Services](<apps/Azure Machine Learning Services.md>) | https://ml.azure.us<br>https://ml.azure.com<br>18a66f5f-dbdf-4c17-9dd7-1634712a9cbe |
@@ -34,6 +36,7 @@
 | [Azure OSSRDBMS Database](<apps/Azure OSSRDBMS Database.md>) | https://ossrdbms-aad.database.windows.net<br>123cd850-d9df-40bd-94d5-c9f07b7fa203 |
 | [Azure Purview](<apps/Azure Purview.md>) | https://purview.azure.net/<br>https://purview.azure.net<br>https://projectbabylon.azure.net/<br>https://projectbabylon.azure.net<br>73c2949e-da2d-457a-9607-fcc665198967 |
 | [Azure Resource Graph](<apps/Azure Resource Graph.md>) | 509e4652-da8d-478d-a730-e9d4a1996ca4 |
+| [Azure SignalR Service Resource Provider](<apps/Azure SignalR Service Resource Provider.md>) | cdad765c-f191-43ba-b9f5-7aef392f811d<br>https://signalr.azure.com<br>https://webpubsub.azure.com |
 | [Azure Signup Api](<apps/Azure Signup Api.md>) | https://signupapi-airgap.trafficmanager.net<br>https://signupapi-airgap.trafficmanager.net/<br>https://signupapi.azure.com<br>https://signupapi.azure.com/<br>3829f069-1c33-45dd-84ab-2465f4282677 |
 | [Azure SQL Database](<apps/Azure SQL Database.md>) | https://sql.azuresynapse.net/<br>https://database.windows.net/<br>https://database.usgovcloudapi.net/<br>022907d3-0f1b-48f7-badc-1ba6abab6d66 |
 | [Azure SRE Agent](<apps/Azure SRE Agent.md>) | 59f0a04a-b322-4310-adc9-39ac41e9631e<br>https://azurecopilot.io<br>https://azuresre.dev<br>https://azuresre.ai |
@@ -108,6 +111,7 @@
 | [Microsoft Cloud App Security](<apps/Microsoft Cloud App Security.md>) | 05a65629-4c1b-48c1-a78b-804c4abdd4af |
 | [Microsoft Cognitive Services](<apps/Microsoft Cognitive Services.md>) | 7d312290-28c8-473c-a0ed-8e53749b6d6d<br>https://cognitiveservices.azure.us<br>https://cognitiveservices.azure.com |
 | [Microsoft Customer Engagement Portal](<apps/Microsoft Customer Engagement Portal.md>) | https://portal.dynamics.com<br>71234da4-b92f-429d-b8ec-6e62652e50d7<br>https://portal.dynamics.com/ |
+| [Microsoft Defender Hunting](<apps/Microsoft Defender Hunting.md>) | 992136bc-5b57-425f-8d95-ac65975722cd |
 | [Microsoft Device Directory Service](<apps/Microsoft Device Directory Service.md>) | https://cs.dds.microsoft.com<br>8f41dc7c-542c-4bdd-8eb3-e60543f607ca |
 | [Microsoft Dynamics 365 Apps Integration](<apps/Microsoft Dynamics 365 Apps Integration.md>) | 44a02aaa-7145-4925-9dcd-79e6e1b94eff<br>api://msteamstabintegration.dynamics.com/botid-f6c75af1-3843-4ef7-b85d-7d42c2e10ee5<br>api://msteamstabservice.crmlivetie.com/botid-47969696-3844-491d-bfa5-f0ca0fe05bf1<br>api://msteamstabintegration.dynamics.com/botid-bb7dc610-6d2a-4ad2-8a9f-f56280ced4e4<br>api://msteamstabservice.crmlivetie.com/botid-1b2678a6-0997-4541-b5d3-8c6978e15f3a<br>api://msteamstabservicedailybrijshah.com/botid-4cc5928c-082f-403e-9e57-e4605d48b63a/access_as_user<br>api://msteamstabservicedailybrijshah.com/botid-4cc5928c-082f-403e-9e57-e4605d48b63a<br>api://msteamstabservicedailybrijshah.com/botid-8343b7d7-29b0-406a-afda-90b3dc33f2be/access_as_user<br>api://msteamstabservicedailybrijshah.com/botid-8343b7d7-29b0-406a-afda-90b3dc33f2be |
 | [Microsoft Dynamics 365 Supply Chain Visibility](<apps/Microsoft Dynamics 365 Supply Chain Visibility.md>) | https://scv.dynamics.com<br>d6037e40-282c-493d-8f63-f255e36c6ef4<br>https://digitalsupplychain.microsoft.com<br>https://windbladeservice.us-il109.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il108.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il107.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il106.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il105.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il104.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il103.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il102.gateway.prod.island.powerapps.com<br>https://windbladeservice.us-il101.gateway.prod.island.powerapps.com |
