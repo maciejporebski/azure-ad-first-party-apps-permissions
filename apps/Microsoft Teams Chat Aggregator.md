@@ -37,5 +37,7 @@ Your application needs to access the API as the signed-in user.
 | announcements.read.all | f06d0c46-34d8-4358-9782-36a2e777c812 | Read all announcements | Allow the app to read all announcements messages for the requesting user. |
 | channelmessage.read.all | 8762e452-5668-459a-b06a-b8f7c8469dd2 | Read channel messages | Allows an application to read the messages in a channel |
 | filteredhierarchy.read.all | 9125c627-3755-4ad3-8742-4d6b193c4fc2 | Read all filtered hierarchy | Allow reading of all filtered hierarchy |
+| Targeting.ReadWrite | 9b6a9212-3123-4e1e-b9db-3e5c820b7670 | Have full access to Targeting Service | Allow
+  application full access to Targeting Service on behalf of the signed-in user |
 | user_impersonation | 68c6d621-ef73-4169-82d9-8a3e930a2087 | Have full access to the Chat Service Aggregator | Allow application full access to the Chat service aggregator on behalf of the signed-in user |
 

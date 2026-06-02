@@ -1,7 +1,6 @@
-# M365 Admin Services
+# PowerPlatform-a365outlookmailmcp-Connector
 ## Service Principal Names
-- https://m365adminservices.microsoft.com
-- 6b91db1b-f05b-405a-a0b2-e3f60b28d645
+- 67a22a09-a89e-4845-95da-28a8e6f7069d
 
  ## Permissions
 - [Application Permissions](#application-permissions)
@@ -18,5 +17,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| Sites.Read.All | 0c981b21-0229-4b35-a0b9-82acfa228288 | Read all Site information | Allows the app to read all Sites information in your organization, on your behalf. |
+| Operations.Execute.All | fbda7f10-5896-4449-9380-cd38b9c7261f | Execute all operations of Work IQ Mail MCP connector | Grants access to execute all operations of Work IQ Mail MCP connector |
 

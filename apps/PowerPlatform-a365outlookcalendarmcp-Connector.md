@@ -1,7 +1,6 @@
-# M365 Admin Services
+# PowerPlatform-a365outlookcalendarmcp-Connector
 ## Service Principal Names
-- https://m365adminservices.microsoft.com
-- 6b91db1b-f05b-405a-a0b2-e3f60b28d645
+- 02f0a7dc-fd55-4624-8d1b-0b15d2536e64
 
  ## Permissions
 - [Application Permissions](#application-permissions)
@@ -18,5 +17,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| Sites.Read.All | 0c981b21-0229-4b35-a0b9-82acfa228288 | Read all Site information | Allows the app to read all Sites information in your organization, on your behalf. |
+| Operations.Execute.All | 9e5c0bc6-3e7e-4a0e-8164-39990bac7ce9 | Execute all operations of Work IQ Calendar MCP connector | Grants access to execute all operations of Work IQ Calendar MCP connector |
 

@@ -1,8 +1,6 @@
-# Windows Azure Service Management API
+# Office 365 Outlook Connector
 ## Service Principal Names
-- https://management.azure.com/
-- https://management.core.windows.net/
-- 797f4846-ba00-4fd7-ba43-dac1f8f63013
+- 01385440-dd45-4043-a286-07dd496bdf7c
 
  ## Permissions
 - [Application Permissions](#application-permissions)
@@ -19,5 +17,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| user_impersonation | 41094075-9dad-400e-a0bd-54e686782033 | Access Azure Resource Manager as organization users | Allows the application to access Azure Resource Manager acting as users in the organization. |
+| ConnectorsAuth | 16ec01e3-879b-4b19-8f12-72876d83f9b0 | Connector First Party app migration | ConnectorsAuth is a special empty delegated permission designed specially for the connectors First party app migration project |
 

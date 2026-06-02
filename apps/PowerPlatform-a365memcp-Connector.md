@@ -1,7 +1,6 @@
-# M365 Admin Services
+# PowerPlatform-a365memcp-Connector
 ## Service Principal Names
-- https://m365adminservices.microsoft.com
-- 6b91db1b-f05b-405a-a0b2-e3f60b28d645
+- f5f46cfd-576b-4dd6-b24e-460c84b3793c
 
  ## Permissions
 - [Application Permissions](#application-permissions)
@@ -18,5 +17,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| Sites.Read.All | 0c981b21-0229-4b35-a0b9-82acfa228288 | Read all Site information | Allows the app to read all Sites information in your organization, on your behalf. |
+| Operations.Execute.All | 6ed7e161-3b97-4e8c-b27c-092a3b56ce85 | Execute all operations of Work IQ User MCP connector | Grants access to execute all operations of Work IQ User MCP connector |
 

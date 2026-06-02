@@ -1,7 +1,9 @@
-# M365 Admin Services
+# Azure Resource Manager
 ## Service Principal Names
-- https://m365adminservices.microsoft.com
-- 6b91db1b-f05b-405a-a0b2-e3f60b28d645
+- https://foundational.management.azure.net
+- https://management.azure.com/
+- https://management.core.windows.net/
+- 797f4846-ba00-4fd7-ba43-dac1f8f63013
 
  ## Permissions
 - [Application Permissions](#application-permissions)
@@ -18,5 +20,5 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
-| Sites.Read.All | 0c981b21-0229-4b35-a0b9-82acfa228288 | Read all Site information | Allows the app to read all Sites information in your organization, on your behalf. |
+| user_impersonation | 41094075-9dad-400e-a0bd-54e686782033 | Access Azure Resource Manager as organization users | Allows the application to access Azure Resource Manager acting as users in the organization. |
 

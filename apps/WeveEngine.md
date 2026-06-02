@@ -1,5 +1,7 @@
 # WeveEngine
 ## Service Principal Names
+- https://substrate-tdf.office.com/weve
+- https://outlook-tdf.office.com/weve
 - 3c896ded-22c5-450f-91f6-3d1ef0848f6e
 - https://outlook.office365.com/wevengine
 - https://outlook.office365.com/weve

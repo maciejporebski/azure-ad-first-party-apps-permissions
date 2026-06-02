@@ -1,5 +1,12 @@
 # Power BI Service
 ## Service Principal Names
+- https://dailyapi.fabric.microsoft.com
+- https://dailyapi.fabric.microsoft.com/
+- https://dxtapi.fabric.microsoft.com
+- https://dxtapi.fabric.microsoft.com/
+- https://msitapi.fabric.microsoft.com
+- https://msitapi.fabric.microsoft.com/
+- https://api.fabric.microsoft.com/
 - api://daily.powerbi.com/botid-eec63e08-5dea-428c-aade-23c000f82d93
 - api://botid-eec63e08-5dea-428c-aade-23c000f82d93
 - api://dxt.powerbi.com/botid-e10af16e-ea3e-4ee2-8c87-61f71f9b8fa5
