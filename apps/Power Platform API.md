@@ -67,12 +67,6 @@ Your application needs to access the API as the signed-in user.
 | EnvironmentManagement.Groups.ReadWrite | d8ed48a4-d90b-481c-b222-e9e342f38d58 | Read and Write Environment Groups | Allows reading and writing of Environment Groups |
 | EnvironmentManagement.Settings.Read | 7107eb22-bdfb-4e2b-b5f3-8aa114795f6a | Read Environment Management Settings | Allows reading of Environment Management Settings |
 | EnvironmentManagement.Settings.ReadWrite | 7a11470a-3968-43d4-af14-8fc4e6afcec1 | Update Environment Management Settings | Allows update of Environment Management Settings |
-| GitRepositories.Protocol.Read | a7b85da8-78f1-4d9a-8a69-e336021f8b38 | Git protocol read | Read Git repos via Smart HTTP |
-| GitRepositories.Protocol.ReadWrite | e9ebc1eb-0b1d-4832-b3b3-327cdd83aaca | Git protocol read/write | Read/write Git repos via Smart HTTP |
-| GitRepositories.Repositories.Delete | fc484cae-c0c8-4167-ac58-d4ba870d380d | Delete Git repos | Allows deleting Git repositories |
-| GitRepositories.Repositories.Read | 7a4793e4-11e5-4213-9305-964e8f65b0e2 | Read Git repos | Reads Git repos, branches, commits, files, archives |
-| GitRepositories.Repositories.ReadWrite | bf37b1ff-0d4a-4438-b61f-100b46b80af9 | Read/Write Git repos | Read/write Git repos: branches, merges, commits |
-| GitRepositories.Repositories.Share | 1c124288-17a0-4679-828f-dc25ae0a62e0 | Share Git repos | Manages Git repo access (sharing, permissions) |
 | Governance.CrossTenantConnectionReports.Read | d92670ac-a2e1-401e-a780-2588db417f04 | Read Cross-Tenant Connection Reports | Allows reading cross-tenant connection reports |
 | Governance.CrossTenantConnectionReports.ReadWrite | 622fcf4a-1ce8-4827-acd2-24a54bb04aaf | Read and Write Cross-Tenant Connection Reports | Allows reading and writing cross-tenant connection reports |
 | Licensing.Allocations.Read | 73cf5c38-5257-4f28-8bbb-f78acf3290a4 | Read Currency Allocations | Allows reading currency allocations |
@@ -88,6 +82,7 @@ Your application needs to access the API as the signed-in user.
 | Monitor.Metrics.Write | 9dda70db-7be6-4bc1-88ff-898b5bdd44eb | Write Monitoring Hub metrics | Write Monitoring Hub metrics |
 | Monitor.Recommendations.Read | 2fdc7c37-b7d9-4300-a6d6-5da03d84c5d4 | Read Monitoring Hub recommendations | Read Monitoring Hub recommendations |
 | Monitor.Timeseries.Read | 79160ee2-a36a-4f58-a086-bcf6ea5c11c9 | Read Monitoring Hub time series | Read Monitoring Hub time series |
+| PowerApps.Apps.Manage | 0f3e9c7a-8c41-4d5e-9e2b-7a6d2f4b1c93 | Manage Power Apps | a |
 | PowerApps.Apps.Play | 5991ee89-0511-4700-b3be-d42ef2e7d61d | Play Power Apps | Allows playing Power Apps |
 | PowerApps.Apps.Read | 5322d31f-39c1-4756-9c92-ae069c366b70 | Read Power App | Allows reading Power Apps |
 | PowerAutomate.Flows.Read | ed141b5c-775b-4ab0-9b28-31191f7d3bf5 | Read Power Automate Flows | Allows reading Power Automate Flows |
