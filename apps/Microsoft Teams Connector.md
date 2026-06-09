@@ -45,6 +45,7 @@ Your application needs to access the API as the signed-in user.
 | Message.KeywordMention.Trigger | 84476847-b0f5-4c86-89e4-7cef3d31d035 | Trigger on keyword mention in a chat or channel | Grants access to trigger on keyword mention in a chat or channel |
 | Message.NewMessage.Trigger | 58b7a485-aa1a-40aa-826f-fcd7ac5fd45a | Trigger on new message posted in a chat or channel | Grants access to trigger on new message posted in a chat or channel |
 | Message.Reaction.Trigger | f85e9eaf-1944-429a-9b1b-24d3813c86da | Trigger on message reaction in a chat or channel | Grants access to trigger on message reaction in a chat or channel |
+| OnlineMeetingTranscript.Read.All | 30b87d18-ebb1-45db-97f8-82ccb1f0190c | Read all online meeting transcripts | Grants access to read all online meeting transcripts |
 | Operations.Execute.All | 5178f737-d112-46c5-9b5c-a0d1e23b5ab0 | Execute all operations of Teams connector | Grants access to execute all operations of Teams connector |
 | Team.AssociatedTeams.List | 93d737de-3e2c-4780-95bd-b0cee612ef59 | List teams you are a direct member of or have shared channel membership in | Grants access to list teams you are a direct member of or have shared channel membership in |
 | Team.Create | 308112dc-6665-424f-b854-3c82a5a123c3 | Creates a new team in Microsoft Teams | Grants access to creates a new team in Microsoft Teams |
@@ -62,5 +63,7 @@ Your application needs to access the API as the signed-in user.
 | TeamMember.DirectMembers.List | 97aabd3b-66b3-4bd7-a618-fe951117a1d4 | List direct members of a group chat or channel | Grants access to list direct members of a group chat or channel |
 | TeamMember.Remove.Trigger | da898be8-5809-48b5-bc17-1545d3000889 | Triggers when a member is removed from the specified team | Grants access to triggers when a member is removed from the specified team |
 | Teams.HttpRequest.Invoke | 98943ed3-e44b-4bc8-a06b-3a2f410d48c9 | Construct a Microsoft Graph REST API request to invoke against the Microsoft Teams endpoints | Grants access to construct a Microsoft Graph REST API request to invoke against the Microsoft Teams endpoints |
+| TeamworkTag.Read | 57587d0b-8399-45be-b207-8050cec54575 | Read tags in a team | Grants access to read tags in a team |
+| TeamworkTag.ReadWrite | 539dabd7-b5b6-4117-b164-d60cd15a8671 | Read and write tags in a team | Grants access to read and write tags in a team |
 | User.MentionToken.Create | 6bf681fc-735e-46f6-be5a-df1059192839 | Create @mention token for a user | Grants access to create @mention token for a user |
 
