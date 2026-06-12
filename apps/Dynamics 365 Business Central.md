@@ -1,5 +1,6 @@
 # Dynamics 365 Business Central
 ## Service Principal Names
+- https://mcp.businesscentral.dynamics.com/
 - https://mcp.businesscentral.dynamics.com
 - https://gevis-erp.mcp.bc.dynamics.com
 - https://prodware-scm.mcp.bc.dynamics.com

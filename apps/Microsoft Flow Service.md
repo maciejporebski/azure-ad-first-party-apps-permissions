@@ -21,6 +21,7 @@ Your application needs to access the API as the signed-in user.
 | Activity.Read.All | 822a9cde-503a-472d-a530-d1dc9cd0d52b | Allow the application to read activities | Allow the application to read activities |
 | Approvals.Manage.All | d05743e4-fb24-4dff-8a33-0f6c73c964bd | Allow the application to manage approvals | Allow the application to manage approvals |
 | Approvals.Read.All | e9cbd5de-0031-493e-8fb1-60712d03cc8b | Allow the application to read approvals | Allow the application to read approvals |
+| Flows.Install | 561fec17-2fca-4137-9017-13a131fd77e5 | Install and run accessible flows | Allow the application to set up (install) and run flows the signed-in user already has access to, on their behalf. Does not allow creating or modifying flow definitions. |
 | Flows.Manage.All | 30b2d850-00c3-4802-b7ae-ece9af9de5c6 | Allow the application to manage flows | Allow the application to create and edit flows |
 | Flows.Read.All | e45c5562-459d-4d1b-8148-83eb1b6dcf83 | Allow the application to read flows | Allow the application to read flows |
 | Flows.Read.Plans | 0b575251-2c95-46df-bc75-c8c43e6b7116 | Allow the application read only permission for flow | Allow the application read only permission for flow |
