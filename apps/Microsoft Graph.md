@@ -517,6 +517,7 @@ Your application runs as a background service or daemon without a signed-in user
 | SearchConfiguration.ReadWrite.All | 0e778b85-fefa-466d-9eec-750569d92122 | Read and write your organization's search configuration | Allows the app to read and write search configurations, without a signed-in user. |
 | SecurityActions.Read.All | 5e0edab9-c148-49d0-b423-ac253e121825 | Read your organization's security actions | Allows the app to read security actions, without a signed-in user. |
 | SecurityActions.ReadWrite.All | f2bf083f-0179-402a-bedb-b2784de8a49b | Read and update your organization's security actions | Allows the app to read or update security actions, without a signed-in user. |
+| SecurityAlert.Create.All | 06870c4c-7370-4a2a-ad10-239a337af816 | Create security alerts | Allows the app to create security alerts, without a signed-in user. |
 | SecurityAlert.Read.All | 472e4a4d-bb4a-4026-98d1-0b0d74cb74a5 | Read all security alerts | Allows the app to read all security alerts, without a signed-in user. |
 | SecurityAlert.ReadWrite.All | ed4fca05-be46-441f-9803-1873825f8fdb | Read and write to all security alerts | Allows the app to read and write to all security alerts, without a signed-in user. |
 | SecurityAnalyzedMessage.Read.All | b48f7ac2-044d-4281-b02f-75db744d6f5f | Read metadata and detection details for all emails in your organization | Read email metadata and security detection details, without a signed-in user.   |
@@ -1261,6 +1262,7 @@ Your application needs to access the API as the signed-in user.
 | SearchConfiguration.ReadWrite.All | b1a7d408-cab0-47d2-a2a5-a74a3733600d | Read and write your organization's search configuration | Allows the app to read and write search configuration, on behalf of the signed-in user. |
 | SecurityActions.Read.All | 1638cddf-07a4-4de2-8645-69c96cacad73 | Read your organization's security actions | Allows the app to read security actions, on behalf of the signed-in user. |
 | SecurityActions.ReadWrite.All | dc38509c-b87d-4da0-bd92-6bec988bac4a | Read and update your organization's security actions | Allows the app to read or update security actions, on behalf of the signed-in user. |
+| SecurityAlert.Create.All | 7417b8c6-a088-4c4c-99c7-bca9ab3eb9ba | Create security alerts | Allows the app to create security alerts, on behalf of the signed-in user. |
 | SecurityAlert.Read.All | bc257fb8-46b4-4b15-8713-01e91bfbe4ea | Read all security alerts | Allows the app to read all security alerts, on behalf of the signed-in user. |
 | SecurityAlert.ReadWrite.All | 471f2a7f-2a42-4d45-a2bf-594d0838070d | Read and write to all security alerts | Allows the app to read and write to all security alerts, on behalf of the signed-in user. |
 | SecurityAnalyzedMessage.Read.All | 53e6783e-b127-4a35-ab3a-6a52d80a9077 | Read metadata and detection details for emails in your organization | Read email metadata and security detection details on behalf of the signed in user. |

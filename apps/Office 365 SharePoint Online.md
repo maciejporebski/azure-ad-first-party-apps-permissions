@@ -17,6 +17,7 @@ Your application runs as a background service or daemon without a signed-in user
 |---|---|---|---|
 | Migration.Read.All | b7155856-e8b7-4ba1-bf43-8c9912353676 | Read access to migration data on the SharePoint admin site | Allows the app to read migration data via the SharePoint admin site without a signed-in user. |
 | Migration.ReadWrite.All | dfe5a59c-77fe-436b-9a47-375a284cf302 | Read and write access to migration data on the SharePoint admin site | Allows the app to read and write migration data via the SharePoint admin site without a signed-in user. |
+| OneDrive.Provision.All | 7689db6e-2939-41b4-98b7-13c05a52bcd6 | Provision OneDrive for Business drives without a signed-in user. | Allow the application to provision OneDrive for Business drives for users in the tenant, without a signed-in user. |
 | SharePointCrossTenantMigration.Manage.All | 806d1b36-e37b-4f02-9c9e-a1269982b2aa | Read, write and manage Cross-Tenant migration settings and tasks | Read, write and manage Cross-Tenant migration settings and tasks, without a signed-in user |
 | SharePointCrossTenantMigration.Read.All | 8cfb5122-1118-41e2-b9f2-8ab21a06c030 | Read Cross-Tenant migration settings and tasks | Read Cross-Tenant migration settings and tasks, without a signed-in user |
 | Sites.FullControl.All | 678536fe-1083-478a-9c59-b99265e6b0d3 | Have full control of all site collections | Allows the app to have full control of all site collections without a signed in user. |
