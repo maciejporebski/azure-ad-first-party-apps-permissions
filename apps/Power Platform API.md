@@ -75,6 +75,7 @@ Your application needs to access the API as the signed-in user.
 | Licensing.BillingPolicies.ReadWrite | 25223ba4-e810-4f08-9803-cde4b2057a13 | Read and Write Billing Policies | Read and Write Billing Policies |
 | Licensing.IsvContracts.Read | 9dafb9c1-c236-48b1-b142-20dcaab58675 | Read ISV Contracts | Allows reading ISV contracts |
 | Licensing.IsvContracts.ReadWrite | 61bfce59-bddc-493f-b20c-32af5e904b83 | Read and Write ISV Contracts | Allows reading and writing ISV contracts |
+| ManagedApps.ReadWrite.All | f7ace9b9-d5ac-4cb2-8c3e-09bf79699258 | ManagedApps.ReadWrite.All | Allows the app to read and write managed apps on behalf of the signed-in user. |
 | Monitor.Alerts.Delete | b3c865f8-609d-4b74-9ff5-58a9c1d6f947 | Delete Monitoring Hub alerts | Delete Monitoring Hub alerts |
 | Monitor.Alerts.Read | 460bc9cc-f53a-457d-bcb5-3147b422ce96 | Read Monitoring Hub alerts | Read Monitoring Hub alerts |
 | Monitor.Alerts.Write | 3ae218b3-5371-48c6-abbf-c05ccd366293 | Write Monitoring Hub alerts | Write Monitoring Hub alerts |
