@@ -25,6 +25,7 @@ Your application runs as a background service or daemon without a signed-in user
 | PartnerOffboardingManager | 54bff1ce-0f2d-4eb3-a2f0-49d67447a80e | PartnerOffboardingManager | Partner Offboarding Manager |
 | ProjectReader | 88c2cc2d-c66c-4343-83ae-31fd6fd413b6 | ProjectReader | Project Reader |
 | RefreshManager | 73ba0d8a-0f84-44f8-9857-fb364934f4db | RefreshManager | Refresh Manager |
+| RemPolicyManager | 03830c81-7471-499e-a514-e86f71829003 | RemPolicyManager | Rem Policy Manager |
 | SubscriptionMigrator | 9edf2859-df6b-4ef5-ab1b-fd2837e2f7f7 | SubscriptionMigrator | Subscription Migrator |
 
 ## Delegated Permissions
