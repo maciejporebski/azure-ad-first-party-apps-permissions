@@ -22,6 +22,8 @@ Your application runs as a background service or daemon without a signed-in user
 | AdminAppCatalog.Read.All | 4f217d7c-5ea7-4dde-a269-9025b80f2cd5 | Read user app assignment | This allows reading user app assignments. |
 | Region.Read.All | 0d9ce864-39e5-424f-8556-b68ce5dac482 | Read user region | Allows the app to read the region for all users in your organization. |
 | Region.ReadWrite.All | 3ed42bc3-d6ed-4cf4-9531-d521e361223e | Read or write user region | Allows the app to read or write the region for all users in your organization. |
+| Team.ReadWrite.All | 400ef46e-3c0a-45d4-bb3d-4eb2d94f832a | Read and write Teams team data | Read and write Teams team data for team lifecycle (OnTeamUpdated, OnTeamSoftDeleted, OnTeamSoftUndeleted). |
+| TeamMember.ReadWrite.All | eb12f503-edcc-4d03-93d7-3462546aeace | Read and write Teams team member data | Read and write Teams team member data for member lifecycle (onMembersRemoved, onOwnersRemoved). |
 | user_impersonation | fd7bf697-168c-45be-b7ba-e94b3529deff | Have full access to the Skype Teams Service | Allow the application full access to the Skype Teams Service on behalf of the signed-in user |
 | User.Read.All | 91d6f071-cbcb-48b9-baba-557f0f1f46bc | Read all users' full profiles | Allows the app to read user profiles without a signed in user. |
 | UserLicense.Read.All | b8a8280c-fe24-4c24-8b5a-74e833c2c018 | Read user license details | Allows the app to read the user license details for all users in your organization. |
