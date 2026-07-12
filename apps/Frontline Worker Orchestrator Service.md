@@ -14,6 +14,7 @@ Your application runs as a background service or daemon without a signed-in user
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| chronoscallback.write | ada14707-1a3c-4fc5-9bb8-aed4b2b95250 | Chronos Callback Write | Allows Chronos to invoke callback endpoints. |
 | DtasGroup.ReadWrite.All | 372686f0-6494-4ca7-a0b5-253958e807a8 | Read and write all group information | Allows the app to read and update group information in your organization. |
 
 ## Delegated Permissions
