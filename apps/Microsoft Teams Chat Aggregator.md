@@ -34,6 +34,7 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Agent.Service.All | 64626988-0bf7-4404-9c5e-2e942162210c | Have access to CSA Service | Allow application CSA Service behavior |
 | announcements.read.all | f06d0c46-34d8-4358-9782-36a2e777c812 | Read all announcements | Allow the app to read all announcements messages for the requesting user. |
 | channelmessage.read.all | 8762e452-5668-459a-b06a-b8f7c8469dd2 | Read channel messages | Allows an application to read the messages in a channel |
 | filteredhierarchy.read.all | 9125c627-3755-4ad3-8742-4d6b193c4fc2 | Read all filtered hierarchy | Allow reading of all filtered hierarchy |
