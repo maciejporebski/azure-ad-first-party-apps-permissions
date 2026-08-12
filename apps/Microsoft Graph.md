@@ -359,7 +359,7 @@ Your application runs as a background service or daemon without a signed-in user
 | MailboxFolder.Read.All | 99280d24-a782-4793-93cc-0888549957f6 | Read all the users' mailbox folders | Allows the app to read all the users' mailbox folders, without signed-in user. |
 | MailboxFolder.ReadWrite.All | fef87b92-8391-4589-9da7-eb93dab7dc8a | Read and write all the users' mailbox folders | Allows the app to read and write all the users' mailbox folders, without signed-in user. |
 | MailboxItem.Export.All | 937550e9-33a3-494b-88ae-d9cd394b1fbb | Export all the users' mailbox items | Allows the app to export all the users' mailbox items, without signed-in user. |
-| MailboxItem.ImportExport.All | 76577085-e73d-4f1d-b26a-85fb33892327 | Allows the app to perform backup and restore for all mailbox items | Allows the app to backup, restore, and modify all mailbox items without a signed-in user. |
+| MailboxItem.ImportExport.All | 76577085-e73d-4f1d-b26a-85fb33892327 | Export and import all the users' mailbox items | Allows the app to export and import all the users' mailbox items, without signed-in user. |
 | MailboxItem.Read.All | 7d9f353d-a7bd-4fbb-822a-26d5dd39a3ce | Read all the users' mailbox items | Allows the app to read all the users' mailbox items, without signed-in user. |
 | MailboxItem.ReadWrite.All | 1583d471-fede-4e7c-b062-57e9d60cfb49 | Read and write all users' mailbox items | Allows the app to read, write, and delete all users' mailbox items, without a signed-in user. |
 | MailboxSettings.Read | 40f97065-369a-49f4-947c-6a255697ae91 | Read all user mailbox settings | Allows the app to read user's mailbox settings without a signed-in user. Does not include permission to send mail. |
@@ -1095,7 +1095,7 @@ Your application needs to access the API as the signed-in user.
 | MailboxFolder.Read | 52dc2051-4958-4636-8f2a-281d39c6981c | Read a user's mailbox folders | Allows the app to read the user's mailbox folders, on behalf of the signed-in user. |
 | MailboxFolder.ReadWrite | 077fde41-7e0b-4c5b-bcd1-e9d743a30c80 | Read and write a user's mailbox folders | Allows the app to read and write the user's mailbox folders, on behalf of the signed-in user. |
 | MailboxItem.Export | 58d3e7fa-3ce9-4a0c-9baa-0971f64709d9 | Export a user's mailbox items | Allows the app to export the user's mailbox items, on behalf of the the signed-in user. |
-| MailboxItem.ImportExport | df96e8a0-f4e1-4ecf-8d83-a429f822cbd6 | Allows the app to perform backup and restore of mailbox items | Allows the app to backup, restore, and modify mailbox items on behalf of the signed-in user. |
+| MailboxItem.ImportExport | df96e8a0-f4e1-4ecf-8d83-a429f822cbd6 | Export and import a user's mailbox items | Allows the app to export and import the user's mailbox items, on behalf of the the signed-in user. |
 | MailboxItem.Read | 82305458-296d-4edd-8b0b-74dd74c34526 | Read a user's mailbox items | Allows the app to read the user's mailbox items, on behalf of the signed-in user. |
 | MailboxItem.ReadWrite | ec1ade38-5268-4bc8-87fa-b230e42f7a88 | Read and write your mailbox items | Allows the app to read, write, and delete the user's mailbox items, on behalf of the signed-in user. |
 | MailboxSettings.Read | 87f447af-9fa4-4c32-9dfa-4a57a73d18ce | Read user mailbox settings | Allows the app to the read user's mailbox settings. Does not include permission to send mail. |
