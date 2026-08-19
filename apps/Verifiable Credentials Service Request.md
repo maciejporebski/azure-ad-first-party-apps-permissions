@@ -22,4 +22,5 @@ Your application needs to access the API as the signed-in user.
 |---|---|---|---|
 | VerifiableCredential.Create.IssueRequest | 0165bd66-5f36-41ef-abde-4e8fc0c91294 | VerifiableCredential.Create.IssueRequest | This allows the application to create Verifiable Credential issuance requests |
 | VerifiableCredential.Create.IssueRequest.User | b5aaa6fb-8c09-4929-877c-9147695b78b8 | User Issuance | Allows user to create Verifiable Credential issuance requests. |
+| VerifiedId.MyAccountEligibility.Read | 438013ce-a6ed-4686-9a80-778b7d82e8ce | Read MyAccount Verified ID eligibility | Allows the application to read and check MyAccount Verified ID eligibility on behalf of the signed-in user. |
 
