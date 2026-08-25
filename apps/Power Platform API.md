@@ -92,4 +92,6 @@ Your application needs to access the API as the signed-in user.
 | PowerPages.Websites.Write | a3416731-8382-4b45-822e-2e44897dc3c1 | Write Power Pages Websites | Allows writing Power Pages websites |
 | ResourceQuery.Resources.Read | 3dbf08db-e1e0-46a9-b49b-294340f711b3 | Query Resources | Allows querying of resources |
 | Security.Recommendations.Read | 61e3824b-f4d0-4998-95f3-bc021fa3198d | Read Power Platform Security Information | Reads Power Platform security recommendations |
+| TenantManagement.Settings.Read | 10096f91-1e6d-4cb8-98f4-5a547b603116 | Read Tenant Settings | Allows reading of Tenant Settings |
+| TenantManagement.Tenants.Read | c3b6abab-9a9c-42d0-8e3d-f0821ca872d3 | Read Tenants | Allows reading of Tenants |
 
