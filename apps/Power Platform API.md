@@ -79,8 +79,6 @@ Your application needs to access the API as the signed-in user.
 | Monitor.Alerts.Delete | b3c865f8-609d-4b74-9ff5-58a9c1d6f947 | Delete Monitoring Hub alerts | Delete Monitoring Hub alerts |
 | Monitor.Alerts.Read | 460bc9cc-f53a-457d-bcb5-3147b422ce96 | Read Monitoring Hub alerts | Read Monitoring Hub alerts |
 | Monitor.Alerts.Write | 3ae218b3-5371-48c6-abbf-c05ccd366293 | Write Monitoring Hub alerts | Write Monitoring Hub alerts |
-| Monitor.Metrics.Read | cfd74ec9-960f-472e-b0cd-e43471704014 | Read Monitoring Hub metrics | Read Monitoring Hub metrics |
-| Monitor.Metrics.Write | 9dda70db-7be6-4bc1-88ff-898b5bdd44eb | Write Monitoring Hub metrics | Write Monitoring Hub metrics |
 | Monitor.Recommendations.Read | 2fdc7c37-b7d9-4300-a6d6-5da03d84c5d4 | Read Monitoring Hub recommendations | Read Monitoring Hub recommendations |
 | Monitor.Timeseries.Read | 79160ee2-a36a-4f58-a086-bcf6ea5c11c9 | Read Monitoring Hub time series | Read Monitoring Hub time series |
 | PowerApps.Apps.Manage | 0f3e9c7a-8c41-4d5e-9e2b-7a6d2f4b1c93 | Manage Power Apps | a |
