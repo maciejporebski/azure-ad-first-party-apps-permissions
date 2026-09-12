@@ -43,5 +43,6 @@ Your application needs to access the API as the signed-in user.
 | ExternalItem.Read.OwnedBy | 7dd8483d-ffd6-4c0c-a2be-88d3aea446d8 | ExternalItem.Read.OwnedBy | Allows the app to read external items on behalf of a signed-in user. The signed-in user must be an administrator. The app can only read items of the connection that it is authorized to. |
 | ExternalItem.ReadWrite.All | 565c16dd-b86f-4528-9d73-af8687391f02 | ExternalItem.ReadWrite.All | Allows the app to read and write all external items on behalf of a signed-in user. The signed-in user must be an administrator. |
 | ExternalItem.ReadWrite.OwnedBy | 13d477ed-f4cf-4cc0-9678-80517234742e | ExternalItem.ReadWrite.OwnedBy | Allows the app to read and write external items on behalf of a signed-in user. The signed-in user must be an administrator. The app can only read external items of the connection that it is authorized to. |
+| McpTools.Execute | 4f1e0c5f-7d24-4c8e-9a7b-3c2d1e0f5a61 | Execute Copilot connector MCP tools as the signed-in user | Allows the app to discover and execute Copilot connector MCP tools on behalf of the signed-in user. |
 | WebhookData.Read.All | a3028c9a-803b-47f3-be20-0f9a6c25a813 | Read webhook connection details | Allow the app to read webhook connection details, on behalf of the signed-in user. |
 
