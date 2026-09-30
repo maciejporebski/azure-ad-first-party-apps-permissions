@@ -1,5 +1,7 @@
 # Work IQ
 ## Service Principal Names
+- api://auth-b8f9c9d3-422f-48b5-ba02-58f0ea81d4ba/fdcc1f02-fc51-4226-8753-f668596af7f7
+- api://auth-a6e3e36a-6140-4e92-a514-9b2932194619/fdcc1f02-fc51-4226-8753-f668596af7f7
 - api://workiq.svc.cloud.microsoft
 - https://workiq.svc.cloud.microsoft/mcp
 - https://ppe.workiq.svc.cloud.dev.microsoft/mcp

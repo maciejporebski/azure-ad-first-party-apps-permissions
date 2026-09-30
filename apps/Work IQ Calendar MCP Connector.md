@@ -1,4 +1,4 @@
-# PowerPlatform-a365outlookcalendarmcp-Connector
+# Work IQ Calendar MCP Connector
 ## Service Principal Names
 - 02f0a7dc-fd55-4624-8d1b-0b15d2536e64
 

@@ -1,5 +1,8 @@
 # Graph Connector Service
 ## Service Principal Names
+- api://auth-0383954b-7cd5-4060-91d4-28d54e178507/56c1da01-2129-48f7-9355-af6d59d42766
+- api://auth-736f08c2-1c87-407c-9460-ee99e1b06899/56c1da01-2129-48f7-9355-af6d59d42766
+- api://auth-ea8edc07-a83f-4fec-8b0e-02e1545231a7/56c1da01-2129-48f7-9355-af6d59d42766
 - https://copilot-connectors.core.microsoft
 - https://gcs.office.com
 - 56c1da01-2129-48f7-9355-af6d59d42766

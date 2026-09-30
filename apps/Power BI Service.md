@@ -1,5 +1,14 @@
 # Power BI Service
 ## Service Principal Names
+- https://analysis.windows.net/powerbi/connector/AmazonS3
+- https://analysis.windows.net/powerbi/connector/AmazonAthena
+- https://analysis.windows.net/powerbi/connector/AmazonRedshift
+- https://analysis.windows.net/powerbi/connector/DenodoForPowerBI
+- https://analysis.windows.net/powerbi/connector/Dremio
+- https://analysis.windows.net/powerbi/connector/GoogleBigQuery
+- https://analysis.windows.net/powerbi/connector/MirroredGoogleLakehouseRuntimeCatalog
+- https://analysis.windows.net/powerbi/connector/Oracle
+- https://analysis.windows.net/powerbi/connector/Snowflake
 - https://dailyapi.fabric.microsoft.com
 - https://dailyapi.fabric.microsoft.com/
 - https://dxtapi.fabric.microsoft.com
