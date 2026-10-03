@@ -113,6 +113,7 @@
 | [Messaging Bot API Application](<apps/Messaging Bot API Application.md>) | 5a807f24-c9de-44ee-a3a7-329e88a00ffc<br>https://botapi.skype.com |
 | [Microsoft 365 App Catalog Services](<apps/Microsoft 365 App Catalog Services.md>) | e8be65d6-d430-4289-a665-51bf2a194bda<br>https://titles.msit.mos.microsoft.com<br>https://titles.prod.mos.microsoft.com<br>https://titles.msitprv.mos.microsoft.com |
 | [Microsoft Alchemy Service](<apps/Microsoft Alchemy Service.md>) | https://alchemy.officeppe.net<br>https://alchemy.office.net<br>https://alchemy.microsoft.com<br>api://91ad134d-5284-4adc-a896-d7fd24e9fa15<br>91ad134d-5284-4adc-a896-d7fd24e9fa15<br>https://m365.alchemy.microsoft.com<br>api://auth-6d96a743-931f-4618-ac8b-e6ee5d77cb60/91ad134d-5284-4adc-a896-d7fd24e9fa15 |
+| [Microsoft Azure AD Identity Protection](<apps/Microsoft Azure AD Identity Protection.md>) | https://ipcapi-us.azure.com/<br>https://ipcapi-eu.azure.com<br>a3dfc3c6-2c7d-4f42-aeec-b2877f9bce97 |
 | [Microsoft Azure App Service](<apps/Microsoft Azure App Service.md>) | https://appservice.azure.com<br>abfa0a7c-a6b6-4736-8310-5855508787cd |
 | [Microsoft Azure Signup Portal](<apps/Microsoft Azure Signup Portal.md>) | https://signup.azure.com/<br>https://signup.azure.com<br>8e0e8db5-b713-4e91-98e6-470fed0aa4c2 |
 | [Microsoft Azure Stream Analytics](<apps/Microsoft Azure Stream Analytics.md>) | https://streamanalytics.microsoft.com<br>66f1e791-7bfb-4e18-aed8-1720056421c7 |
