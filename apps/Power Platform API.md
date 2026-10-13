@@ -38,8 +38,10 @@ Your application needs to access the API as the signed-in user.
 | Analytics.AdvisorRecommendations.Read | 8182d205-de75-4f96-b3d6-72c9b6bf6752 | Analytics.AdvisorRecommendations.Read | Allows users to read advisor recommendations |
 | AppManagement.ApplicationPackages.Install | 3f4998a4-cbb8-4e1e-9ea0-fd7fc110bb74 | Install Application Packages | Allows installing application packages |
 | AppManagement.ApplicationPackages.Read | adef0bc0-3a5b-457a-834c-cabd82f0a6d2 | Read Application Packages | Allows reading application packages |
+| Authorization.Read | 08e47360-b440-41aa-b5e9-77a2e49d5c25 | Read Power Platform authorization data and check access | Allows the app to read Power Platform authorization data and check access on behalf of the signed-in user. Granular role-based permissions still apply. |
 | Authorization.RoleAssignments.Read | 5333e2d9-371f-42d6-9212-516921242dfc | Power Platform role assignment reader | Allows reading Power Platform role assignments |
 | Authorization.RoleAssignments.Write | a53c8130-3c33-407c-a1ba-ec806fdc55ca | Power Platform role assignment writer | Allows assigning Power Platform role assignments |
+| Authorization.Write | 440ac968-99d1-42fa-81e4-55ace19d0e53 | Manage Power Platform authorization data | Allows the app to manage Power Platform authorization data on behalf of the signed-in user. Granular role-based permissions still apply. |
 | Connectivity.Connections.Read | d0ac573f-48ce-4693-88c1-8fa719eb8b45 | Read Connections | Allows reading connections |
 | Connectivity.Connections.UserConsent | f0d8fd94-fdad-465b-b174-c37a1470196b | User Consent for Connections | Allows user consent for connections |
 | Connectivity.Connections.Write | 5d973cb3-b843-4baf-bc35-646ccb9181ce | Write Connections | Allows writing connections |
@@ -47,6 +49,7 @@ Your application needs to access the API as the signed-in user.
 | CopilotFlows.ChatAssistant.Execute | d2054574-cb6b-4b74-ad3d-d06f6c8d0383 | Call Cloud Flows chat assistant | Allows calling cloud flows chat assistant |
 | CopilotFlows.CloudFlows.ChatAssistant | e778d2c8-0f7b-400e-9d3a-e01302c74df2 | Cloud Flows chat assistant | Allows cloud flows chat assistant |
 | CopilotFlows.Workflows.Generate | ba6e4710-48ac-4b4a-9da7-325950482daa | Generate Copilot Flow Suggestion | Allows generating copilot flow suggestions |
+| CopilotFlows.Workflows.Write | 30c59230-f675-4deb-8bcc-1c0d54209f6b | Create and update Copilot workflows | Allows the app to create and update Copilot workflows on behalf of the signed-in user. |
 | CopilotGovernance.Features.Execute | 069b4877-263f-4b4c-a5c7-4fc7de45fac3 | Perform actions related to copilot governance features | Performs copilot governance actions |
 | CopilotGovernance.Features.Read | 93dac405-2d29-4899-96d9-7f77819e1824 | Read copilot governance features | Permission required to read copilot governance features |
 | CopilotGovernance.Settings.Read | 62adcede-f1ae-492e-aed4-4788f68ae7a7 | Read copilot governance settings | Permission required to read copilot governance settings |
@@ -65,8 +68,10 @@ Your application needs to access the API as the signed-in user.
 | EnvironmentManagement.Environments.Read | 177690ed-85f1-41d9-8dbf-2716e60ff46a | Read Environments | Allows reading of Environments |
 | EnvironmentManagement.Groups.Read | ea0756b5-f207-46be-9de9-af5156f29187 | Read Environment Groups | Allows reading of Environment Groups |
 | EnvironmentManagement.Groups.ReadWrite | d8ed48a4-d90b-481c-b222-e9e342f38d58 | Read and Write Environment Groups | Allows reading and writing of Environment Groups |
+| EnvironmentManagement.Read | 9c43f6ef-66b3-4283-8147-92861638121c | Read Power Platform environment information | Allows the app to read Power Platform environment information on behalf of the signed-in user. Granular role-based permissions still apply. |
 | EnvironmentManagement.Settings.Read | 7107eb22-bdfb-4e2b-b5f3-8aa114795f6a | Read Environment Management Settings | Allows reading of Environment Management Settings |
 | EnvironmentManagement.Settings.ReadWrite | 7a11470a-3968-43d4-af14-8fc4e6afcec1 | Update Environment Management Settings | Allows update of Environment Management Settings |
+| EnvironmentManagement.Write | e4fe196a-1d9f-4e0f-86e3-15279def7519 | Manage Power Platform environments | Allows the app to manage Power Platform environments on behalf of the signed-in user. Granular role-based permissions still apply. |
 | Governance.CrossTenantConnectionReports.Read | d92670ac-a2e1-401e-a780-2588db417f04 | Read Cross-Tenant Connection Reports | Allows reading cross-tenant connection reports |
 | Governance.CrossTenantConnectionReports.ReadWrite | 622fcf4a-1ce8-4827-acd2-24a54bb04aaf | Read and Write Cross-Tenant Connection Reports | Allows reading and writing cross-tenant connection reports |
 | Licensing.Allocations.Read | 73cf5c38-5257-4f28-8bbb-f78acf3290a4 | Read Currency Allocations | Allows reading currency allocations |
