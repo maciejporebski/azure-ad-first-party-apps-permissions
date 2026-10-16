@@ -42,6 +42,13 @@ Your application needs to access the API as the signed-in user.
 | Authorization.RoleAssignments.Read | 5333e2d9-371f-42d6-9212-516921242dfc | Power Platform role assignment reader | Allows reading Power Platform role assignments |
 | Authorization.RoleAssignments.Write | a53c8130-3c33-407c-a1ba-ec806fdc55ca | Power Platform role assignment writer | Allows assigning Power Platform role assignments |
 | Authorization.Write | 440ac968-99d1-42fa-81e4-55ace19d0e53 | Manage Power Platform authorization data | Allows the app to manage Power Platform authorization data on behalf of the signed-in user. Granular role-based permissions still apply. |
+| Checker.Analysis.Cancel | 9916b3af-e558-4e02-b53f-2a3e59483655 | Cancel analysis related to Power Platform Checker features | a |
+| Checker.Analysis.Create | 40e5d9af-1e17-452f-afca-8e0caf7a68d1 | Perform analysis related to Power Platform Checker features | a |
+| Checker.Analysis.Read | eafc3c8d-e1e3-4c62-b707-9045522a1ea8 | Read analysis related to Power Platform Checker features | a |
+| Checker.Analysis.Upload | 91a412e2-f454-4a17-93e8-03f382eab477 | Upload artifacts for Power Platform Checker features | a |
+| Checker.Results.Delete | 748fe380-2f93-486f-9d33-86bef12327d2 | Delete results related to Power Platform Checker features | a |
+| Checker.Results.Read | f354cd89-727a-4049-96cc-d421380bdd10 | Read results related to Power Platform Checker features | a |
+| Checker.Rules.Read | 8288272d-8fd9-4fd3-9143-0bb2e2f63d96 | Read rules related to Power Platform Checker features | a |
 | Connectivity.Connections.Read | d0ac573f-48ce-4693-88c1-8fa719eb8b45 | Read Connections | Allows reading connections |
 | Connectivity.Connections.UserConsent | f0d8fd94-fdad-465b-b174-c37a1470196b | User Consent for Connections | Allows user consent for connections |
 | Connectivity.Connections.Write | 5d973cb3-b843-4baf-bc35-646ccb9181ce | Write Connections | Allows writing connections |
