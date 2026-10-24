@@ -38,6 +38,8 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| WorkIQ.Act | 54b3dd6b-e697-4e6a-8fcd-96af0b25009d | Act on Microsoft 365 data through WorkIQ | Allows the app to use WorkIQ to read and make changes to Microsoft 365 data that the signed-in user can access. |
+| WorkIQ.Read | c3c950a1-c6dc-4f63-9765-f363f1fab462 | Read Microsoft 365 data through WorkIQ | Allows the app to use WorkIQ to read Microsoft 365 data that the signed-in user can access. |
 | WorkIQAgent.Ask | 0b1715fd-f4bf-4c63-b16d-5be31f9847c2 | Ask Work IQ agents on behalf of the user | Allows the app to ask Work IQ agents questions and receive responses and to use Work IQ Tools on behalf of the signed-in user. This includes read and write access to Microsoft 365 resources that are accessible to Work IQ agents and scoped to the signed-in user. Data will flow from the app to Microsoft 365 and from Microsoft 365 to the app. |
 | WorkIQAgent.Ask.Selected | 42f2c7e0-405b-4ba5-97f4-321811533545 | Ask selected Work IQ agents on behalf of the user | Allows the app to ask Work IQ agents selected by your organization questions and receive responses and to use Work IQ Tools on behalf of the signed-in user. This includes read and write access to Microsoft 365 resources that are accessible to the selected Work IQ agents and scoped to the signed-in user. Data will flow from the app to Microsoft 365 and from Microsoft 365 to the app. |
 | WorkIQSettings.Read.All | f71d8d23-630d-4393-8028-23eb6aff9fa1 | Read Work IQ settings on behalf of the user | Allows the app to read Work IQ settings on behalf of the signed-in user. |
