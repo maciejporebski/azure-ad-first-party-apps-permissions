@@ -55,6 +55,7 @@ Your application needs to access the API as the signed-in user.
 | McpServers.D365ContactCenterAdmin.All | d83d751a-4da2-4af2-832d-6f24b8a38b9a | D365 Contact Center Admin MCP Server All | Grants access to Microsoft D365 Contact Center Admin MCP Server for all operations |
 | McpServers.D365CustomerInsights.All | b8f2d3a4-6e91-4f5b-9c2a-1d7e8a3c0f54 | D365 Customer Insights MCP Server All | Grants access to Microsoft D365 Customer Insights MCP Server for all operations |
 | McpServers.D365FnO.All | b5d8f1a3-9e2c-4a6b-8d1f-3c7e9a4b2d58 | D365 Finance & Operations MCP Server All | Grants access to Microsoft D365 Finance & Operations MCP Server for all operations |
+| McpServers.D365ITSMService.All | b394b24c-4595-4fb4-9002-e22f437712d1 | D365 ITSM Service MCP Server All | Grants access to Microsoft Dynamics 365 ITSM Service MCP Server for all operations. |
 | McpServers.D365Sales.All | 6d8f6be6-0dab-4c0f-b481-ba1d73227be5 | D365 Sales MCP Server All | Grants access to Microsoft D365 Sales MCP Server for all operations. |
 | McpServers.D365Service.All | e69104b3-1c54-40e3-8cac-ba981a24bbc8 | D365 Service MCP Server All | Grants access to Microsoft D365 Service MCP Server for all operations. |
 | McpServers.D365ServiceCMAOnboarding.All | 91a7375a-1752-41bb-a55a-b2a6d18c2b26 | D365 Service CMA Oboarding MCP Server All | Grants access to Microsoft D365 Service CMA Oboarding MCP Server for all operations |
@@ -71,6 +72,7 @@ Your application needs to access the API as the signed-in user.
 | McpServers.Icm.All | 7b9af9be-afd0-40bf-988e-dbf3cc386f8d | ICM MCP Server All | Grants access to ICM MCP Server for all operations |
 | McpServers.Knowledge.All | 798204a9-2b1d-4109-a2d6-3c641183c48c | Knowledge MCP Server All | Grants access to Knowledge MCP Server for all operations |
 | McpServers.M365Admin.All | 5db4c680-067f-482c-b68a-6c3be4088d34 | Microsoft Admin Center MCP Server | Grants access to Microsoft Admin Center MCP Server for all operations. |
+| McpServers.M365Admin.Core.All | dcedf7a3-35c9-49e1-a0ed-f4978d41c33f | Microsoft Admin Center Core MCP Server | Grants access to Microsoft Admin Center Core MCP Server for all operations. |
 | McpServers.Mail.All | be685e8e-277f-43ec-aff6-087fdca57ca3 | Mail MCP Server All | Grants access to Mail MCP Server for all operations |
 | McpServers.Management.All | 570b1e31-b6a4-4aa7-b050-4267c418aacf | Management MCP Server All | Grants access to Microsoft MCP Management Server for all operations. |
 | McpServers.Me.All | 2ce6ce0f-4701-4b11-8087-5031f87ad5b9 | Me MCP Server All | Grants access to Me MCP Server for all operations |
@@ -86,6 +88,7 @@ Your application needs to access the API as the signed-in user.
 | McpServers.SharepointLists.All | 8d00067e-ea97-437e-8eb7-9c09e2d9ceb7 | Sharepoint Lists MCP Server All | Grants access to Sharepoint Lists MCP Server for all operations |
 | McpServers.TaskPersonalization.All | aa3867b3-f53d-44e8-a3fd-add3d0230816 | Task Personalization MCP Server All | Grants access to Task Personalization MCP Server All. |
 | McpServers.Teams.All | 5efd4b9c-e459-40d4-a524-35db033b072f | Teams MCP Server All | Grants access to Teams MCP Server for all operations |
+| McpServers.Telos.All | 6fa6166c-804a-4ce3-9398-a19f233daa3a | Telos MCP Server All | Grants access to Telos MCP Server for all operations. |
 | McpServers.W365ComputerUse.All | c929749a-323d-4a4f-988f-656a457d6759 | W365 Computer Use Tools MCP Server All | Grants access for W365 Computer Use Tools |
 | McpServers.WebSearch.All | eeafec01-9533-424a-9ff6-6179b338278e | Web Search Tool MCP Server | Grants access to Microsoft Web Search MCP Server for all operations. |
 | McpServers.Word.All | 6f7b3c3c-d822-4164-b9ec-8bf520399d24 | Word MCP Server All | Grants access to Word MCP Server for all operations |
