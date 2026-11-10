@@ -18,6 +18,7 @@ Your application needs to access the API as the signed-in user.
 
 | Role | Role Id | Display Name | Description |
 |---|---|---|---|
+| Licensing.BillingPolicies.ReadWrite | 95c7f493-173a-4265-8539-11553f0a1ca3 | Licensing.BillingPolicies.ReadWrite | Allows a preauthorized application to read write and update billing policies. |
 | Licensing.Evaluation.Read | 2330eaa5-c444-4542-88ab-1787bbd617c9 | Licensing.Evaluation.Read | Allows a preauthorized application to evaluate entitlements for consumption. |
 | Licensing.SpendPolicy.ReadWrite | bc7585ca-3178-4f02-8f18-fe21cb28616a | Licensing.SpendPolicy.ReadWrite | Allows a preauthorized application to read and update Licensing spend policies for Power Platform account provisioning. |
 
