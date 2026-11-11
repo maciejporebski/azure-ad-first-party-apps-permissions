@@ -73,6 +73,7 @@ Your application needs to access the API as the signed-in user.
 | McpServers.Knowledge.All | 798204a9-2b1d-4109-a2d6-3c641183c48c | Knowledge MCP Server All | Grants access to Knowledge MCP Server for all operations |
 | McpServers.M365Admin.All | 5db4c680-067f-482c-b68a-6c3be4088d34 | Microsoft Admin Center MCP Server | Grants access to Microsoft Admin Center MCP Server for all operations. |
 | McpServers.M365Admin.Core.All | dcedf7a3-35c9-49e1-a0ed-f4978d41c33f | Microsoft Admin Center Core MCP Server | Grants access to Microsoft Admin Center Core MCP Server for all operations. |
+| McpServers.M365ESAService.All | 44fb5565-3f3a-4261-81ba-b83d2b0d9116 | M365 ESA Service MCP Server All | Grants access to Microsoft 365 Enterprise Service Agent MCP Server for all operations. |
 | McpServers.Mail.All | be685e8e-277f-43ec-aff6-087fdca57ca3 | Mail MCP Server All | Grants access to Mail MCP Server for all operations |
 | McpServers.Management.All | 570b1e31-b6a4-4aa7-b050-4267c418aacf | Management MCP Server All | Grants access to Microsoft MCP Management Server for all operations. |
 | McpServers.Me.All | 2ce6ce0f-4701-4b11-8087-5031f87ad5b9 | Me MCP Server All | Grants access to Me MCP Server for all operations |
@@ -80,6 +81,7 @@ Your application needs to access the API as the signed-in user.
 | McpServers.OneDrive.All | a52c3910-9ef5-422b-a227-9212ff38cd5e | OneDrive MCP Server All | Grants access to Microsoft OneDrive MCP Server for all operations |
 | McpServers.OneDriveSharepoint.All | 45b74cfc-7a12-4589-8d26-781de38fbfcc | OneDrive & SharePoint MCP Server All | Grants access to OneDrive & SharePoint MCP Server for all operations |
 | McpServers.Planner.All | 127adc5b-6aa1-4b75-924b-87145052e3c2 | Planner MCP Server All | Grants access to Microsoft Planner MCP Server for all operations |
+| McpServers.PowerAppsCanvasAuthoring.All | 298911dc-e665-4c12-91dc-2f6f3e16090d | McpServers.PowerAppsCanvasAuthoring.All | Grants access to PowerApps Canvas Authoring MCP Server for all operations. |
 | McpServers.PowerPoint.All | 4ad939ce-e965-4562-93da-88c7e1a66fbc | PowerPoint MCP Server All | Grants access to PowerPoint MCP Server for all operations |
 | McpServers.ProjectSophia.All | cfe27161-de82-4574-8729-a6f580cd3385 | Project Sophia MCP Server All | Grants access to Project Sophia MCP Server All. |
 | McpServers.S360Breeze.All | 1520d9cf-74f8-4427-b10c-6d3ec1540920 | Access S360 Breeze | Allow the app to access access S360 Breeze server for all operations. |
