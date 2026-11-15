@@ -271,6 +271,7 @@
 | [TeamsChatServiceApp](<apps/TeamsChatServiceApp.md>) | https://msg.teams.microsoft.com<br>4cba1704-a0c1-45ee-9d41-fe75b4ef9190 |
 | [TEST-Azure API Center](<apps/TEST-Azure API Center.md>) | a45c1cb0-6899-445e-8961-29576781c228<br>https://azure-apicenter-int.net |
 | [Universal Print](<apps/Universal Print.md>) | https://print.print.microsoft.com<br>da9b70f6-5323-4ce6-ae5c-88dcc5082966<br>https://print.print.azure.us |
+| [USXCaseManagement](<apps/USXCaseManagement.md>) | 26ec3824-24e6-4a75-a3f1-d614f5121545<br>api://26ec3824-24e6-4a75-a3f1-d614f5121545 |
 | [Verifiable Credentials Service](<apps/Verifiable Credentials Service.md>) | bb2a64ee-5d29-4b07-a491-25806dc854d3 |
 | [Verifiable Credentials Service Admin](<apps/Verifiable Credentials Service Admin.md>) | 6a8b4b39-c021-437c-b060-5a14a3fd65f3 |
 | [Verifiable Credentials Service Request](<apps/Verifiable Credentials Service Request.md>) | 3db474b9-6a0c-4840-96ac-1fceb342124f |
