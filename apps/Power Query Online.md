@@ -32,6 +32,7 @@ Your application needs to access the API as the signed-in user.
 | Dataflow.Evaluate | 355208ec-0e9f-4bf8-96a4-6d349d4823f5 | Dataflow.Evaluate | Evaluation (Refresh) of Dataflow |
 | Dataflow.Read | 28ad3777-4e07-48f5-8ecb-324389487993 | Dataflow.Read | Read operations on Dataflow |
 | Dataflow.ReadWrite | b91bb452-4b7f-43ac-98b7-fb77c1bc0cd3 | Dataflow.ReadWrite | CRUD operations on Dataflow |
+| DataSourceReferenceApi.Read | 9613bdde-1409-4acc-ae02-9ffd000d1781 | DataSourceReferenceApi.Read | Create and transform DataSourceReferences |
 | EditingSession.ReadWrite | 4b99a07e-1b47-4c8b-8775-199c5fa09a95 | EditingSession.ReadWrite | Read and edit mashups |
 | EvaluatorApi.AccessAsUser | 30626504-99be-4341-8682-c4d047f88248 | EvaluatorApi.AccessAsUser | Gives the ability to call the api evaluator route with a user token |
 | Mashup.Evaluate | 3438898e-1b63-4276-bc81-84a61abeeb2c | Mashup.Evaluate | Evaluate M queries |
