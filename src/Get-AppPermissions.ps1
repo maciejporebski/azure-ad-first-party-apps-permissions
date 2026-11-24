@@ -21,15 +21,15 @@ foreach ($principal in $firstPartyServicePrincipalsWithRoles) {
     }
     $appMarkdown += "`n ## Permissions`n- [Application Permissions](#application-permissions)`n- [Delegated Permissions](#delegated-permissions)`n`n"
     $appMarkdown += "## Application Permissions`nYour application runs as a background service or daemon without a signed-in user.`n`n"
-    $appMarkdown += "| Role | Role Id | Display Name | Description |`n|---|---|---|---|`n"
+    $appMarkdown += "| Role | Role Id | Display Name | Description | Consent Type |`n|---|---|---|---|---|`n"
     foreach ($appRole in ($principal.AppRoles | Sort-Object -Property Value)) {
-        $appMarkdown += "| $($appRole.Value) | $($appRole.Id) | $($appRole.DisplayName) | $($appRole.Description) |`n"
+        $appMarkdown += "| $($appRole.Value) | $($appRole.Id) | $($appRole.DisplayName) | $($appRole.Description) | Admin |`n"
     }
     $appMarkdown += "`n"
     $appMarkdown += "## Delegated Permissions`nYour application needs to access the API as the signed-in user. `n`n"
-    $appMarkdown += "| Role | Role Id | Display Name | Description |`n|---|---|---|---|`n"
+    $appMarkdown += "| Role | Role Id | Display Name | Description | Consent Type |`n|---|---|---|---|---|`n"
     foreach ($permissionScope in ($principal.Oauth2PermissionScopes | Sort-Object -Property Value)) {
-        $appMarkdown += "| $($permissionScope.Value) | $($permissionScope.Id) | $($permissionScope.adminConsentDisplayName) | $($permissionScope.adminConsentDescription) |`n"
+        $appMarkdown += "| $($permissionScope.Value) | $($permissionScope.Id) | $($permissionScope.adminConsentDisplayName) | $($permissionScope.adminConsentDescription) | $($permissionScope.Type) |`n"
     }
     $appMarkdown | Out-File -FilePath "apps/$($principal.DisplayName).md"
 }
