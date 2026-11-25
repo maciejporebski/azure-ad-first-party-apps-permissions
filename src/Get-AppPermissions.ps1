@@ -27,9 +27,9 @@ foreach ($principal in $firstPartyServicePrincipalsWithRoles) {
     }
     $appMarkdown += "`n"
     $appMarkdown += "## Delegated Permissions`nYour application needs to access the API as the signed-in user. `n`n"
-    $appMarkdown += "| Role | Role Id | Display Name | Description |`n|---|---|---|---|`n"
+    $appMarkdown += "| Role | Role Id | Display Name | Description | Consent Type |`n|---|---|---|---|---|`n"
     foreach ($permissionScope in ($principal.Oauth2PermissionScopes | Sort-Object -Property Value)) {
-        $appMarkdown += "| $($permissionScope.Value) | $($permissionScope.Id) | $($permissionScope.adminConsentDisplayName) | $($permissionScope.adminConsentDescription) |`n"
+        $appMarkdown += "| $($permissionScope.Value) | $($permissionScope.Id) | $($permissionScope.adminConsentDisplayName) | $($permissionScope.adminConsentDescription) | $($permissionScope.Type) |`n"
     }
     $appMarkdown | Out-File -FilePath "apps/$($principal.DisplayName).md"
 }
