@@ -21,9 +21,9 @@ foreach ($principal in $firstPartyServicePrincipalsWithRoles) {
     }
     $appMarkdown += "`n ## Permissions`n- [Application Permissions](#application-permissions)`n- [Delegated Permissions](#delegated-permissions)`n`n"
     $appMarkdown += "## Application Permissions`nYour application runs as a background service or daemon without a signed-in user.`n`n"
-    $appMarkdown += "| Role | Role Id | Display Name | Description | Consent Type |`n|---|---|---|---|---|`n"
+    $appMarkdown += "| Role | Role Id | Display Name | Description |`n|---|---|---|---|`n"
     foreach ($appRole in ($principal.AppRoles | Sort-Object -Property Value)) {
-        $appMarkdown += "| $($appRole.Value) | $($appRole.Id) | $($appRole.DisplayName) | $($appRole.Description) | Admin |`n"
+        $appMarkdown += "| $($appRole.Value) | $($appRole.Id) | $($appRole.DisplayName) | $($appRole.Description) |`n"
     }
     $appMarkdown += "`n"
     $appMarkdown += "## Delegated Permissions`nYour application needs to access the API as the signed-in user. `n`n"
