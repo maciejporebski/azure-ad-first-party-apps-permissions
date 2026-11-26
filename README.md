@@ -60,6 +60,7 @@
 | [CAP Neptune Prod CM Prod ](<apps/CAP Neptune Prod CM Prod .md>) | https://licensing.powerplatform.microsoft.com/auth<br>ab158d9a-0b5c-4cc3-bb2b-f6646581e4e4 |
 | [CCM_Pricing_PROD](<apps/CCM_Pricing_PROD.md>) | 91a53dc4-b25b-482c-8e83-8d7ac7065b17 |
 | [CloudLicensingSystem](<apps/CloudLicensingSystem.md>) | de247707-4e4a-47d6-89fd-3c632f870b34<br>https://cloudlicensing.microsoft.com |
+| [Common Data Service License Management](<apps/Common Data Service License Management.md>) | https://licensing.appsplatform.us<br>https://high.licensing.powerplatform.microsoft.us<br>https://gov.licensing.powerplatform.microsoft.us<br>https://licensing.powerplatform.microsoft.com<br>https://licensing-tip.powerplatform.microsoft.com<br>1c2909a7-6432-4263-a70d-929a3c1f9ee5<br>https://licensing-test.powerplatform.microsoft.com |
 | [ComplianceAuthServer](<apps/ComplianceAuthServer.md>) | https://substrate.office.com/ComplianceAuthServer<br>9e5d84af-8971-422f-968a-354cd675ae5b<br>https://substrate-dod.office365.us/ComplianceAuthServer<br>https://substrate.office365.us/ComplianceAuthServer |
 | [CompliancePolicy](<apps/CompliancePolicy.md>) | https://substrate.office.com/CompliancePolicy<br>644c1b11-f63f-45fa-826b-a9d2801db711<br>https://substrate.office.com/CompliancePolicySyncService |
 | [ComplianceWorkbenchApp](<apps/ComplianceWorkbenchApp.md>) | https://substrate-dod.office365.us/complianceworkbench<br>https://substrate.office365.us/complianceworkbench<br>https://substrate.office.com/complianceworkbench<br>92876b03-76a3-4da8-ad6a-0511ffdf8647 |
